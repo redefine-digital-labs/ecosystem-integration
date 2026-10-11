@@ -2,6 +2,8 @@
 
 Latest reviewed source checkpoint: [Soul repricing and coherent graph review](https://github.com/redefine-digital-labs/ecosystem-integration/tree/main/construction-checkpoints/2026-10-11-soul-repricing-review). The archive contains 8,877 verified source/evidence members, including failures. Repricing64 and passive6 pass; the coherent Maker/Market graph builds195 modules and passes64 Market tests. Legacy Core Market source ownership remains unresolved. SDK121 tests and full107-source typecheck pass, but independent recursive type-grammar counterexamples block SDK acceptance. Maker's original Pack regression remains56/57 at default budget. This checkpoint does not activate a candidate or establish full product acceptance. Historical results below retain their original scope.
 
+Fresh public downloads verified all8,877 archive members and402 SDK candidate files at the exact source commits. [Remote recovery receipt](construction-checkpoints/2026-10-11-soul-repricing-review/REMOTE_VERIFICATION.json).
+
 Date: 2026-10-11. This backup increment is verified; the full reconstruction goal remains active.
 
 | Module | Public GitHub repository | Slack channel |
