@@ -43,12 +43,21 @@
     }
   },
   "artifact_state": {
-    "repository_creation": "local_git_created; no remote or commit",
+    "repository_creation": "public_remote_created; source_checkpoint_pushed_and_verified",
     "source_migration": "pending",
     "build": "not_run",
     "runtime_acceptance": "not_run",
     "independent_deployment": "not_verified",
-    "remote_ci_execution": "not_run"
+    "remote_ci_execution": "not_run",
+    "remote_backup": {
+      "url": "https://github.com/redefine-digital-labs/ecosystem-integration",
+      "visibility": "PUBLIC",
+      "default_branch": "main",
+      "verified_source_commit": "711d71c29fd67c07dfe5d50354f8fdd1095ef132",
+      "source_checkpoint_verified": true,
+      "actions_enabled": false,
+      "scope": "Source backup; independent product/release/runtime status remains as separately recorded"
+    }
   },
   "management": {
     "functions": [
