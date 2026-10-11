@@ -1,5 +1,9 @@
 # Public ecosystem repository checkpoint
 
+Latest completed constructor/handover proposal: [source and recovery](construction-checkpoints/2026-10-11-construction-handover-candidate/README.md), [continuation](construction-checkpoints/2026-10-11-construction-handover-candidate/CURRENT.md). Archive9,371 members/SHA256 `24308f6dd44aa18e5153a691c34a83f03e4bc0d362d7e4b95683e92a96e636a7` preserves the failed exact-current baseline, final distinct proposal and5,909 individually verified compiled module members. Final original Maker40/Core1071/Native16/Custody17/kernel38 and11 intended compiler refusals pass. Combined independent review is pending; no actual source/chain activation or full acceptance is claimed.
+
+The neutral Standard checkpoint now has its [fresh public recovery receipt](construction-checkpoints/2026-10-11-neutral-standard/REMOTE_VERIFICATION.json), verifying all5,102 members and the complete remote Git tree at its recorded commit.
+
 Latest reviewed source proposal: [Neutral Standard history and source declarations](construction-checkpoints/2026-10-11-neutral-standard/README.md), [continuation](construction-checkpoints/2026-10-11-neutral-standard/CURRENT.md), [handoff](construction-checkpoints/2026-10-11-neutral-standard/HANDOFF.md). Archive5,102 members/SHA256 `0d30e8748e2759ba91094ea9eb29d2a068ba202e7c18ef539a50810be89cc6ae` preserves614 candidate source/evidence files and4,482 independent review files. Independent38 tests plus10 controls/3 external authority tests and production build pass; actual Standard remains unchanged. Consumer commitment, historical callable kernels and migration remain explicit gates.
 
 The Native/Channel v2 checkpoint has a [fresh public recovery receipt](construction-checkpoints/2026-10-11-native-channel-v2/REMOTE_VERIFICATION.json) for all6,204 member hashes/lengths/modes and the complete Git tree at its recorded commit.
