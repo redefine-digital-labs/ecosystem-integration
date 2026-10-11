@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-11T06:13:23.984975+00:00",
+  "repositories": {
+    "soul-sdk": {
+      "main_commit": "3ef75cf2d62a47a43011cacac03a513c4b87c7dc",
+      "visibility": "PUBLIC",
+      "actions_enabled": false,
+      "tree_paths_equal": true,
+      "tracked_files": 778,
+      "local_clean": true
+    },
+    "ecosystem-integration": {
+      "main_commit": "55c47175e3426dd6b69287b10df88c60867e57fa",
+      "visibility": "PUBLIC",
+      "actions_enabled": false,
+      "tree_paths_equal": true,
+      "tracked_files": 59,
+      "local_clean": true
+    }
+  },
+  "remote_archive_sha256": "2e02b0d1888a09e1c30f2f7d4ee56cd717bb62f184448f8d5786a487b75466c5",
+  "remote_archive_members_verified": 1737,
+  "remote_sdk_candidate_files_verified": 380,
+  "actual_source_installed": false,
+  "parent_goal_complete": false
+}
