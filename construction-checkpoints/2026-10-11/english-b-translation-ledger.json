@@ -1,0 +1,290 @@
+{
+  "scope": "Top-level active Markdown and Chinese human-readable module.json string leaves only; source repositories and historical evidence untouched.",
+  "handbook": "v1.0 sections 1\u20134, 9, 12; documentation-only check, no product test or authority change",
+  "files": [
+    {
+      "repository": "maker-protocol",
+      "path": "AGENTS.md",
+      "before_sha256": "3c72e856256cc6108a83f02a738b377ba6d6d04df27845d7b504e10882f3dc71",
+      "after_sha256": "e0fa77e4eb63c874620f0a3d1d374d83cabde781f7f7700198f2072738d21200",
+      "source_bytes": 1619,
+      "candidate_bytes": 2050,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "maker-protocol",
+      "path": "README.md",
+      "before_sha256": "38ca663d44e4ccb8c63c42ff41ce581add73b70f04fb6c803526fdf58641e493",
+      "after_sha256": "c5b0d164111b4e883626c1a67f5293fa20339b2140de70ff631024b81c10e17f",
+      "source_bytes": 3122,
+      "candidate_bytes": 4047,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "maker-protocol",
+      "path": "MODULE.md",
+      "before_sha256": "d0db6a2d3d810f8715e1df4cd5a1460de58e41f08519d8ab4fab01b7deb44f01",
+      "after_sha256": "fd00b3f31ff60993144ecec44fc4eaa3292b3c01c43df480915eabd4f8ba03b9",
+      "source_bytes": 2703,
+      "candidate_bytes": 3513,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "maker-protocol",
+      "path": "COMPATIBILITY.md",
+      "before_sha256": "d29cb1bf63b4a5048f2b50fec8a0bc8505d433aa88c46f4441979249d1f02264",
+      "after_sha256": "a6266764bdf3defe415c6fa77ef1e0a7c07a78133a15c5979498bfe818fda504",
+      "source_bytes": 2873,
+      "candidate_bytes": 3645,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "maker-protocol",
+      "path": "RUNBOOK.md",
+      "before_sha256": "598e6145dd8201b7228190e6aa901195a61a98d7572f9c8e0a5d2545c74f958e",
+      "after_sha256": "f1e2baa838910edc6b615a2f6b3c35ae5cfab8ee42f6cba9d376cac625db9c61",
+      "source_bytes": 2341,
+      "candidate_bytes": 3158,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "maker-protocol",
+      "path": "module.json",
+      "before_sha256": "d0a5c4559cfb469684bac6ae3af8f9d5bf82b81d2747f7bd6295fc716049846c",
+      "after_sha256": "1a16c605ef1d605759f53ba5fd1407bf7f1865b97d41c82b787f6c954e636689",
+      "source_bytes": 75963,
+      "candidate_bytes": 81303,
+      "kind": "human_readable_string_leaf_translation",
+      "translated_leaf_count": 154
+    },
+    {
+      "repository": "soul-market",
+      "path": "README.md",
+      "before_sha256": "11d6a7c43cc44c9a2f14882f6a36a9e2581b76d7d4ef2dde13f80dcc52a9d1b0",
+      "after_sha256": "8219a57abf4145c4f23e2657767487f2dac5485cc5cbda8cb278fe4e334b315f",
+      "source_bytes": 893,
+      "candidate_bytes": 1143,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "MODULE.md",
+      "before_sha256": "1133126f9541f46f572d5d4a9c5674847b08a3e7bb2da41d50c4cbc4775f3c4d",
+      "after_sha256": "a83bd8066cf2184f2f8ea2d6e44b7230c37621050f6e2f76a7f86977acace240",
+      "source_bytes": 1386,
+      "candidate_bytes": 1812,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "AGENTS.md",
+      "before_sha256": "611d94700719c984d3822cff43b3cd60112b2869b4ff3202a2bbc97a911f33d4",
+      "after_sha256": "2ca53663f2e0ba635bd67169d05caa8f1630bb7f94ed880f8c24f07bb7ca733e",
+      "source_bytes": 1620,
+      "candidate_bytes": 2051,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0",
+      "source_bytes": 1110,
+      "candidate_bytes": 1483,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410",
+      "source_bytes": 1311,
+      "candidate_bytes": 1856,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "EXTRACTION_STATUS_CN.md",
+      "before_sha256": "0f9a4b24f08b2faeab741e68995810961ba68cad1b284b1d6639e66799f6dcdb",
+      "after_sha256": "4fcaa55db8f1047f4bc8bac6ef6e4ada6c56ca3ff60e2ea786194750c0b7511e",
+      "source_bytes": 1726,
+      "candidate_bytes": 2234,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-market",
+      "path": "module.json",
+      "before_sha256": "8b6daae82cbaca54e20811cd0056429ffe62f30f597c1a16b40b46160e76b924",
+      "after_sha256": "d350c35a9ff87bb6664ecb7957ee9e2b147430f7da853ec25919d6bd5d052c0c",
+      "source_bytes": 39860,
+      "candidate_bytes": 41702,
+      "kind": "human_readable_string_leaf_translation",
+      "translated_leaf_count": 53
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "README.md",
+      "before_sha256": "1662c73ac15fd1999ab7edf0b306c7cf3e965a77a8570ac4ad67a1d7a609b72e",
+      "after_sha256": "6fe158f12ff0ba4723846b5d727287d67bce99307728cea4d11519db3faafb59",
+      "source_bytes": 891,
+      "candidate_bytes": 1121,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "MODULE.md",
+      "before_sha256": "cdef34f1da0af0fcf7bbf8942f9cd1a7157ad86b22de3778e3447508090229ed",
+      "after_sha256": "933da3978aa623cc6762399f0cc4ccc64938e39936fcfc77d3cb18079afb696f",
+      "source_bytes": 1405,
+      "candidate_bytes": 1846,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "AGENTS.md",
+      "before_sha256": "a8bfd942879d023dcd649d000ceceaf6fe9f108059bb65df912193e3b396299b",
+      "after_sha256": "43c9fec30440da5b5f4e3ead1d5493f2cd148466212c19fcf2227c261b7bdddc",
+      "source_bytes": 1629,
+      "candidate_bytes": 2060,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0",
+      "source_bytes": 1110,
+      "candidate_bytes": 1483,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410",
+      "source_bytes": 1311,
+      "candidate_bytes": 1856,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-extensions",
+      "path": "module.json",
+      "before_sha256": "f87262191d5d2f31e5ca9362469d40919071f36d1b0495630e5935a80624b39a",
+      "after_sha256": "7e3aa60e8658c701ac9c9c0714176ae155634e74521efa906a0ced8c21d03e36",
+      "source_bytes": 59878,
+      "candidate_bytes": 64948,
+      "kind": "human_readable_string_leaf_translation",
+      "translated_leaf_count": 149
+    },
+    {
+      "repository": "soul-channel",
+      "path": "README.md",
+      "before_sha256": "2aadb91943a01f8911f631b81a0781c009bf260d82418289f5015d1c3b0f2af4",
+      "after_sha256": "0018114902d084b4f63c2629001bd4fdbf5900f876c5607520f6e0a172e9b449",
+      "source_bytes": 804,
+      "candidate_bytes": 1047,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-channel",
+      "path": "MODULE.md",
+      "before_sha256": "8d80c6fe22961cd2ca79538520ccb5752cb26ee0afa0c6a765a71288b777e4fa",
+      "after_sha256": "e9f4114ae03236dc02ca92fca5fa310784871af465da8b4aabc76adf9a723463",
+      "source_bytes": 1381,
+      "candidate_bytes": 1829,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-channel",
+      "path": "AGENTS.md",
+      "before_sha256": "855e71884022f8e6cc8d87c2de0d3287c58e02773057c40ae526b68f9d0a57d0",
+      "after_sha256": "05393b2852455d07bb63f8244535db813b1b5d65167b0e73e1ceb6d6539138fe",
+      "source_bytes": 1621,
+      "candidate_bytes": 2052,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-channel",
+      "path": "COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0",
+      "source_bytes": 1110,
+      "candidate_bytes": 1483,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-channel",
+      "path": "RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410",
+      "source_bytes": 1311,
+      "candidate_bytes": 1856,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "soul-channel",
+      "path": "module.json",
+      "before_sha256": "079472459319a65d4b1ecb1e939c824a99579a4851d06ce72a033131862c84f2",
+      "after_sha256": "c0b91e239d4e45a899d536730c5a027bba00fec36be3e657eb0f8b9ab154c12d",
+      "source_bytes": 31649,
+      "candidate_bytes": 33182,
+      "kind": "human_readable_string_leaf_translation",
+      "translated_leaf_count": 46
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "README.md",
+      "before_sha256": "0aba1aa63a5d012bfded6b69f7860d1a0b87d6edf9e7d2afc236f8149b00275b",
+      "after_sha256": "6908fe0cd5231f518eeaa10cdb87e05f4ac7c080ce78a26433f7a8d201943b98",
+      "source_bytes": 813,
+      "candidate_bytes": 1053,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "MODULE.md",
+      "before_sha256": "23b5877873ea2e2da21b2447efa2f51558128a599969d40361458da1abf0b02a",
+      "after_sha256": "a3baf67826afa222fc1877915efde94f1e652cbab4f68d4b54c1a31a197fcd77",
+      "source_bytes": 1322,
+      "candidate_bytes": 1769,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "AGENTS.md",
+      "before_sha256": "1c7ed7797a6c7b050be4916c32bae22bcf77765370c20e216991a86b1a9e1c89",
+      "after_sha256": "de5574bcf1b87d214e4acfc124b1fcc9707ea731165b23263d416e1fe9111777",
+      "source_bytes": 1623,
+      "candidate_bytes": 2054,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0",
+      "source_bytes": 1110,
+      "candidate_bytes": 1483,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410",
+      "source_bytes": 1311,
+      "candidate_bytes": 1856,
+      "kind": "active_markdown_translation"
+    },
+    {
+      "repository": "ecosystem-integration",
+      "path": "module.json",
+      "before_sha256": "d00c526df314d1d825d222248b283e565e28a9ff3d4bed0069cbe34446f22427",
+      "after_sha256": "4fffa875fd5e0645d6fa838fd5425d116ecfbbd9340b169a1d29848548bb7f87",
+      "source_bytes": 44933,
+      "candidate_bytes": 47968,
+      "kind": "human_readable_string_leaf_translation",
+      "translated_leaf_count": 95
+    }
+  ]
+}

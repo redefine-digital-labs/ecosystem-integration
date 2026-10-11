@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "repositories": 5,
+  "installable_files": 31,
+  "active_markdown_files": 26,
+  "module_json_files": 5,
+  "unique_json_translated_values": 97,
+  "translated_json_leaf_occurrences": 497,
+  "checks": [
+    "all source SHA hashes still match before ledger",
+    "all candidate SHA hashes match after ledger",
+    "no Han in installable candidate document content",
+    "all original Markdown link targets preserved in order",
+    "all original shell command blocks preserved exactly",
+    "all original Markdown numerical tokens preserved as multisets",
+    "JSON tree structure, keys, types, nonstring values and nonHan strings unchanged",
+    "only existing Han human-readable JSON string leaves changed"
+  ],
+  "not_performed": [
+    "source installation",
+    "source repository mutation",
+    "Git operations",
+    "remote calls",
+    "product behavior changes",
+    "historical evidence translation",
+    "product tests"
+  ],
+  "scope_note": "Original-language immutable historical evidence is retained by the source repositories. Documentation translation does not refresh current scope proof, claim installation or change recorded owners/status/permissions."
+}
