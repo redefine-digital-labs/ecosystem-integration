@@ -1,8 +1,12 @@
 # Public ecosystem repository checkpoint
 
+Latest reviewed source proposal: [Neutral Standard history and source declarations](construction-checkpoints/2026-10-11-neutral-standard/README.md), [continuation](construction-checkpoints/2026-10-11-neutral-standard/CURRENT.md), [handoff](construction-checkpoints/2026-10-11-neutral-standard/HANDOFF.md). Archive5,102 members/SHA256 `0d30e8748e2759ba91094ea9eb29d2a068ba202e7c18ef539a50810be89cc6ae` preserves614 candidate source/evidence files and4,482 independent review files. Independent38 tests plus10 controls/3 external authority tests and production build pass; actual Standard remains unchanged. Consumer commitment, historical callable kernels and migration remain explicit gates.
+
+The Native/Channel v2 checkpoint has a [fresh public recovery receipt](construction-checkpoints/2026-10-11-native-channel-v2/REMOTE_VERIFICATION.json) for all6,204 member hashes/lengths/modes and the complete Git tree at its recorded commit.
+
 Latest finished construction evidence: [Native/Core migration and Channel v2](construction-checkpoints/2026-10-11-native-channel-v2/README.md), with [current continuation](construction-checkpoints/2026-10-11-native-channel-v2/CURRENT.md) and [handoff](construction-checkpoints/2026-10-11-native-channel-v2/HANDOFF.md). Archive6,204 members/SHA256 `d53d8416b2f7660f951ee03a92e083f11eae13c6fcffd17ef024ff350a0623ba` preserves exact frozen sources and independent reviews. Native migration passes1,071 tests but activation is held for current Standard coherence and source/authority migration. Channel v2 fixes stale-source acceptance/closure through real Maker manufacturing; independent102 tests plus5 extra checks,3 production builds and10 compiler refusals pass. Both candidates remain unactivated.
 
-The new neutral Standard history/declaration proposal and its construction integration are separate, unactivated work. They are not included in this finished archive or evidence for a full release. Original157/30/1528/15 scope, Owners and roadmap remain active.
+The neutral Standard proposal is separately frozen and reviewed; its unfinished construction consumer integration remains excluded from these source checkpoints. No full release is established. Original157/30/1528/15 scope, Owners and roadmap remain active.
 
 Prior Maker/Market/Channel checkpoint [fresh public recovery receipt](construction-checkpoints/2026-10-11-maker-market-channel/REMOTE_VERIFICATION.json) verifies all3,208 members and the complete remote Git tree at its recorded commit.
 
