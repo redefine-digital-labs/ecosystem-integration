@@ -1,0 +1,16 @@
+{
+  "status": "PASS_FRESH_PUBLIC_RECOVERY",
+  "commit": "ade9c221ae9dd6ae777f47a8a4e0ea4a57d3e12a",
+  "archive_sha256": "1b109a3ff50f87f31ce9b235dadd5c6de806d2328456b47ae488d49f4f8a8b38",
+  "archive_bytes": 960744,
+  "member_count": 615,
+  "every_member_sha_and_length_equal": true,
+  "complete_git_tree_equal": true,
+  "remote_main_equal": true,
+  "local_clean": true,
+  "primary_current_unchanged": true,
+  "public": true,
+  "actions_enabled": false,
+  "verified_utc": "2026-10-11T09:12:00.107727+00:00",
+  "scope": "Actual Community owning source and first isolated publication evidence backup; remote CI, other modules and full157/30 remain active"
+}
