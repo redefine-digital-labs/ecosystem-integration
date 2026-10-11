@@ -1,0 +1,72 @@
+[
+  {
+    "repository": "soul-sdk",
+    "eligible_files": 396,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "ecosystem-devops",
+    "eligible_files": 104,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "ecosystem-integration",
+    "eligible_files": 31,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-standard",
+    "eligible_files": 26,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-content",
+    "eligible_files": 1036,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-community",
+    "eligible_files": 32,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "maker-protocol",
+    "eligible_files": 1947,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-channel",
+    "eligible_files": 17,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-market",
+    "eligible_files": 74,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  },
+  {
+    "repository": "soul-extensions",
+    "eligible_files": 88,
+    "secret_pattern_matches": 0,
+    "oversized_files": 0,
+    "symlinks": "in-repository only"
+  }
+]

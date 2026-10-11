@@ -1,0 +1,326 @@
+{
+  "files": [
+    {
+      "path": "ecosystem-devops/AGENTS.md",
+      "before_sha256": "a60adfd83cf95b2fa288833a30d8bf66a5d6c0072c428c9b2e370f1441656fbe",
+      "after_sha256": "507e38ddf610b9784ce89127767ba94844174b5cb937ad631b8fc11de2fd42dd"
+    },
+    {
+      "path": "ecosystem-devops/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "3d08b54e23ed7e03a1013b80d3ab64a5a7ae7028f14b81020fb4a32c9c0c5d67"
+    },
+    {
+      "path": "ecosystem-devops/MODULE.md",
+      "before_sha256": "fdd2fa313e291d4edf60680d0aa2378e385c03c4cdfb412f93093807ebf3752e",
+      "after_sha256": "dee8433fc22e16cb5776574cfd4376fd6cbb4cca2d7cf7be40d7600e48f13ee1"
+    },
+    {
+      "path": "ecosystem-devops/README.md",
+      "before_sha256": "3128edcad0c79ac710190c7510db79ef9a4c43ec2da27fe89c2e2206d744f81d",
+      "after_sha256": "026a3ce3b349ef70d300863f5b32054a1075616a31763adfc838f0a3532fc690"
+    },
+    {
+      "path": "ecosystem-devops/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "a7d04fffa16ee692f4f76d415cef9f3d0243827bb8482b752a8adb15902e7602"
+    },
+    {
+      "path": "soul-sdk/AGENTS.md",
+      "before_sha256": "4de7cfb64b30aa7907f44bc68c3b7f5ff81390114c7ac5a75af5854ddb6061ec",
+      "after_sha256": "6496e8d77a023b74b3d29834f82ab5d50a65979cca6d611a00b9dd3be48bb52b"
+    },
+    {
+      "path": "soul-sdk/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "3d08b54e23ed7e03a1013b80d3ab64a5a7ae7028f14b81020fb4a32c9c0c5d67"
+    },
+    {
+      "path": "soul-sdk/MODULE.md",
+      "before_sha256": "2b8a2d9083ce438ec3e0885760cd34ebd127675000e38f36d1fabdfb170d9846",
+      "after_sha256": "6239e7cec7fc73bfe39fca707b4ae3062e844f4b8b021f83afb943aa895a5468"
+    },
+    {
+      "path": "soul-sdk/README.md",
+      "before_sha256": "e9e2eae68671df1e79532bea5f320134616660d00c7a96277f03c8388f9962f1",
+      "after_sha256": "722ef856ceb530c94feb5f8a642a8ea6de952266053c72264940c909dcddee83"
+    },
+    {
+      "path": "soul-sdk/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "a7d04fffa16ee692f4f76d415cef9f3d0243827bb8482b752a8adb15902e7602"
+    },
+    {
+      "path": "soul-content/AGENTS.md",
+      "before_sha256": "464ad4668e2d55df4fa0adab31bf0e1eeaedea0b1c37e7ef120fb0d901b88252",
+      "after_sha256": "f10086abb3f1f8e81be8d29b3598dd3d086dc5016ef7c271287de93ca9628492"
+    },
+    {
+      "path": "soul-content/COMPATIBILITY.md",
+      "before_sha256": "eeae25dee0cd6a519b0cc1990f7065d238e6aa2961d9f367bae2462868353ea1",
+      "after_sha256": "1fca3e0223fc778eb41e0cd1f9aef607964f651a97b13a18c5655965e531f68c"
+    },
+    {
+      "path": "soul-content/HANDOFF.md",
+      "before_sha256": "022c352e9f2d43117c92541bd05b26d5c8397143d6ec8291a1df94bf2315dcf0",
+      "after_sha256": "022c352e9f2d43117c92541bd05b26d5c8397143d6ec8291a1df94bf2315dcf0"
+    },
+    {
+      "path": "soul-content/MODULE.md",
+      "before_sha256": "77154e39cb3dc3149cb7b4be7595dbe21189afdaffd4ba025bc099b9e7b26edf",
+      "after_sha256": "19cc0cf9be3111fa84e94e0353b5a3dc9525269ff27fb513418b72e9b4c36f91"
+    },
+    {
+      "path": "soul-content/PUBLIC_CONTRACTS_CN.md",
+      "before_sha256": "125c1a9029e8a312098bdbe196c8cd7876d675289c3c7dd7e21bda99daca0772",
+      "after_sha256": "3bfdaf2695d1d7f7857f7a114371749a21d646e5bfeaf36702ed9fcfe53c8eea"
+    },
+    {
+      "path": "soul-content/README.md",
+      "before_sha256": "e04d3d89423d80b7da5f7d48da038942c03d93abc06c2a1e809b8e7ca369487b",
+      "after_sha256": "c36e61ea837da36a88a5366ad4f1efec14e8964169b629fa6f742a4263acb100"
+    },
+    {
+      "path": "soul-content/RUNBOOK.md",
+      "before_sha256": "f374999caa69e800f0635772e1a13b7d217d7cc75dad355329a1a54b3a3cad57",
+      "after_sha256": "74f96029fb0b7871030f7cb5f2ba2705ee84841e5075a616034acfbed5763599"
+    },
+    {
+      "path": "soul-content/VERIFY_CN.md",
+      "before_sha256": "42cdcca93fe0f7a018e5bf077713a9c03fec72e090d1d662265fbb65c5b38dae",
+      "after_sha256": "cfe91445b1f238c6801bdc4082e9c74e576f17e87a7930c5408fb0a9b441e1b1"
+    },
+    {
+      "path": "soul-standard/AGENTS.md",
+      "before_sha256": "925ab81ef1b1046e27bee9636567edd224c2b72a5134c4a922091173ce1d954e",
+      "after_sha256": "f2f05e9ae1f4929b3aab7186bd047d6dd97722120f798de70bc7668663ef813c"
+    },
+    {
+      "path": "soul-standard/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "3d08b54e23ed7e03a1013b80d3ab64a5a7ae7028f14b81020fb4a32c9c0c5d67"
+    },
+    {
+      "path": "soul-standard/MODULE.md",
+      "before_sha256": "d866d10cd716727c5d7ce6e625f7698c5aab5d978e17fced51ca6fa06f22e7f1",
+      "after_sha256": "929968b32d821d1e0233d7450032de33c54cf3352698a5797a42780ac0e1ffde"
+    },
+    {
+      "path": "soul-standard/README.md",
+      "before_sha256": "21dc9a628f34a941b8bd2862033c77cd831c4337263a5e7550e00b5ea8bbf539",
+      "after_sha256": "75203eed26e1b41a115c051e480317e1d7e0c22cc80c896b54fb3e8dbfbe349b"
+    },
+    {
+      "path": "soul-standard/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "a7d04fffa16ee692f4f76d415cef9f3d0243827bb8482b752a8adb15902e7602"
+    },
+    {
+      "path": "soul-community/AGENTS.md",
+      "before_sha256": "aafb61badf15462b595b63848317c50c6ea90fcf8c5358df48835cd346797d61",
+      "after_sha256": "45ee8c51fbed14d9671ece281d816e1786aa01621f4f72fbfa36f2cc3f3c1109"
+    },
+    {
+      "path": "soul-community/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "3d08b54e23ed7e03a1013b80d3ab64a5a7ae7028f14b81020fb4a32c9c0c5d67"
+    },
+    {
+      "path": "soul-community/MODULE.md",
+      "before_sha256": "20bdce6829d10ddbeed2394bb25a3f42b9b3d01ce64a4dd4700616828d6ba8d4",
+      "after_sha256": "e712033e0475be8131909a6e3fbb038009dfea2e02e60e43a235c9d5791e4b8c"
+    },
+    {
+      "path": "soul-community/README.md",
+      "before_sha256": "6815f5f620f5879e9d1235234a2b714ed19261c4eb313ee35d936f8d36bee88a",
+      "after_sha256": "c59ba57a4563784c821a93837e3bd7206504632343e35650633bccb49f008d85"
+    },
+    {
+      "path": "soul-community/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "a7d04fffa16ee692f4f76d415cef9f3d0243827bb8482b752a8adb15902e7602"
+    },
+    {
+      "path": "ecosystem-devops/module.json",
+      "before_sha256": "2e2906582fb6520620d677ec1c0a62a888e3bad330b988e0c8b123d8ef9cbde8",
+      "after_sha256": "a809adab17e5ce73a4fa370f33dc633982303dc9f567fd66ff2118b792a30c38"
+    },
+    {
+      "path": "soul-sdk/module.json",
+      "before_sha256": "32fd80c2c62bc432b97bc2be90a0090bbbaff244871975941172032ea1247715",
+      "after_sha256": "0298a422220a4381a44a8432af79c22656e8cd062d72ca8b9ab4ab71f96698f2"
+    },
+    {
+      "path": "soul-content/module.json",
+      "before_sha256": "92f79d008f7c2c9acaae08452fb9b2b1a90ff942890b41403653ef348fd6086c",
+      "after_sha256": "4646c43a2e8ae843f9ff7803723aa07cf59921ab509af3a8c5139790ca042773"
+    },
+    {
+      "path": "soul-standard/module.json",
+      "before_sha256": "ed5de4d703945334ae5635e93783f4ed9f578c84b515a2bf95990019b7217286",
+      "after_sha256": "07310a05e5491ba25934ea49cc0c60f68310327401a296112310b65ae2b446b2"
+    },
+    {
+      "path": "soul-community/module.json",
+      "before_sha256": "a309fd18550f1e1d14aa14ee97f6ac35c7ee250493f78c7798ec8342af840274",
+      "after_sha256": "36eea076f64c9a2c7d8319eac8aa8cd4882701b406bfccd3578a819991b5048b"
+    },
+    {
+      "path": "maker-protocol/AGENTS.md",
+      "before_sha256": "3c72e856256cc6108a83f02a738b377ba6d6d04df27845d7b504e10882f3dc71",
+      "after_sha256": "e0fa77e4eb63c874620f0a3d1d374d83cabde781f7f7700198f2072738d21200"
+    },
+    {
+      "path": "maker-protocol/README.md",
+      "before_sha256": "38ca663d44e4ccb8c63c42ff41ce581add73b70f04fb6c803526fdf58641e493",
+      "after_sha256": "c5b0d164111b4e883626c1a67f5293fa20339b2140de70ff631024b81c10e17f"
+    },
+    {
+      "path": "maker-protocol/MODULE.md",
+      "before_sha256": "d0db6a2d3d810f8715e1df4cd5a1460de58e41f08519d8ab4fab01b7deb44f01",
+      "after_sha256": "fd00b3f31ff60993144ecec44fc4eaa3292b3c01c43df480915eabd4f8ba03b9"
+    },
+    {
+      "path": "maker-protocol/COMPATIBILITY.md",
+      "before_sha256": "d29cb1bf63b4a5048f2b50fec8a0bc8505d433aa88c46f4441979249d1f02264",
+      "after_sha256": "a6266764bdf3defe415c6fa77ef1e0a7c07a78133a15c5979498bfe818fda504"
+    },
+    {
+      "path": "maker-protocol/RUNBOOK.md",
+      "before_sha256": "598e6145dd8201b7228190e6aa901195a61a98d7572f9c8e0a5d2545c74f958e",
+      "after_sha256": "f1e2baa838910edc6b615a2f6b3c35ae5cfab8ee42f6cba9d376cac625db9c61"
+    },
+    {
+      "path": "maker-protocol/module.json",
+      "before_sha256": "d0a5c4559cfb469684bac6ae3af8f9d5bf82b81d2747f7bd6295fc716049846c",
+      "after_sha256": "1a16c605ef1d605759f53ba5fd1407bf7f1865b97d41c82b787f6c954e636689"
+    },
+    {
+      "path": "soul-market/README.md",
+      "before_sha256": "11d6a7c43cc44c9a2f14882f6a36a9e2581b76d7d4ef2dde13f80dcc52a9d1b0",
+      "after_sha256": "8219a57abf4145c4f23e2657767487f2dac5485cc5cbda8cb278fe4e334b315f"
+    },
+    {
+      "path": "soul-market/MODULE.md",
+      "before_sha256": "1133126f9541f46f572d5d4a9c5674847b08a3e7bb2da41d50c4cbc4775f3c4d",
+      "after_sha256": "a83bd8066cf2184f2f8ea2d6e44b7230c37621050f6e2f76a7f86977acace240"
+    },
+    {
+      "path": "soul-market/AGENTS.md",
+      "before_sha256": "611d94700719c984d3822cff43b3cd60112b2869b4ff3202a2bbc97a911f33d4",
+      "after_sha256": "2ca53663f2e0ba635bd67169d05caa8f1630bb7f94ed880f8c24f07bb7ca733e"
+    },
+    {
+      "path": "soul-market/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0"
+    },
+    {
+      "path": "soul-market/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410"
+    },
+    {
+      "path": "soul-market/EXTRACTION_STATUS_CN.md",
+      "before_sha256": "0f9a4b24f08b2faeab741e68995810961ba68cad1b284b1d6639e66799f6dcdb",
+      "after_sha256": "4fcaa55db8f1047f4bc8bac6ef6e4ada6c56ca3ff60e2ea786194750c0b7511e"
+    },
+    {
+      "path": "soul-market/module.json",
+      "before_sha256": "8b6daae82cbaca54e20811cd0056429ffe62f30f597c1a16b40b46160e76b924",
+      "after_sha256": "d350c35a9ff87bb6664ecb7957ee9e2b147430f7da853ec25919d6bd5d052c0c"
+    },
+    {
+      "path": "soul-extensions/README.md",
+      "before_sha256": "1662c73ac15fd1999ab7edf0b306c7cf3e965a77a8570ac4ad67a1d7a609b72e",
+      "after_sha256": "6fe158f12ff0ba4723846b5d727287d67bce99307728cea4d11519db3faafb59"
+    },
+    {
+      "path": "soul-extensions/MODULE.md",
+      "before_sha256": "cdef34f1da0af0fcf7bbf8942f9cd1a7157ad86b22de3778e3447508090229ed",
+      "after_sha256": "933da3978aa623cc6762399f0cc4ccc64938e39936fcfc77d3cb18079afb696f"
+    },
+    {
+      "path": "soul-extensions/AGENTS.md",
+      "before_sha256": "a8bfd942879d023dcd649d000ceceaf6fe9f108059bb65df912193e3b396299b",
+      "after_sha256": "43c9fec30440da5b5f4e3ead1d5493f2cd148466212c19fcf2227c261b7bdddc"
+    },
+    {
+      "path": "soul-extensions/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0"
+    },
+    {
+      "path": "soul-extensions/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410"
+    },
+    {
+      "path": "soul-extensions/module.json",
+      "before_sha256": "f87262191d5d2f31e5ca9362469d40919071f36d1b0495630e5935a80624b39a",
+      "after_sha256": "7e3aa60e8658c701ac9c9c0714176ae155634e74521efa906a0ced8c21d03e36"
+    },
+    {
+      "path": "soul-channel/README.md",
+      "before_sha256": "2aadb91943a01f8911f631b81a0781c009bf260d82418289f5015d1c3b0f2af4",
+      "after_sha256": "0018114902d084b4f63c2629001bd4fdbf5900f876c5607520f6e0a172e9b449"
+    },
+    {
+      "path": "soul-channel/MODULE.md",
+      "before_sha256": "8d80c6fe22961cd2ca79538520ccb5752cb26ee0afa0c6a765a71288b777e4fa",
+      "after_sha256": "e9f4114ae03236dc02ca92fca5fa310784871af465da8b4aabc76adf9a723463"
+    },
+    {
+      "path": "soul-channel/AGENTS.md",
+      "before_sha256": "855e71884022f8e6cc8d87c2de0d3287c58e02773057c40ae526b68f9d0a57d0",
+      "after_sha256": "05393b2852455d07bb63f8244535db813b1b5d65167b0e73e1ceb6d6539138fe"
+    },
+    {
+      "path": "soul-channel/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0"
+    },
+    {
+      "path": "soul-channel/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410"
+    },
+    {
+      "path": "soul-channel/module.json",
+      "before_sha256": "079472459319a65d4b1ecb1e939c824a99579a4851d06ce72a033131862c84f2",
+      "after_sha256": "c0b91e239d4e45a899d536730c5a027bba00fec36be3e657eb0f8b9ab154c12d"
+    },
+    {
+      "path": "ecosystem-integration/README.md",
+      "before_sha256": "0aba1aa63a5d012bfded6b69f7860d1a0b87d6edf9e7d2afc236f8149b00275b",
+      "after_sha256": "6908fe0cd5231f518eeaa10cdb87e05f4ac7c080ce78a26433f7a8d201943b98"
+    },
+    {
+      "path": "ecosystem-integration/MODULE.md",
+      "before_sha256": "23b5877873ea2e2da21b2447efa2f51558128a599969d40361458da1abf0b02a",
+      "after_sha256": "a3baf67826afa222fc1877915efde94f1e652cbab4f68d4b54c1a31a197fcd77"
+    },
+    {
+      "path": "ecosystem-integration/AGENTS.md",
+      "before_sha256": "1c7ed7797a6c7b050be4916c32bae22bcf77765370c20e216991a86b1a9e1c89",
+      "after_sha256": "de5574bcf1b87d214e4acfc124b1fcc9707ea731165b23263d416e1fe9111777"
+    },
+    {
+      "path": "ecosystem-integration/COMPATIBILITY.md",
+      "before_sha256": "1d817e82a7ad269a162c210da23b5759a406c7f31b35d8c7cd2668f106b5e6c7",
+      "after_sha256": "e36ea73678157a25f8317fadfeaf603ee51d8cf67744c3af6cced77448d062a0"
+    },
+    {
+      "path": "ecosystem-integration/RUNBOOK.md",
+      "before_sha256": "9b99518ab7ef7a126b33afe8710f3a85690c5fe0231d87aade2f82137e99a227",
+      "after_sha256": "db76fd79fec4821c0fc5af01e1269c2e38d3b06b6ccb7e1309bf33d93aa91410"
+    },
+    {
+      "path": "ecosystem-integration/module.json",
+      "before_sha256": "d00c526df314d1d825d222248b283e565e28a9ff3d4bed0069cbe34446f22427",
+      "after_sha256": "4fffa875fd5e0645d6fa838fd5425d116ecfbbd9340b169a1d29848548bb7f87"
+    }
+  ],
+  "count": 64,
+  "status": "PASS"
+}

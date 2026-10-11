@@ -1,0 +1,157 @@
+{
+  "authorization": "Human explicitly authorized public/open-source GitHub repositories and English materials in current turn",
+  "organization": "redefine-digital-labs",
+  "visibility": "public",
+  "repositories": [
+    {
+      "isPrivate": false,
+      "name": "soul-sdk",
+      "url": "https://github.com/redefine-digital-labs/soul-sdk",
+      "module": "SDK",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-soul-sdk",
+        "channel_id": "C0C8A2PUCLE",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2PUCLE"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "ecosystem-devops",
+      "url": "https://github.com/redefine-digital-labs/ecosystem-devops",
+      "module": "DEVOPS",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-devops",
+        "channel_id": "C0C8A2QMXCN",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2QMXCN"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "ecosystem-integration",
+      "url": "https://github.com/redefine-digital-labs/ecosystem-integration",
+      "module": "INTEGRATION",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-integration",
+        "channel_id": "C0C7WL06UH5",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C7WL06UH5"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-standard",
+      "url": "https://github.com/redefine-digital-labs/soul-standard",
+      "module": "STANDARD",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-soul-standard",
+        "channel_id": "C0C8DVCANBB",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8DVCANBB"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-content",
+      "url": "https://github.com/redefine-digital-labs/soul-content",
+      "module": "CONTENT",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-soul-content",
+        "channel_id": "C0C8DVC67GR",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8DVC67GR"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-community",
+      "url": "https://github.com/redefine-digital-labs/soul-community",
+      "module": "COMMUNITY",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-community",
+        "channel_id": "C0C85QEGHMZ",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C85QEGHMZ"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "maker-protocol",
+      "url": "https://github.com/redefine-digital-labs/maker-protocol",
+      "module": "MAKER",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-maker",
+        "channel_id": "C0C8A2Q699U",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2Q699U"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-channel",
+      "url": "https://github.com/redefine-digital-labs/soul-channel",
+      "module": "CHANNEL",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-channel",
+        "channel_id": "C0C8BS4EV8A",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8BS4EV8A"
+      }
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-market",
+      "url": "https://github.com/redefine-digital-labs/soul-market",
+      "module": "MARKET",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-market",
+        "channel_id": "C0C96CV2PRN",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C96CV2PRN"
+      }
+    },
+    {
+      "name": "soul-extensions",
+      "url": "https://github.com/redefine-digital-labs/soul-extensions",
+      "isPrivate": false,
+      "module": "EXTENSIONS",
+      "actions_enabled": false,
+      "code_pushed": false,
+      "slack": {
+        "name": "mod-extensions",
+        "channel_id": "C0C8BS4S466",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8BS4S466"
+      }
+    }
+  ]
+}
