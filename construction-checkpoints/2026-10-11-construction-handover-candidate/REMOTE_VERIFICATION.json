@@ -1,0 +1,17 @@
+{
+  "status": "PASS_FRESH_PUBLIC_RECOVERY",
+  "commit": "4d01121341a3e98acc6f2b4b184fa2eba7235f1a",
+  "archive_sha256": "24308f6dd44aa18e5153a691c34a83f03e4bc0d362d7e4b95683e92a96e636a7",
+  "archive_bytes": 34748546,
+  "member_count": 9371,
+  "all_member_sha_length_mode_exact": true,
+  "complete_git_tree_equal": true,
+  "remote_main_equal": true,
+  "private_initialization_logs_excluded": 0,
+  "public": true,
+  "actions_enabled": false,
+  "local_clean": true,
+  "primary_current_unchanged": true,
+  "verified_utc": "2026-10-11T10:48:39.669711+00:00",
+  "scope": "Finished construction proposal/baseline/module recovery; independent combined review pending, actual source unchanged/full157/30 active"
+}
