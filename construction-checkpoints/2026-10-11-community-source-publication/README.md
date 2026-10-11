@@ -1,0 +1,11 @@
+# Actual independent Community source and isolated publication
+
+Full157 responsibilities/30 original duties/1528 queue reconstruction remains active. Original Owners and15 retained units remain unchanged.
+
+- Owning source commit [aa3cff3642885ef0dc1707c2e8bf037b725306ec](https://github.com/redefine-digital-labs/soul-community/commit/aa3cff3642885ef0dc1707c2e8bf037b725306ec) is public.194 exact operations activated after independent review;30 protected states and recovery backups verified. Original four production and five test bodies remain unchanged.
+- Actual owning and fresh public clone registered offline builds pass106 original tests and exact four module hashes, only Sui/MoveStdlib187 contained framework inputs. Remote semantic CI, independent release, operation and original UI remain pending; Actions are disabled.
+- Exact first Community transaction EqefAQPJodhGbfyaCisqWPSAKKqfYooowCmrXUiXUean succeeded on retained isolated ae60751d/protocol137. Package e32112eb5933eb4011297316398355e05c9a889a8e5d56f02e2d4a39e271ea53, Genesis-held upgrade capability and four initialized registries passed transaction/package/origin/linkage/custody readback. This is1/19 roots in that publication snapshot; other18 are unapproved. Native seam graph is separate; production and effective-governance acceptance are not inferred.
+- Source v2 frozen446 inputs,123 terminal receipts,53 real recovery/refusal logs, independent reviews and actual activation evidence are recoverable here. Original mode bits are included. Historical pre-execution facts retain their scope.
+- Subsequent Community status prose replaces stale cross-module status. Exact old status and restore-before-source-rollback order are recorded. Local recovery journal is not committed. Source rollback cannot undo a published package; never replay the completed digest or reset retained Genesis/DB.
+
+Verify archive SHA and every member SHA/length/mode against archive-manifest.json; extract only to a fresh directory. Pinned runtime binaries must be supplied separately. Historical absolute paths need deliberate replay remapping; archived tools/approval fixtures do not authorize execution. Custody data and signed recovery files are excluded. Gate0/D26/B0, remaining module activation/Channel, SDK/original UI/recovery, independent DevOps and full157/30 remain unfinished.

@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "method": "fresh public GitHub HTTPS clone; all archive/member hashes reverified from remote checkout",
+  "clone_commit": "addb4ca5a8284e166218cd50a2c04217ef79a9d7",
+  "archives": [
+    {
+      "archive": "maker-source-lookup-ad70.tar.gz",
+      "archive_sha256": "add1fb73bf3c572cb4bf2e211059b3d901088a10a1a98482da97926b8bc3468a",
+      "file_count": 1669,
+      "uncompressed_bytes": 13039689,
+      "archive_bytes": 2402929,
+      "verification": "PASS archive roundtrip; original bytes preserved"
+    },
+    {
+      "archive": "independent-market-3225.tar.gz",
+      "archive_sha256": "6e6270b6dc3ca8d6eed72f6f3257a3a208c5cb6c6a4333cd25c4307b046eaae2",
+      "file_count": 3229,
+      "uncompressed_bytes": 24609149,
+      "archive_bytes": 4566639,
+      "verification": "PASS archive roundtrip; original bytes preserved"
+    },
+    {
+      "archive": "reconstruction-worktree-source.tar.gz",
+      "archive_sha256": "6d46c7ffd3ee3d35c3ceff75db77b3dd6fc0906ae2f179f019b01f5ec32189d4",
+      "file_count": 2149,
+      "uncompressed_bytes": 35642671,
+      "archive_bytes": 20376415,
+      "verification": "PASS archive roundtrip; original bytes preserved"
+    },
+    {
+      "archive": "original-construction-inputs.tar.gz",
+      "archive_sha256": "811d419aad3869c9a8ffdd45e98673675afe0a172c679ef84c571366639365cf",
+      "file_count": 22,
+      "uncompressed_bytes": 1014690,
+      "archive_bytes": 257587,
+      "verification": "PASS archive roundtrip; original bytes preserved"
+    },
+    {
+      "archive": "construction-evidence.tar.gz",
+      "archive_sha256": "67be9b991406dfe539c4df01ea1491b4dbc74bbbca29a172c25af50541e1e5e3",
+      "file_count": 1540,
+      "uncompressed_bytes": 106380158,
+      "archive_bytes": 17451895,
+      "verification": "PASS archive roundtrip; original bytes preserved"
+    }
+  ],
+  "scope": "Source/doc/evidence restore smoke; excludes secrets, chain state, runtime tool binaries, generated caches and very large traces; no candidate activated"
+}

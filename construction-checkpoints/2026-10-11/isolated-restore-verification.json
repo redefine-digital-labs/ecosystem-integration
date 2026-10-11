@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "method": "Verified archives extracted into new isolated destination; every non-overlay restored member hash and every continuation overlay SHA checked",
+  "archives": [
+    {
+      "archive": "independent-market-3225.tar.gz",
+      "restored_files": 3229,
+      "non_overlay_hash_drift": 0
+    },
+    {
+      "archive": "construction-evidence.tar.gz",
+      "restored_files": 1540,
+      "non_overlay_hash_drift": 0
+    },
+    {
+      "archive": "original-construction-inputs.tar.gz",
+      "restored_files": 22,
+      "non_overlay_hash_drift": 0
+    },
+    {
+      "archive": "maker-source-lookup-ad70.tar.gz",
+      "restored_files": 1669,
+      "non_overlay_hash_drift": 0
+    },
+    {
+      "archive": "reconstruction-worktree-source.tar.gz",
+      "restored_files": 2149,
+      "non_overlay_hash_drift": 0
+    }
+  ],
+  "overlay_files": 4,
+  "no_candidate_activation": true
+}

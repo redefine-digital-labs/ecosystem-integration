@@ -1,0 +1,3090 @@
+{
+  "algorithm": "sha256",
+  "archive": "community-source-publication.tar.gz",
+  "archive_sha256": "1b109a3ff50f87f31ce9b235dadd5c6de806d2328456b47ae488d49f4f8a8b38",
+  "member_count": 615,
+  "members": {
+    "candidate/APPROVAL.md": {
+      "sha256": "76258a44ab2b84de039c3c941eb7a6b84eb0294cb0bf1851e22eec4aa222afe1",
+      "bytes": 1835,
+      "mode": 420
+    },
+    "candidate/HANDOFF.md": {
+      "sha256": "fab8d3d193a0e820fb04f6ffb81a79d3790d71bd01b818b99678a10996eda058",
+      "bytes": 1065,
+      "mode": 420
+    },
+    "candidate/PLAN.md": {
+      "sha256": "a4341993c5c61b4bb2b3b5c0609e67b897a95f7d288099bbe2fdf8878039af8b",
+      "bytes": 992,
+      "mode": 420
+    },
+    "candidate/PRODUCT_ENGINEERING_REVIEW.md": {
+      "sha256": "25b37c0c09ed98891569bf6ef23bfea1bfa552ffe4c7bb7231a152a864e7485a",
+      "bytes": 2644,
+      "mode": 420
+    },
+    "candidate/REPORT.md": {
+      "sha256": "8e18c7f146d34b1b3e8f4b4a8481097d83bd71b0dc4e64f4be3dabc1fae06064",
+      "bytes": 2197,
+      "mode": 420
+    },
+    "candidate/SPEC.md": {
+      "sha256": "9f28b53b17dbb9208017c19e35ecd602327fc26eb039154867f750b53d28deb7",
+      "bytes": 1436,
+      "mode": 420
+    },
+    "candidate/approvals/actual-rehearsal-binding.json": {
+      "sha256": "755d85aa656b9f5e26104eac1e532f543a111c5a78e5694c589299a74d83ceea",
+      "bytes": 667,
+      "mode": 420
+    },
+    "candidate/approvals/actual-unapproved-template.json": {
+      "sha256": "fc54c9c80558f4e57b05a29b94aa03fb681c918bfcc993ef879255634d3eac2d",
+      "bytes": 712,
+      "mode": 420
+    },
+    "candidate/approvals/hard-interrupt.json": {
+      "sha256": "cf29b3f9af5085f401668b09f2dc01e559afe59b863f01b63820edc397ea19df",
+      "bytes": 810,
+      "mode": 420
+    },
+    "candidate/approvals/journal-interrupt.json": {
+      "sha256": "05eb91f6b963a78ec882729b8c6b221030ddb51cac6582752092d20aee6dbab0",
+      "bytes": 813,
+      "mode": 420
+    },
+    "candidate/approvals/negative-backup.json": {
+      "sha256": "68a8738aec7a66df364df1f58225d034067806c90021ba0006b62486662bd70d",
+      "bytes": 811,
+      "mode": 420
+    },
+    "candidate/approvals/negative-baseline.json": {
+      "sha256": "d348b8d0ea5801270e794faeace3219c3dac6c9c613b7436a72e2b0cfe7a04ca",
+      "bytes": 813,
+      "mode": 420
+    },
+    "candidate/approvals/negative-hardlink.json": {
+      "sha256": "e3c49e0104a78b345bd8c44f068ef73db65448432e3d2f797cbfc530cfe2c4d5",
+      "bytes": 813,
+      "mode": 420
+    },
+    "candidate/approvals/negative-journal.json": {
+      "sha256": "25cd2f400dc0cfd7d7653ca70334a69a60b667bd8fe99169e53df13b270543ac",
+      "bytes": 812,
+      "mode": 420
+    },
+    "candidate/approvals/negative-lock.json": {
+      "sha256": "e2f9474357092b571dcfa8b2beb10201646342989e7b5461d82f9fbfaa8bc524",
+      "bytes": 809,
+      "mode": 420
+    },
+    "candidate/approvals/negative-missing-backup.json": {
+      "sha256": "20abd860cea25a0f5f84c5e284a68240cfdf9034acedc0a957716c48130d58c4",
+      "bytes": 819,
+      "mode": 420
+    },
+    "candidate/approvals/negative-protected.json": {
+      "sha256": "e4899048ff24d330d92f65c41bc88e1ace34f9c330e95e00cd46bbb8a228165e",
+      "bytes": 814,
+      "mode": 420
+    },
+    "candidate/approvals/negative-symlink.json": {
+      "sha256": "aab6ee1fe05b4bd4ce5aaf8074426b02f72e166d84106137da61b056f84cb694",
+      "bytes": 812,
+      "mode": 420
+    },
+    "candidate/approvals/negative-unknown.json": {
+      "sha256": "126605f36790b4c6bb816ad4bcb82d1313da9932956f5f508be01e086d239889",
+      "bytes": 812,
+      "mode": 420
+    },
+    "candidate/approvals/normal.json": {
+      "sha256": "a23133ee833ce443eed0893e9ef5bd070e2007b26eb0639909df9a07e67246f9",
+      "bytes": 802,
+      "mode": 420
+    },
+    "candidate/approvals/target-alias.json": {
+      "sha256": "30ff8433f553f6eca55dbe66b949ca9095e2af89f6bf69729a4401b8b6a12251",
+      "bytes": 808,
+      "mode": 420
+    },
+    "candidate/approvals/unapproved.json": {
+      "sha256": "8ad350a14f6f95b9381e9ab3c60bebda33926436dbf100a4797b6d82fb9e8a6b",
+      "bytes": 807,
+      "mode": 420
+    },
+    "candidate/approvals/wrong-control.json": {
+      "sha256": "39417385ba68af3f88651a609bb1da2c0694c25d34a2f93b76c6876227d5b8d7",
+      "bytes": 806,
+      "mode": 420
+    },
+    "candidate/approvals/wrong-manifest.json": {
+      "sha256": "14cd83fd0c4edddf647bf6226168bb0691c53d545a9208388a4ffeb1cfb561eb",
+      "bytes": 806,
+      "mode": 420
+    },
+    "candidate/approvals/wrong-ops.json": {
+      "sha256": "51d29767955a4cee8ff546b6d45473850a27ce75a3c643cf4804cee4abd1c151",
+      "bytes": 806,
+      "mode": 420
+    },
+    "candidate/artifact-comparison.json": {
+      "sha256": "f0ef58560d8ffe40bf52d8a87f4ae4a7a6ffc5e762c8ada5f7ca004b3f435baa",
+      "bytes": 927,
+      "mode": 420
+    },
+    "candidate/community_cutover.py": {
+      "sha256": "704e2f7919a085270666678cc90ce1c6a2e0f9bdb47e46bb8a13edf903841b65",
+      "bytes": 10061,
+      "mode": 493
+    },
+    "candidate/final-semantic-evidence.json": {
+      "sha256": "9e5d741fc0b8db37e6b396547f3b8b301254b466aec44ee2e37c5dada32b408c",
+      "bytes": 104879,
+      "mode": 420
+    },
+    "candidate/freeze.py": {
+      "sha256": "4313360dc5da2dedff783b5d8848b2d88392fb3eab632600443ee8636d09a271",
+      "bytes": 1710,
+      "mode": 420
+    },
+    "candidate/frozen-manifest.json": {
+      "sha256": "92e3426aed0648b8274954e79d7528c5198065011d7beb5c20b9f730140a3cef",
+      "bytes": 138425,
+      "mode": 420
+    },
+    "candidate/frozen-manifest.sha256": {
+      "sha256": "62ef5e6b638352e825b64fff339864d97f9f837c45a13f5515140a88c34a77fa",
+      "bytes": 87,
+      "mode": 420
+    },
+    "candidate/helper-generated-handoff.md": {
+      "sha256": "ee44e392a0116452256c5455a5d9023c9c4ab4a14a99293619dd108b800ea621",
+      "bytes": 3310,
+      "mode": 420
+    },
+    "candidate/input-pins.json": {
+      "sha256": "e9f5156227f40dbf0220c7d6e811c397bdb3396a945ac7ea656bbb03664728c9",
+      "bytes": 5835,
+      "mode": 420
+    },
+    "candidate/operations.json": {
+      "sha256": "7e19ed3274b74f070222bc7d38dded6e7725019a92c18987f3229beff716230c",
+      "bytes": 142707,
+      "mode": 420
+    },
+    "candidate/original-preservation.json": {
+      "sha256": "b8dcbba937de53c3165fa93af07eabed1c9c7ccf953fcb1bc89fd0e31bc707be",
+      "bytes": 1339,
+      "mode": 420
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/Move.lock": {
+      "sha256": "7b70558c2b3e850c617b47732a077ed1bdcb07d54b99e73722f78e3991f2cd5a",
+      "bytes": 264,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/Move.toml": {
+      "sha256": "ed8aa8b67d47eff5566d4ed827b79c4137371b089ce57c877089ea2f69cd7698",
+      "bytes": 145,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/address.move": {
+      "sha256": "d71f1b77cf1bf4f07a53bb99a84bf1ca6a41800f1d469468ac6a09e5c382da97",
+      "bytes": 313,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/ascii.move": {
+      "sha256": "d6215e52c6ac68fd03a604a16d085b9c239037aa2406e55f8d5f3b02a823a980",
+      "bytes": 5441,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bcs.move": {
+      "sha256": "22c967d0786cd0ab7fa29a7160ba33a9add8c7d958368096658c1b0725c92f18",
+      "bytes": 558,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bit_vector.move": {
+      "sha256": "627d05d5c9213de5cb5a0a90687c2888ce3a2381b5d4edc5caac4ce7fe266416",
+      "bytes": 3284,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bool.move": {
+      "sha256": "671b254e3bb07a5b3d95575ff326298f2ff0a878c231e28ef0e48b85fff30e27",
+      "bytes": 120,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/debug.move": {
+      "sha256": "8227c24198a355ca4fae76357f8615b005983c799a1ca445950d51667cf7e6d4",
+      "bytes": 212,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/fixed_point32.move": {
+      "sha256": "f5efb755f10cd8e89094fc1f1ad1c61cf321a190bc9c1f2e9aaf4e6e98493279",
+      "bytes": 5144,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/hash.move": {
+      "sha256": "b45325a9a03489099b8a74d21442cbcd65123122957220a3f1c3b05258a299bd",
+      "bytes": 385,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/internal.move": {
+      "sha256": "1e64f67dda05c373a7cc0b31f07eeb8d52772e44b48f7648ffcfb93797bb28d5",
+      "bytes": 1191,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/macros.move": {
+      "sha256": "366b5d72200ba8fe126a735080d43322c906c293a92dd750b68003872e43f698",
+      "bytes": 10127,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/option.move": {
+      "sha256": "26ee90edc479f5df17d570b34d4f5fee255ce53c1dda024effc95562d34576a2",
+      "bytes": 10204,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/string.move": {
+      "sha256": "81004398e62e604f55f9bf40ddb0a8f253f8e51f9bb0dc0f2b0f094606b1eb09",
+      "bytes": 3827,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/type_name.move": {
+      "sha256": "2f587d2524dd3ac1341beeaec4297fe31bd0cd4ee22510e55696158a1b3b166c",
+      "bytes": 6618,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u128.move": {
+      "sha256": "18bc0ee5580b852db78e1188f2d594aa218ac712bd8a72256d8e38a7c3788953",
+      "bytes": 6896,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u16.move": {
+      "sha256": "5d0dfca4ba9db9895274ba3550919deea57294de1e353b12894d9d9d4e054488",
+      "bytes": 6281,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u256.move": {
+      "sha256": "2794429e56a883ff4327e3a1d09aaf910bdfb4100b8de2aad4ee596ab5462528",
+      "bytes": 5063,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u32.move": {
+      "sha256": "de21fa0ea826436ec8730dddf2c720015689e5f407fbd157de338ca20b323795",
+      "bytes": 6447,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u64.move": {
+      "sha256": "5167050da2a02fa3a99a9e512a09f52ccb841f4e5d057e4a79c45d299d6f8ffc",
+      "bytes": 6621,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u8.move": {
+      "sha256": "f6d0e875084846733e2dc23e8348a9d6743876838ac36e468a2694462e397962",
+      "bytes": 6036,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/unit_test.move": {
+      "sha256": "d479d1576e81fe69f1d182445427e6fee775aa159bf594fae1f7faa864a57292",
+      "bytes": 1150,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/uq32_32.move": {
+      "sha256": "f8b97a6b5dd4ee388321ca7f5fac2b0de8e69e0b1b11381340951bdca8206e3b",
+      "bytes": 5592,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/uq64_64.move": {
+      "sha256": "6c2b57202de661bf34287c108af09c5200325e32e4798353b9e7e58eb0f7be9e",
+      "bytes": 5616,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/vector.move": {
+      "sha256": "bfc84b8f37c41626059fabf9bcc49f4299ad1af065056fdf1f24249fe88e7646",
+      "bytes": 18504,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/ascii_tests.move": {
+      "sha256": "38c4b078e35e881c3757ef859d922c1ca644a9e77623cdc25a3098f8ad7d38fd",
+      "bytes": 5411,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/bcs_tests.move": {
+      "sha256": "1c8e9f41f3d6e279d3aadd8b9b96b810fc2bf5a58d93e3e5802bc83da039ad81",
+      "bytes": 2608,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/bit_vector_tests.move": {
+      "sha256": "b95e206ce047b110f85af9ad88e76b9af51b102645e1f3c57b11138682f87c11",
+      "bytes": 5540,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/fixedpoint32_tests.move": {
+      "sha256": "a5279f923380456f42de6cffa875661c62e0d21f085447ef987382a6191ca830",
+      "bytes": 3808,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/hash_tests.move": {
+      "sha256": "7ea5544202ee64584a2ebae7277f9a6980596d8177d1298d0cb14fb8a876d2b0",
+      "bytes": 682,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/integer_tests.move": {
+      "sha256": "a091f65723d9a0f555aaada65354ff8b412b159f7451f7ccc0da7ef7e224f602",
+      "bytes": 27347,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/option_tests.move": {
+      "sha256": "de13732caf256cd1a130d8fa954382ed6bd01170fd6d275d5a9ba92c7f5247d8",
+      "bytes": 8601,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/string_tests.move": {
+      "sha256": "b5a5499b08b34a0e5c77b1afeafe23a95846d48529a780098ccc400c7e6880b7",
+      "bytes": 1914,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/type_name_tests.move": {
+      "sha256": "cf5a8651e9f4ccb82c539260fe424bb06ef42808d86d64ba42c756ecef1a81f2",
+      "bytes": 11262,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u128_tests.move": {
+      "sha256": "2f44d512dc20480f800d99bb2ac5e0c0de33d94d2f18a6fd9a7ccc83b264a08d",
+      "bytes": 4265,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u16_tests.move": {
+      "sha256": "57fb1c5622fc1ed94780966da15b00e95ae9b6dd8bbe630bda8ea2c4a5619430",
+      "bytes": 3820,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u256_tests.move": {
+      "sha256": "25e023f0f54df995edc45caa99b9013a5dc0b82c8c3a2b1e91aa40eb70515f1f",
+      "bytes": 4137,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u32_tests.move": {
+      "sha256": "72b94ae58926d2babf566563d422967b9d98629694c0fe498845f1a3f43c3a06",
+      "bytes": 3927,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u64_tests.move": {
+      "sha256": "a9ad567df136f9a819c584910cee7253ee79ca271331e2d5f9441a6b64aaf15f",
+      "bytes": 4059,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u8_tests.move": {
+      "sha256": "016fac641e1b479c31034a32d8565fbc390e8aeb987acbcc6a5ac58158e4bb5f",
+      "bytes": 6774,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/uq32_32_tests.move": {
+      "sha256": "54edf1cef2dd3b41a68da10ec0264eeacb923595a5cad1d78169414780d9103e",
+      "bytes": 6192,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/uq64_64_tests.move": {
+      "sha256": "30a97cf6e37f9be68cc9d56016540329559df51d65bda8ffd64e2aeff881ab49",
+      "bytes": 6241,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/vector_tests.move": {
+      "sha256": "bc09a91d65bc85a825fd92d4fe5429c469662f5d2d5b6e15358283893ea619ff",
+      "bytes": 26215,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/Move.lock": {
+      "sha256": "a2eab870582482cb418c326cd7212fa44da205f0860857e8f563e00433593e60",
+      "bytes": 474,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/Move.toml": {
+      "sha256": "cba85554db7a2bad8a88db1c60462f9a7364bcf7dd7e61a4d42dd8e32713f193",
+      "bytes": 196,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator.move": {
+      "sha256": "76369a48ed9e5623f28b12ff2136cf900ff859939dfeaa670c4f43c59e695069",
+      "bytes": 4644,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator_metadata.move": {
+      "sha256": "98d00f6962ddabd47da1638f25e1a2e620b38908f78f307a9b2627656fe1924c",
+      "bytes": 2723,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator_settlement.move": {
+      "sha256": "8d5ae68ab12e0c979bb322e414365ed24e694012e1849ae333bb419c06d7a03c",
+      "bytes": 6997,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/address.move": {
+      "sha256": "79e8640c01323708fc6400cf86c7dc1be309c574c20449e5f6765c7f149e270e",
+      "bytes": 2743,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/address_alias.move": {
+      "sha256": "7f2fc895fe6c7cfaaff4470144b96290afdef33697ed9372e8ff14dc2440fd85",
+      "bytes": 3850,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/authenticator_state.move": {
+      "sha256": "ace84aacfca3bcb43c86c73c6f771df084acd020747bda061718571a07141bba",
+      "bytes": 11749,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/bag.move": {
+      "sha256": "93c3ff2e6802b3d941445d38313a7702cf7eb14ec06c7537789b7a74eb00233e",
+      "bytes": 4246,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/balance.move": {
+      "sha256": "4ff2678af3e4e67af3cf7876e1450f8f062e310e500ca75988798873a766a1ce",
+      "bytes": 6180,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/bcs.move": {
+      "sha256": "181618e27406e4ce5ca6e5d04a8e20189b6e345e373ac8e63847def1f8fcbcf3",
+      "bytes": 8357,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/borrow.move": {
+      "sha256": "dc1c16ad8733f82a5e8cb9ef161b6000c25a8535927e46712f5ada1406b3b51a",
+      "bytes": 3896,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/clock.move": {
+      "sha256": "7fcf0ee904f7269d870eb9d911175556a5637da163666139020f0d7e4475c835",
+      "bytes": 2815,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/coin.move": {
+      "sha256": "89a6acba362f52eb210d2c3b48144415aeb6589913c002dbedda3ad67ba0bcbb",
+      "bytes": 23779,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/config.move": {
+      "sha256": "c8faffbd0c26e910a9cba9350955835ccee4d74690888b3968a32fc5c4e66599",
+      "bytes": 8777,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/bls12381.move": {
+      "sha256": "104026006462a5b92805e05b36e87e61e9cc8cfe1c24b94fd726cb2c0114eb48",
+      "bytes": 11940,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecdsa_k1.move": {
+      "sha256": "66b1c12aa1b42b5587df93cd43988ccb918783cef24f05cfdd3e8e790f1fc6b4",
+      "bytes": 4237,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecdsa_r1.move": {
+      "sha256": "73f396d0e9af475fa3c0a8ec3c20b542f9bd478cbb0a87fed1413db7a50cf642",
+      "bytes": 2265,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecvrf.move": {
+      "sha256": "dfa785e40b154a759e6783b5e1cc751d14259d07d47acf68aad916d3d3bda85b",
+      "bytes": 930,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ed25519.move": {
+      "sha256": "a8c60d2014d6c05e8658cdd287005261573c7058712bf69e34628c4c880881a5",
+      "bytes": 585,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/groth16.move": {
+      "sha256": "71b513568eaecea5982e8c7e7c346464b3a087c63011a2ec1367358d00c0ffc3",
+      "bytes": 5557,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/group_ops.move": {
+      "sha256": "9fdb0b885a2f21461b174b5258ab47f314fccda20527ba9cc4b7a0d1af117e27",
+      "bytes": 5305,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/hash.move": {
+      "sha256": "d61cbcce22bccdfe46c198dd3e92cadd7d181242d078985a76d82b6b3b302057",
+      "bytes": 576,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/hmac.move": {
+      "sha256": "8d4881c7949fbf805753a4dd83adea9db6a44e737ab7d36fffb2a06384118468",
+      "bytes": 328,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/nitro_attestation.move": {
+      "sha256": "de4d4f5bbf74daa5f40fe1e5fc36e201ffa8fde1fc1e46785f46ab75afbb28fa",
+      "bytes": 3311,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/poseidon.move": {
+      "sha256": "059245812dfa9e47f7b01f8513b4d948ec3192fa9340d68b1674f93f9cd4b4e8",
+      "bytes": 2154,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/rangeproofs.move": {
+      "sha256": "a07c3ee2410656a0e0b9ae66a7c14dc0a21cbc16256e2091e45958d29c374517",
+      "bytes": 2760,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ristretto255.move": {
+      "sha256": "d8782d9824ca9d67fd049b95da7392adc9e2c3342ff5e0834af12a5cdc76a1bb",
+      "bytes": 3400,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/vdf.move": {
+      "sha256": "d414f91d231ec857b0ee9a997a77647b78b0d28ef7249f43f4d35806b47a029d",
+      "bytes": 1837,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/zklogin_verified_id.move": {
+      "sha256": "0ee24edecd5c76f06c0c275bc1fcb26573ab8dfd18b5e2c3b7f8359f27039b60",
+      "bytes": 2848,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/zklogin_verified_issuer.move": {
+      "sha256": "1143693ca3e99d211cf75798e60d05f7e0345500dc85cfc7254815d5ebb484c1",
+      "bytes": 2428,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/deny_list.move": {
+      "sha256": "40f866cd5bc2fe74783909261ccc602d5c762094c58edcb27c5bcb22a71ce3fc",
+      "bytes": 14218,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/derived_object.move": {
+      "sha256": "fece962d9e80cf53045e9bd546eb8599ef9d16fe7ad8deb45a64c70ae9d6f259",
+      "bytes": 2569,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/display.move": {
+      "sha256": "55af32a05c793472d72312bcf55bb984af0c938b0de9f14beef80a43207f6ced",
+      "bytes": 6180,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/dynamic_field.move": {
+      "sha256": "423818c572638143f3de05896c209df82b51c287b7e567d8e50808f467c56f07",
+      "bytes": 11603,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/dynamic_object_field.move": {
+      "sha256": "aac0f317aac47de5fa7c1143586182ecf4282736f30e9a68a1d3bf4653ef869a",
+      "bytes": 11311,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/event.move": {
+      "sha256": "d8c4ace728a0566ac9d78b86ed592501e95576f51582dc3b32ab0c17ab9a9681",
+      "bytes": 2241,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/forwarding_address.move": {
+      "sha256": "c3a5feb72f3db2d6c9b0e40f011aeae1d3a98ded696c8ccfc9766d5db788fb81",
+      "bytes": 1141,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/funds_accumulator.move": {
+      "sha256": "0879f4f8198fba05e7471959ceaced70afde9f16dfd4de48d3c6268a8d02c34b",
+      "bytes": 5766,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/hex.move": {
+      "sha256": "88668252e93376bb5e95890ad9b8e4fd9a822726cb70ed0a037f750ff70b7c61",
+      "bytes": 3478,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/kiosk.move": {
+      "sha256": "894551834729eff904a0e9075aa0bf77481919c2352870b4de4d8b831350db85",
+      "bytes": 24024,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/kiosk_extension.move": {
+      "sha256": "397a9be3ccde3e8bd3151d77247f128d319d0ff0bfb86c6046a06646797744bf",
+      "bytes": 9978,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/transfer_policy.move": {
+      "sha256": "b042d85ecf88f11b504f87bff1e2625bb9fce24c159ee43f1c273f9061066b33",
+      "bytes": 11627,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/linked_table.move": {
+      "sha256": "1aad6f85673900cb0af40586bbcef804296bfec7c3f0cb512af47af2657e34b5",
+      "bytes": 9350,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/math.move": {
+      "sha256": "1213303013c1786c196e5f2462242c30adc4e20427214e802be83b2eb2859f26",
+      "bytes": 1017,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object.move": {
+      "sha256": "9db85c5dd68bf6bd44fe1792bb6f3a5254f16da739c68c2bd65370168d4fcfc0",
+      "bytes": 9540,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object_bag.move": {
+      "sha256": "a4c9727c2cf12e275a3da86c1ee00c4bcf97046c43976a6f7620139b7b1085a3",
+      "bytes": 3929,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object_table.move": {
+      "sha256": "0750dc08d430a2be58552e1e44fb18f5b4afe24dac5679bd17e276e9b877aaa1",
+      "bytes": 3690,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/package.move": {
+      "sha256": "c0691c8011d0bdb119d43013e8a09591b0cbcb855fdb8558a76ce7db46c9492c",
+      "bytes": 13206,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/party.move": {
+      "sha256": "431d51d3694debab65ff1147aae6c818381fe12351fda0ae62b9ec67db7abed1",
+      "bytes": 3412,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/pay.move": {
+      "sha256": "a6a54cd0665673cc29e9123765469b8c45cc6b60d2081131afe488b95fa5fc00",
+      "bytes": 2604,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/priority_queue.move": {
+      "sha256": "5f4f7c7100125108ece89b9eea92b6260cd39037c0911da2c11e76aaf1a12182",
+      "bytes": 6556,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/protocol_config.move": {
+      "sha256": "2861ee704e490b3c6022a14d258ae82b38ad57da6f0ff0bfb3b617c7e6b9deb6",
+      "bytes": 1233,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/prover.move": {
+      "sha256": "35ef0413c16850c64bd8c2e9e53491d95329ec977917ae5604c7d76cbdbf22bb",
+      "bytes": 95,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/random.move": {
+      "sha256": "0698d0395486980a7745432cb7bd7f8d69ebe917094d0e25fa18481c4e2406aa",
+      "bytes": 10453,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/registries/coin_registry.move": {
+      "sha256": "6325698d3936710a7fa9df94c9bfc81b50e0213e4bac3442279d94ad50c841d9",
+      "bytes": 28789,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/registries/display_registry.move": {
+      "sha256": "a1d1512e159820dc570fcdd1ff94373d476c9787dc0edd3b6e7ac66de80241a4",
+      "bytes": 7596,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/scratch.move": {
+      "sha256": "622c023d0d4de509e16682ac428239f95448f2c23cad3fd3edd656a354d36b78",
+      "bytes": 16651,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/sui.move": {
+      "sha256": "7be8ede4076784b16664aeb1b094a844165fce033eb6252483255b16e520dc04",
+      "bytes": 1745,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/table.move": {
+      "sha256": "058e4679b90a03c76ee8ac7d59210cee8aae365b8603b552dd0184db1a8e329f",
+      "bytes": 3906,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/table_vec.move": {
+      "sha256": "0058421a0ada17ff8f533ba19588d4636fd04a959607417849036548eace409f",
+      "bytes": 3928,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/test/test_scenario.move": {
+      "sha256": "613aaf849fc412ff15335f98fc3b35e4462a175343278c6a21325c0963bab679",
+      "bytes": 24881,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/test/test_utils.move": {
+      "sha256": "e156b2ca016ec82936bc891f6d0bc50ba54a9e2705e14084300e8fb43eacb4d5",
+      "bytes": 918,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/token.move": {
+      "sha256": "d28a9996208f0a6369ce40d6dbfd023d1e4944e0a863b33398136ab218027293",
+      "bytes": 24607,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/transfer.move": {
+      "sha256": "3ec5a78be55b2972a120a998a39e373cce1eef27186737b977d897da668e93db",
+      "bytes": 8913,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/tx_context.move": {
+      "sha256": "05308a38774bf3a23896bad90cc8d3536ea887a0224ed62d9684ea2fb38b6385",
+      "bytes": 10916,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/types.move": {
+      "sha256": "3f0dd52b488e391090d4a373f426b1d49999464597f7091402d8aded1226ee30",
+      "bytes": 351,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/url.move": {
+      "sha256": "71054151b750d5d1680d70e69b288379990f8b74ad0e3b15b649184134f1a8e3",
+      "bytes": 810,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/vec_map.move": {
+      "sha256": "af152baac748e02f6c6c156a052f3162ccb2b8854326b5fc3e2b0e0334266cf1",
+      "bytes": 7344,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/vec_set.move": {
+      "sha256": "6f3d44f12261eb98a8a52db9642907629b08855dfe17639c295b15531607363b",
+      "bytes": 2956,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/versioned.move": {
+      "sha256": "cd23ac088c7e9e2c22106e1f767ed92429d67cae3cd9b2ffc014457e28f9cd18",
+      "bytes": 3156,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/address_tests.move": {
+      "sha256": "2ecd7ff724bf366eafc35b7ac80dcb1d4d79695ae73e8c6f508fb9db70cc91f1",
+      "bytes": 8387,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/authenticator_state_tests.move": {
+      "sha256": "d07e0e2e60bfd13bc2fa05da833a473cee5f868c3a1c216e0111d822bb7a11ff",
+      "bytes": 7851,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/bag_tests.move": {
+      "sha256": "757f8747b76bc48e5ff109c8f291f9558b45082fe40eeec0b57cf11aafcdbdf2",
+      "bytes": 4625,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/balance_tests.move": {
+      "sha256": "7924a581a8b423e48b6d49cb13bed37c9afe468e49ea7d1b99acf26b7ba8d7aa",
+      "bytes": 2081,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/bcs_tests.move": {
+      "sha256": "47fae36b72a17423b5e9c25b749931e3cad2a3503f20503bced1ae6e709f1d1c",
+      "bytes": 8328,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/clock_tests.move": {
+      "sha256": "3964a45e500604047afb79e1c883a0fbc133ff3b3b53d30f22dc492d0b625361",
+      "bytes": 468,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/coin_tests.move": {
+      "sha256": "938dc507b14ac076a3d9c89c55cebbe485fcbcfa2ad0fb97003e815e8a50f401",
+      "bytes": 26868,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/config_tests.move": {
+      "sha256": "c43f31fa460897860d6bbdbdc22876ab1806c38450a36e4fae594c1dfffba1b2",
+      "bytes": 19655,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/bls12381_tests.move": {
+      "sha256": "47b9ae3a3f8da674ce38f32fcda83e4d3366d65a1c12417be22de09117329ec5",
+      "bytes": 40256,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecdsa_k1_tests.move": {
+      "sha256": "801d68489c116e54fe53f3b16c94f9562f1b37f6107fb5dcbbf5abb616c566af",
+      "bytes": 8955,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecdsa_r1_tests.move": {
+      "sha256": "e79b17c7810a9e9df7a3406b389f8bee95b374510a7525dddc9b10e0104e4d97",
+      "bytes": 3335,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecvrf_tests.move": {
+      "sha256": "ca7e730c884aa4f1d283ffb413bb3de23958a541066b9fab506c26583a3e7023",
+      "bytes": 2921,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ed25519_tests.move": {
+      "sha256": "9b64bdd6175b4ed510682ab8da5f0b40b7f8784dc7c9c639af3973974dacb250",
+      "bytes": 2022,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/groth16_tests.move": {
+      "sha256": "0d5955430d054bbd8ec6f6c96ebb7e06a2169fe29b0ea1fef2598c50d49ed4ec",
+      "bytes": 20337,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/hash_tests.move": {
+      "sha256": "f21611481c7ffec94cddfbed1011eec6f2f0dfab2f1e174e910d853b1aa385ca",
+      "bytes": 1944,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/hmac_tests.move": {
+      "sha256": "f7331bdf56954fe5481eada8dabd37848b844c172f3712afe8a056095b83ae37",
+      "bytes": 779,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/nitro_attestation_test.move": {
+      "sha256": "81c6f8a75cbe801226d846013c102075e5b3790cc9388fbd3c7f80a0b86d1786",
+      "bytes": 20990,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/poseidon_tests.move": {
+      "sha256": "118860120223e0bbd83c06c880b2050031ce44146ef6c95bb1c6bfccda5afaac",
+      "bytes": 3709,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/rangeproofs_tests.move": {
+      "sha256": "37ed2599f88e85b17980bfe13ff305eb778be0a495688e1a2572d152628249a0",
+      "bytes": 23890,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ristretto255_tests.move": {
+      "sha256": "499f7af0849738ac616fe176ada1fe3e966cec339083c479fac48b5cb496e9cb",
+      "bytes": 11202,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/vdf_tests.move": {
+      "sha256": "ce628987179e184d39e332b8de3498e75da1ebeb285cf5ea224f745e9085a3e3",
+      "bytes": 19141,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/zklogin_verified_id_tests.move": {
+      "sha256": "e99b92375d4a000f0e66d3e132c72f5f5032dd95f3537f56825164ae4bc3ace1",
+      "bytes": 1609,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/zklogin_verified_issuer_tests.move": {
+      "sha256": "0dd6ea7f71aac05635857b71b774b0ae52c505c3f037265a9e20c1ed9a5d9f97",
+      "bytes": 2309,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/deny_list_tests.move": {
+      "sha256": "a2748c5ea1c7a829cb36a505c98624967ea088ae47480b6f649329144fa969c5",
+      "bytes": 1530,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/derived_object_tests.move": {
+      "sha256": "6a539194ea39ac983c2e95041b710bcfeae255657ff737633f52afa1d571fbd7",
+      "bytes": 4930,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/display_tests.move": {
+      "sha256": "e2c3e742662747857bb7f1cd024c4b36c474b8636163feaac62c4c904ce75858",
+      "bytes": 1050,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/dynamic_field_tests.move": {
+      "sha256": "c3711871ede14de4e3febb3cb7586ed785f02f6a4a7b9730a259506f3349fd74",
+      "bytes": 14906,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/dynamic_object_field_tests.move": {
+      "sha256": "5fbc6ce0a4aca029cfaa674914c02bf158ae27c7157349ee76cdafef378ba454",
+      "bytes": 17786,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/event_tests.move": {
+      "sha256": "ad1956fc2138724bca9b23f461cb99499d3ebb155f88a79c89de5de1139bf224",
+      "bytes": 1464,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/funds_accumulator_tests.move": {
+      "sha256": "9b5dd1ea0e96b7933060805704c385b278dfad0ffe40d350d96cadebcb83aa57",
+      "bytes": 4021,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/hex_tests.move": {
+      "sha256": "19be935c083ede484c5c2715d5e303cc213cbcce45c419187f5558155ed0620a",
+      "bytes": 1540,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/id_tests.move": {
+      "sha256": "cf5fa3a2a10234f2d02bae4a642c0cf337f3f1e621ec3fbfcd2b09b47dae2c0f",
+      "bytes": 471,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_borrow_tests.move": {
+      "sha256": "0e2e39dcbebf4f0853a5601dd1ebedc9cb66827b1360c6c2d9a1ceca12930ff4",
+      "bytes": 5542,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_extension_tests.move": {
+      "sha256": "a5254b8a8bbe6a66dbb8e0a01c38bd5a95cd4b49e1878a414c65c45d8de0d332",
+      "bytes": 10650,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_locked_tests.move": {
+      "sha256": "a1cb0ab2ad279dfd0ac1ff5c5cba323c582114ba7241bd675a66c54257f0d8a9",
+      "bytes": 1702,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_test_utils.move": {
+      "sha256": "ce2a0687b2cbb2eb7b65bf777898cdaaa71f851a2f09c450cbcfee2ad5f829c2",
+      "bytes": 2195,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_tests.move": {
+      "sha256": "fc40686e521cfc5814944306d953906f93f07196ee50d35386350ea0d0ac229a",
+      "bytes": 10077,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/dummy_policy.test.move": {
+      "sha256": "9a105fbf2797bce5a9862f44e81f4df4c700ae155972eab6426254e0d5046e58",
+      "bytes": 734,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/fixed_commission_policy.test.move": {
+      "sha256": "621c9679bfbe2bfe477458f34e6a7f551b68accbad16ca3d466f9e29b7e20950",
+      "bytes": 1717,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/item_placed_policy.test.move": {
+      "sha256": "b85f8a8386ca6641cfeed9c1292362b1d68a780e55314d74cbd23a11ece38760",
+      "bytes": 879,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/royalty_policy.test.move": {
+      "sha256": "6d00629fd455920c8ba8ee81534ea7e754234451d4f8d675dca035f84281f76e",
+      "bytes": 3782,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/witness_policy.test.move": {
+      "sha256": "898e2a4d48045a6b9ab6d679c0e981918406224df2729f15575d0c95159e59ff",
+      "bytes": 3540,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/transfer_policy_tests.move": {
+      "sha256": "a6fa7f660453bc47be80d126cce72a18243c26020e8240e72d11b9318b27fa1d",
+      "bytes": 5014,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/linked_table_tests.move": {
+      "sha256": "beb133c14aa1cfb5c354d6039612f8f37a0c9115e59353ac6becb969dbe0cc49",
+      "bytes": 21071,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/math_tests.move": {
+      "sha256": "de48863bd5f45d23e41dc8a85336735cd885f68b21e64f62d1fb10087e4ea477",
+      "bytes": 1486,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_bag_tests.move": {
+      "sha256": "f29edd86dd9f3a0bbce22b11f257add111cbf14964df73ee091476e57a8dcead",
+      "bytes": 5976,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_table_tests.move": {
+      "sha256": "2ce2af5de8a70dc50173ede0484fd583fe7d8caa8d8cb05df99f654306ebe8a2",
+      "bytes": 5109,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_tests.move": {
+      "sha256": "4ed7a1f0f96ee4f87cc9ffda28f603fc4cb34f4cf876d6c51fb9c7606538e16b",
+      "bytes": 823,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/package_tests.move": {
+      "sha256": "97523bebdcd377d054110ce43af0e321ada26731fbdff635d963734e379c51ee",
+      "bytes": 5539,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/pay_tests.move": {
+      "sha256": "3b6265bdf225835195852edfabc2e13bf684c25691f1e75b3a8bf7fe50719942",
+      "bytes": 4250,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/protocol_config_tests.move": {
+      "sha256": "6617ad548e144cf1894ad919c0510e253c7cb03d6a722721aa05406498ddb746",
+      "bytes": 522,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/prover_tests.move": {
+      "sha256": "9a625ca321cb94bbff0102d2c2288dda7df75124b8684df9a86dc60a3465fb0d",
+      "bytes": 1186,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/random_tests.move": {
+      "sha256": "a52420fbf0af23b5352992937368d77a12fef3816243907c03926835d976ebc6",
+      "bytes": 21304,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/registries/coin_registry_tests.move": {
+      "sha256": "6d9af8b5f79935af8342f7a38a8b6acc069a1a3d8e96ba97082b76cf5b1364ae",
+      "bytes": 20754,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/registries/display_registry_tests.move": {
+      "sha256": "40f4403dfc62dde1998518aa6d3c2fcfabb2d1e05b4e5f6d2c8dc6d920beb157",
+      "bytes": 11942,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/scratch_tests.move": {
+      "sha256": "2fc8a666c888081943632723a512fa07202b51a76ffbd805c33d4cfc13d662c7",
+      "bytes": 18812,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/table_tests.move": {
+      "sha256": "8214bf59c736b5d7107e83a2dd7808130fbfdd440a336d08dd43694748c2a9ed",
+      "bytes": 3591,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/table_vec_tests.move": {
+      "sha256": "b553666961cfaa3749534aea22df8052658701e3ed176765ab8f5591e7ad71c3",
+      "bytes": 2986,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_random.move": {
+      "sha256": "aab8769f8177f480657e209f52acdfe6d4573b8f572bf1e5bcd034d82acec074",
+      "bytes": 5288,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_random_tests.move": {
+      "sha256": "6358659b91241951ff3effd184fe82357e2621009440fae9679a9dff927e07bc",
+      "bytes": 7778,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_scenario_tests.move": {
+      "sha256": "1ff28f802d7b5d22aed7b4f6e0989e9e2e3182c3b6d056a4708c2f74ac30065f",
+      "bytes": 44686,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_actions_tests.move": {
+      "sha256": "b0b040bef1d6d1858cf575b44daf57e9eba252644f3928d2d1554a1c64d9a6dd",
+      "bytes": 3804,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_config_tests.move": {
+      "sha256": "08761951638cee5d790ab107b45caa45563ece6ec1a9bafe6f48753ac845fb4c",
+      "bytes": 3908,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_public_actions_tests.move": {
+      "sha256": "af34b6a75dda84ffef269357b0ddc582c4c9ae4d7b711ac6e2a7b9e33af1bbad",
+      "bytes": 1224,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_request_tests.move": {
+      "sha256": "a9b2c8bc9e424b90e4ef3014e69a42dc021ebaef30e716c94af43a75f0a67cfc",
+      "bytes": 4121,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_test_utils.move": {
+      "sha256": "d9b4e0b74950f7e40a5d80ec2885e899d67f04299813101e3768cea39edb1ad1",
+      "bytes": 1451,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_treasury_cap_tests.move": {
+      "sha256": "b6e788d93d66c7196fa6e9907c22eea8f9cb8095853303503534fe7410e7a8e5",
+      "bytes": 1737,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/tx_context_tests.move": {
+      "sha256": "5129089493ea53d34d98f6f3495ef1a073d26ed3b0523d5b349f87769453bba0",
+      "bytes": 463,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/url_tests.move": {
+      "sha256": "b82239b7e5e057b42623a466a54e987111756f4b7be41e8ecbf37ef60728ed13",
+      "bytes": 403,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/vec_map_tests.move": {
+      "sha256": "7bc8bd5dd2a5571f747a34b4a5776fcc0029f101dd1cf41e58b112c3f2affe17",
+      "bytes": 4367,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/vec_set_tests.move": {
+      "sha256": "080a4f819137fb471996e9cda6a924431a692f2b7d15a11fedea1f8b99ac4ae8",
+      "bytes": 1703,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/verifier_tests.move": {
+      "sha256": "0c08a2d9a82507d9d26c65752bbe0d102557dd4ea3bc6ec71db4d6e7a1ff6869",
+      "bytes": 831,
+      "mode": 292
+    },
+    "candidate/payload/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/versioned_tests.move": {
+      "sha256": "5a72172c6a5bec9c7ea9c8aca87769ec5a3b0008867a984ca6ec13a6a57f998d",
+      "bytes": 716,
+      "mode": 292
+    },
+    "candidate/payload/REPRODUCIBILITY.md": {
+      "sha256": "f4c3a2752e796504d0109ecaa819eb6176e047573976a3666e97fc20ebc6d18b",
+      "bytes": 991,
+      "mode": 420
+    },
+    "candidate/payload/evidence/community-independent-build-v1.json": {
+      "sha256": "eb59cba362e0560fd2ae56596987f42c142bab20874da3283357e3bed31d63d0",
+      "bytes": 104879,
+      "mode": 420
+    },
+    "candidate/payload/module.json": {
+      "sha256": "74e06525b56f2b96a1d3209eae167e4bfa9e072358e90bd3c5b4875493484ac3",
+      "bytes": 32290,
+      "mode": 420
+    },
+    "candidate/payload/move/soulidity_community/Move.lock": {
+      "sha256": "a450cc955bd5044c58c408a21f5ac773a7d205693df5eb0dd39deb237f33f441",
+      "bytes": 983,
+      "mode": 420
+    },
+    "candidate/payload/move/soulidity_community/Move.toml": {
+      "sha256": "855526f25eb1e1eba9e016e62f541cf9e2c9607c4fc9e9b8729fceac1003883e",
+      "bytes": 313,
+      "mode": 420
+    },
+    "candidate/payload/scripts/verify_community.py": {
+      "sha256": "e1d2db53823e590c8bc4d0ffc2f40a0b3b644cdafb06f1d027d12e1898ba6ed6",
+      "bytes": 6312,
+      "mode": 420
+    },
+    "candidate/payload/source-candidate-pins.json": {
+      "sha256": "294764a163181aacdc41ae798ca6f503cec478190f99adff54d0aed6c5ff9391",
+      "bytes": 50856,
+      "mode": 420
+    },
+    "candidate/preparation-freeze001.log": {
+      "sha256": "3a7a2cdb56fce318b0ec2ca052ab87d0e40f556f63d40875c8221c6aedd0910d",
+      "bytes": 102,
+      "mode": 420
+    },
+    "candidate/preparation-manifest001.json": {
+      "sha256": "f5e72cfc54fee3fdae6f8566dcb94cf2b4374f099e092669bf16bb592d5ff260",
+      "bytes": 138572,
+      "mode": 420
+    },
+    "candidate/preparation-manifest001.sha256": {
+      "sha256": "044db44dbd64c44f892772ec9d726abf9415965923421767b7ea38a14b196c3c",
+      "bytes": 87,
+      "mode": 420
+    },
+    "candidate/preparation-probes001.log": {
+      "sha256": "3bc89e2c868870dc430463575e3f83b862c99a53e49df473672de5f990bf2a59",
+      "bytes": 973,
+      "mode": 420
+    },
+    "candidate/probe-logs/actual-approval-absent.log": {
+      "sha256": "218630822cf32dfe33b95958ced07be44cc0e7f558ef4c51e14d83db5d197e49",
+      "bytes": 76,
+      "mode": 420
+    },
+    "candidate/probe-logs/actual-baseline.log": {
+      "sha256": "75f8f8763bd5d9587148122b5b6d8d63a75d98b4aed40749ef11f640f63c9448",
+      "bytes": 103,
+      "mode": 420
+    },
+    "candidate/probe-logs/actual-final-baseline.log": {
+      "sha256": "75f8f8763bd5d9587148122b5b6d8d63a75d98b4aed40749ef11f640f63c9448",
+      "bytes": 103,
+      "mode": 420
+    },
+    "candidate/probe-logs/actual-unapproved-template-refused.log": {
+      "sha256": "10367c3221893fa53cc988f121e57533101e1d22923d45727ce1c989493a452f",
+      "bytes": 62,
+      "mode": 420
+    },
+    "candidate/probe-logs/apply-idempotent.log": {
+      "sha256": "3a0e87236865e06a576980ecb3ac543b6ba9c260c29528b857221e55480dcc9d",
+      "bytes": 33,
+      "mode": 420
+    },
+    "candidate/probe-logs/approval-control-binding-refused.log": {
+      "sha256": "a6d6b3d2c704acf59705fa3b94541dcef29fa0f3c721ecc407319fa9c12fa946",
+      "bytes": 69,
+      "mode": 420
+    },
+    "candidate/probe-logs/approval-manifest-binding-refused.log": {
+      "sha256": "a049057e6f5460fafffd0f485aab0a4fd4691c6a30defe727847813881da5061",
+      "bytes": 70,
+      "mode": 420
+    },
+    "candidate/probe-logs/approval-operations-binding-refused.log": {
+      "sha256": "0c8a4cffb2e82b1fc47656cf4ce22a58012541b7b8fc01ed097ed7d3f4f44d1c",
+      "bytes": 72,
+      "mode": 420
+    },
+    "candidate/probe-logs/backup-partial.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/bad-frozen-pin-refused.log": {
+      "sha256": "b215b1c83c9805451951a6d7c0f86f7c960432e6881a69d043e2c14e7f337676",
+      "bytes": 62,
+      "mode": 420
+    },
+    "candidate/probe-logs/baseline-drift-refused.log": {
+      "sha256": "10195bfa79494b3f8dd26a5b6ab6899d191279916ccb90a62d92cc9160e9c566",
+      "bytes": 62,
+      "mode": 420
+    },
+    "candidate/probe-logs/concurrent-lock-refused.log": {
+      "sha256": "4dc3a58541d1850c32b65272e642cae1248fc349fcc178e6da38ecc2fb63c65a",
+      "bytes": 54,
+      "mode": 420
+    },
+    "candidate/probe-logs/corrupt-backup-refused.log": {
+      "sha256": "76cf7045d29ccf72ce95eb106eed5e06321f1d7118095b6aad7a5987103871a0",
+      "bytes": 52,
+      "mode": 420
+    },
+    "candidate/probe-logs/frozen-payload-refused.log": {
+      "sha256": "189e8b1ca71f21bbf49ee622981c19e9e52b8e9cf2b7609dc51979de59485ab6",
+      "bytes": 222,
+      "mode": 420
+    },
+    "candidate/probe-logs/hard-exit-after-journal.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/hard-exit-after-write-before-journal.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/hard-interrupt-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/interrupt-rollback.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/journal-binding-refused.log": {
+      "sha256": "1a181d24d964cbd7123372a7b49f9692b139325d56c23b11dde258868007666d",
+      "bytes": 61,
+      "mode": 420
+    },
+    "candidate/probe-logs/journal-interrupt-rollback.log": {
+      "sha256": "fabb7b8bf75961eab760e322a063444eb519ad8bc4544874b17866bcc77e6090",
+      "bytes": 292,
+      "mode": 420
+    },
+    "candidate/probe-logs/journal-interrupt-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/journal-partial.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/lock-released-apply.log": {
+      "sha256": "3652d7e317190835368de9abde418a2848e6f158997e5daba89a7ff297895121",
+      "bytes": 287,
+      "mode": 420
+    },
+    "candidate/probe-logs/lock-released-rollback.log": {
+      "sha256": "1eb854efabc888cbfeee896ac81bc89f52814e3344b938398c02c0d924ffc03a",
+      "bytes": 288,
+      "mode": 420
+    },
+    "candidate/probe-logs/missing-backup-partial.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-logs/missing-backup-refused.log": {
+      "sha256": "3f56202f1dc5b0ac6758d2be986594a67030d918ff83b2fd2268ae5fff9bfd15",
+      "bytes": 370,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-backup-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-baseline-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-hardlink-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-journal-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-lock-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-missing-backup-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-protected-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-symlink-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/negative-unknown-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/normal-seed.log": {
+      "sha256": "8d5518e23c92790f057007f84be4826fa5093f5ea1b3271f24fa6c6352fda5de",
+      "bytes": 40,
+      "mode": 420
+    },
+    "candidate/probe-logs/outside-target-refused.log": {
+      "sha256": "5015379117f9dee880490f226667267f51fceb5358b72ce3298c1116752d36c1",
+      "bytes": 76,
+      "mode": 420
+    },
+    "candidate/probe-logs/protected-drift-refused.log": {
+      "sha256": "00c1adfeb8c73b234bc08bb4538121bc26f2fa35116115b08ff881aac81d322f",
+      "bytes": 90,
+      "mode": 420
+    },
+    "candidate/probe-logs/real-apply.log": {
+      "sha256": "c35383375fb85ea579c3836581a08b4274669b752af20d3085c04172f794e2d4",
+      "bytes": 280,
+      "mode": 420
+    },
+    "candidate/probe-logs/real-rollback.log": {
+      "sha256": "f439b4f1a59314723847e115d9a12d65b04ebdf5b6069811c98ddcf92e6f15ac",
+      "bytes": 281,
+      "mode": 420
+    },
+    "candidate/probe-logs/rehearsal-cannot-authorize-actual.log": {
+      "sha256": "5644eaee89b9243ea38af8c319de2201c1646be74e0b0639dea3e2ff746aa0a7",
+      "bytes": 60,
+      "mode": 420
+    },
+    "candidate/probe-logs/resume-after-hard-exit.log": {
+      "sha256": "a4390c1f9897835019b316da5b785a2e30126bae81025b75e4aad278ebd41021",
+      "bytes": 288,
+      "mode": 420
+    },
+    "candidate/probe-logs/resume-after-journal.log": {
+      "sha256": "6247d70c1e1032ef6ac7d652b8ea9cb65b48f842661911128732e8462f5ab541",
+      "bytes": 291,
+      "mode": 420
+    },
+    "candidate/probe-logs/resume-applied-idempotent.log": {
+      "sha256": "3a0e87236865e06a576980ecb3ac543b6ba9c260c29528b857221e55480dcc9d",
+      "bytes": 33,
+      "mode": 420
+    },
+    "candidate/probe-logs/resume-restored-idempotent.log": {
+      "sha256": "db1f53d3706f0ff74c853b595a76191feac390fca3f5364718a4e442997c3b82",
+      "bytes": 34,
+      "mode": 420
+    },
+    "candidate/probe-logs/resume-rollback.log": {
+      "sha256": "222b436547174f7280f4f6a7f1a9623ed7391670744ed5a6e84bf10aa4f91159",
+      "bytes": 289,
+      "mode": 420
+    },
+    "candidate/probe-logs/rollback-idempotent.log": {
+      "sha256": "db1f53d3706f0ff74c853b595a76191feac390fca3f5364718a4e442997c3b82",
+      "bytes": 34,
+      "mode": 420
+    },
+    "candidate/probe-logs/source-hardlink-refused.log": {
+      "sha256": "a218ccba6db72459f8d082484ff17683bf77b861e45dfe33b215eb3764da34a0",
+      "bytes": 317,
+      "mode": 420
+    },
+    "candidate/probe-logs/source-symlink-refused.log": {
+      "sha256": "bb947d5aba1474849b9a4313f5456d0ece5fcb342037eab04ecf594b1823789f",
+      "bytes": 309,
+      "mode": 420
+    },
+    "candidate/probe-logs/target-symlink-refused.log": {
+      "sha256": "e48ddabc43c96692a896db53dad35dc3ba3fd53ddccfcf643a5d80e69736d7fc",
+      "bytes": 259,
+      "mode": 420
+    },
+    "candidate/probe-logs/unapproved-json-refused.log": {
+      "sha256": "10367c3221893fa53cc988f121e57533101e1d22923d45727ce1c989493a452f",
+      "bytes": 62,
+      "mode": 420
+    },
+    "candidate/probe-logs/unknown-outcome-refused.log": {
+      "sha256": "36dc0e2757a5d12a21af4684f1bc3be629d1d9ea5c691c32bd05941999ff01fe",
+      "bytes": 215,
+      "mode": 420
+    },
+    "candidate/probe-logs/unknown-partial.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 420
+    },
+    "candidate/probe-results.json": {
+      "sha256": "ff5f5422b00af1ac7b1cb64dbfcc9bf0260204c4f0e6c8b57f7beddbf7e3b142",
+      "bytes": 60137,
+      "mode": 420
+    },
+    "candidate/probes.log": {
+      "sha256": "4a4c8fb7e5f581d16fa484f5f369d39017808f238af4adeff201364c709e929b",
+      "bytes": 33,
+      "mode": 420
+    },
+    "candidate/probes.py": {
+      "sha256": "fa3d3dc480cc409111a25bcb1876a350a1c7f921a14eb2335b59543e8d033176",
+      "bytes": 7894,
+      "mode": 420
+    },
+    "candidate/registered-ci.log": {
+      "sha256": "cc74ef9f34515e67d7d680cfa9eea1a725b45270c9f0fd36ad524e42a39f9d86",
+      "bytes": 497,
+      "mode": 420
+    },
+    "candidate/rehearsals/hard-interrupt/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/hard-interrupt/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/hard-interrupt/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/hard-interrupt/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/hard-interrupt/.cas/journal.json": {
+      "sha256": "173677bbafd2b379421ada06af43a374e011240be74c5ae6f99c5de39e0a8e27",
+      "bytes": 3972,
+      "mode": 384
+    },
+    "candidate/rehearsals/journal-interrupt/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/journal-interrupt/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/journal-interrupt/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/journal-interrupt/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/journal-interrupt/.cas/journal.json": {
+      "sha256": "453416fc695d20476362bb875fe98b52401f379a3ce61b99f2825b37d7398c15",
+      "bytes": 3975,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-backup/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-backup/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "c7791eeaf1260ae1da924053a5c5a0f6d51abe1f8aae76a899376268c5aecabf",
+      "bytes": 7,
+      "mode": 420
+    },
+    "candidate/rehearsals/negative-backup/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-backup/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-backup/.cas/journal.json": {
+      "sha256": "011b29bf74d27affdac299582f482de5d8db1e8390c21d3d3cf68550ec648ca0",
+      "bytes": 713,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-baseline/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-journal/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-journal/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-journal/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-journal/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-journal/.cas/journal.json": {
+      "sha256": "26c6acee93da8622a3c4695ac4112483ba1de29b6d7c85dae2bd70959f7eb19c",
+      "bytes": 468,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-lock/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-lock/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-lock/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-lock/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-lock/.cas/journal.json": {
+      "sha256": "cdbdf9000f64b6f16b8224503e6ffeb71661b8be6e3250a8e95b24392b9b3afe",
+      "bytes": 3971,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-missing-backup/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-missing-backup/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-missing-backup/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-missing-backup/.cas/journal.json": {
+      "sha256": "c57c7f556d1229bdf506bcc794816336630afeaafb21a4c9320c8e5b5f0bfd3f",
+      "bytes": 721,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-protected/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-unknown/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-unknown/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-unknown/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/negative-unknown/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/negative-unknown/.cas/journal.json": {
+      "sha256": "7a29f582a6f32d2760efb3d692f9a33c4a746cda8fe2e3e196150b906d3e1e23",
+      "bytes": 721,
+      "mode": 384
+    },
+    "candidate/rehearsals/normal/.cas/backups/82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d": {
+      "sha256": "82e94d5b85f588ef553fbdb98c2e0f1095ab735d9acfc15965ad8fe061b2f15d",
+      "bytes": 937,
+      "mode": 292
+    },
+    "candidate/rehearsals/normal/.cas/backups/bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f": {
+      "sha256": "bbfd44ba3aaf33b48739d0048750f9982448d6b086866d41a620ea795d06270f",
+      "bytes": 291,
+      "mode": 292
+    },
+    "candidate/rehearsals/normal/.cas/backups/fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86": {
+      "sha256": "fab9953c5fee339c98703e04e2c54e309864693d6dd231e5042abfdb4cd58a86",
+      "bytes": 30583,
+      "mode": 292
+    },
+    "candidate/rehearsals/normal/.cas/exclusive.lock": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": 384
+    },
+    "candidate/rehearsals/normal/.cas/journal.json": {
+      "sha256": "d91725d0b701235caf2a8af14e546a60b44f79b5008a81181e84e3297a5303c3",
+      "bytes": 3964,
+      "mode": 384
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/Move.lock": {
+      "sha256": "7b70558c2b3e850c617b47732a077ed1bdcb07d54b99e73722f78e3991f2cd5a",
+      "bytes": 264,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/Move.toml": {
+      "sha256": "ed8aa8b67d47eff5566d4ed827b79c4137371b089ce57c877089ea2f69cd7698",
+      "bytes": 145,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/address.move": {
+      "sha256": "d71f1b77cf1bf4f07a53bb99a84bf1ca6a41800f1d469468ac6a09e5c382da97",
+      "bytes": 313,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/ascii.move": {
+      "sha256": "d6215e52c6ac68fd03a604a16d085b9c239037aa2406e55f8d5f3b02a823a980",
+      "bytes": 5441,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bcs.move": {
+      "sha256": "22c967d0786cd0ab7fa29a7160ba33a9add8c7d958368096658c1b0725c92f18",
+      "bytes": 558,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bit_vector.move": {
+      "sha256": "627d05d5c9213de5cb5a0a90687c2888ce3a2381b5d4edc5caac4ce7fe266416",
+      "bytes": 3284,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/bool.move": {
+      "sha256": "671b254e3bb07a5b3d95575ff326298f2ff0a878c231e28ef0e48b85fff30e27",
+      "bytes": 120,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/debug.move": {
+      "sha256": "8227c24198a355ca4fae76357f8615b005983c799a1ca445950d51667cf7e6d4",
+      "bytes": 212,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/fixed_point32.move": {
+      "sha256": "f5efb755f10cd8e89094fc1f1ad1c61cf321a190bc9c1f2e9aaf4e6e98493279",
+      "bytes": 5144,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/hash.move": {
+      "sha256": "b45325a9a03489099b8a74d21442cbcd65123122957220a3f1c3b05258a299bd",
+      "bytes": 385,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/internal.move": {
+      "sha256": "1e64f67dda05c373a7cc0b31f07eeb8d52772e44b48f7648ffcfb93797bb28d5",
+      "bytes": 1191,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/macros.move": {
+      "sha256": "366b5d72200ba8fe126a735080d43322c906c293a92dd750b68003872e43f698",
+      "bytes": 10127,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/option.move": {
+      "sha256": "26ee90edc479f5df17d570b34d4f5fee255ce53c1dda024effc95562d34576a2",
+      "bytes": 10204,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/string.move": {
+      "sha256": "81004398e62e604f55f9bf40ddb0a8f253f8e51f9bb0dc0f2b0f094606b1eb09",
+      "bytes": 3827,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/type_name.move": {
+      "sha256": "2f587d2524dd3ac1341beeaec4297fe31bd0cd4ee22510e55696158a1b3b166c",
+      "bytes": 6618,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u128.move": {
+      "sha256": "18bc0ee5580b852db78e1188f2d594aa218ac712bd8a72256d8e38a7c3788953",
+      "bytes": 6896,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u16.move": {
+      "sha256": "5d0dfca4ba9db9895274ba3550919deea57294de1e353b12894d9d9d4e054488",
+      "bytes": 6281,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u256.move": {
+      "sha256": "2794429e56a883ff4327e3a1d09aaf910bdfb4100b8de2aad4ee596ab5462528",
+      "bytes": 5063,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u32.move": {
+      "sha256": "de21fa0ea826436ec8730dddf2c720015689e5f407fbd157de338ca20b323795",
+      "bytes": 6447,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u64.move": {
+      "sha256": "5167050da2a02fa3a99a9e512a09f52ccb841f4e5d057e4a79c45d299d6f8ffc",
+      "bytes": 6621,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/u8.move": {
+      "sha256": "f6d0e875084846733e2dc23e8348a9d6743876838ac36e468a2694462e397962",
+      "bytes": 6036,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/unit_test.move": {
+      "sha256": "d479d1576e81fe69f1d182445427e6fee775aa159bf594fae1f7faa864a57292",
+      "bytes": 1150,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/uq32_32.move": {
+      "sha256": "f8b97a6b5dd4ee388321ca7f5fac2b0de8e69e0b1b11381340951bdca8206e3b",
+      "bytes": 5592,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/uq64_64.move": {
+      "sha256": "6c2b57202de661bf34287c108af09c5200325e32e4798353b9e7e58eb0f7be9e",
+      "bytes": 5616,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/sources/vector.move": {
+      "sha256": "bfc84b8f37c41626059fabf9bcc49f4299ad1af065056fdf1f24249fe88e7646",
+      "bytes": 18504,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/ascii_tests.move": {
+      "sha256": "38c4b078e35e881c3757ef859d922c1ca644a9e77623cdc25a3098f8ad7d38fd",
+      "bytes": 5411,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/bcs_tests.move": {
+      "sha256": "1c8e9f41f3d6e279d3aadd8b9b96b810fc2bf5a58d93e3e5802bc83da039ad81",
+      "bytes": 2608,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/bit_vector_tests.move": {
+      "sha256": "b95e206ce047b110f85af9ad88e76b9af51b102645e1f3c57b11138682f87c11",
+      "bytes": 5540,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/fixedpoint32_tests.move": {
+      "sha256": "a5279f923380456f42de6cffa875661c62e0d21f085447ef987382a6191ca830",
+      "bytes": 3808,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/hash_tests.move": {
+      "sha256": "7ea5544202ee64584a2ebae7277f9a6980596d8177d1298d0cb14fb8a876d2b0",
+      "bytes": 682,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/integer_tests.move": {
+      "sha256": "a091f65723d9a0f555aaada65354ff8b412b159f7451f7ccc0da7ef7e224f602",
+      "bytes": 27347,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/option_tests.move": {
+      "sha256": "de13732caf256cd1a130d8fa954382ed6bd01170fd6d275d5a9ba92c7f5247d8",
+      "bytes": 8601,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/string_tests.move": {
+      "sha256": "b5a5499b08b34a0e5c77b1afeafe23a95846d48529a780098ccc400c7e6880b7",
+      "bytes": 1914,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/type_name_tests.move": {
+      "sha256": "cf5a8651e9f4ccb82c539260fe424bb06ef42808d86d64ba42c756ecef1a81f2",
+      "bytes": 11262,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u128_tests.move": {
+      "sha256": "2f44d512dc20480f800d99bb2ac5e0c0de33d94d2f18a6fd9a7ccc83b264a08d",
+      "bytes": 4265,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u16_tests.move": {
+      "sha256": "57fb1c5622fc1ed94780966da15b00e95ae9b6dd8bbe630bda8ea2c4a5619430",
+      "bytes": 3820,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u256_tests.move": {
+      "sha256": "25e023f0f54df995edc45caa99b9013a5dc0b82c8c3a2b1e91aa40eb70515f1f",
+      "bytes": 4137,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u32_tests.move": {
+      "sha256": "72b94ae58926d2babf566563d422967b9d98629694c0fe498845f1a3f43c3a06",
+      "bytes": 3927,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u64_tests.move": {
+      "sha256": "a9ad567df136f9a819c584910cee7253ee79ca271331e2d5f9441a6b64aaf15f",
+      "bytes": 4059,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/u8_tests.move": {
+      "sha256": "016fac641e1b479c31034a32d8565fbc390e8aeb987acbcc6a5ac58158e4bb5f",
+      "bytes": 6774,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/uq32_32_tests.move": {
+      "sha256": "54edf1cef2dd3b41a68da10ec0264eeacb923595a5cad1d78169414780d9103e",
+      "bytes": 6192,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/uq64_64_tests.move": {
+      "sha256": "30a97cf6e37f9be68cc9d56016540329559df51d65bda8ffd64e2aeff881ab49",
+      "bytes": 6241,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/move-stdlib/tests/vector_tests.move": {
+      "sha256": "bc09a91d65bc85a825fd92d4fe5429c469662f5d2d5b6e15358283893ea619ff",
+      "bytes": 26215,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/Move.lock": {
+      "sha256": "a2eab870582482cb418c326cd7212fa44da205f0860857e8f563e00433593e60",
+      "bytes": 474,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/Move.toml": {
+      "sha256": "cba85554db7a2bad8a88db1c60462f9a7364bcf7dd7e61a4d42dd8e32713f193",
+      "bytes": 196,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator.move": {
+      "sha256": "76369a48ed9e5623f28b12ff2136cf900ff859939dfeaa670c4f43c59e695069",
+      "bytes": 4644,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator_metadata.move": {
+      "sha256": "98d00f6962ddabd47da1638f25e1a2e620b38908f78f307a9b2627656fe1924c",
+      "bytes": 2723,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/accumulator_settlement.move": {
+      "sha256": "8d5ae68ab12e0c979bb322e414365ed24e694012e1849ae333bb419c06d7a03c",
+      "bytes": 6997,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/address.move": {
+      "sha256": "79e8640c01323708fc6400cf86c7dc1be309c574c20449e5f6765c7f149e270e",
+      "bytes": 2743,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/address_alias.move": {
+      "sha256": "7f2fc895fe6c7cfaaff4470144b96290afdef33697ed9372e8ff14dc2440fd85",
+      "bytes": 3850,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/authenticator_state.move": {
+      "sha256": "ace84aacfca3bcb43c86c73c6f771df084acd020747bda061718571a07141bba",
+      "bytes": 11749,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/bag.move": {
+      "sha256": "93c3ff2e6802b3d941445d38313a7702cf7eb14ec06c7537789b7a74eb00233e",
+      "bytes": 4246,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/balance.move": {
+      "sha256": "4ff2678af3e4e67af3cf7876e1450f8f062e310e500ca75988798873a766a1ce",
+      "bytes": 6180,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/bcs.move": {
+      "sha256": "181618e27406e4ce5ca6e5d04a8e20189b6e345e373ac8e63847def1f8fcbcf3",
+      "bytes": 8357,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/borrow.move": {
+      "sha256": "dc1c16ad8733f82a5e8cb9ef161b6000c25a8535927e46712f5ada1406b3b51a",
+      "bytes": 3896,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/clock.move": {
+      "sha256": "7fcf0ee904f7269d870eb9d911175556a5637da163666139020f0d7e4475c835",
+      "bytes": 2815,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/coin.move": {
+      "sha256": "89a6acba362f52eb210d2c3b48144415aeb6589913c002dbedda3ad67ba0bcbb",
+      "bytes": 23779,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/config.move": {
+      "sha256": "c8faffbd0c26e910a9cba9350955835ccee4d74690888b3968a32fc5c4e66599",
+      "bytes": 8777,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/bls12381.move": {
+      "sha256": "104026006462a5b92805e05b36e87e61e9cc8cfe1c24b94fd726cb2c0114eb48",
+      "bytes": 11940,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecdsa_k1.move": {
+      "sha256": "66b1c12aa1b42b5587df93cd43988ccb918783cef24f05cfdd3e8e790f1fc6b4",
+      "bytes": 4237,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecdsa_r1.move": {
+      "sha256": "73f396d0e9af475fa3c0a8ec3c20b542f9bd478cbb0a87fed1413db7a50cf642",
+      "bytes": 2265,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ecvrf.move": {
+      "sha256": "dfa785e40b154a759e6783b5e1cc751d14259d07d47acf68aad916d3d3bda85b",
+      "bytes": 930,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ed25519.move": {
+      "sha256": "a8c60d2014d6c05e8658cdd287005261573c7058712bf69e34628c4c880881a5",
+      "bytes": 585,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/groth16.move": {
+      "sha256": "71b513568eaecea5982e8c7e7c346464b3a087c63011a2ec1367358d00c0ffc3",
+      "bytes": 5557,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/group_ops.move": {
+      "sha256": "9fdb0b885a2f21461b174b5258ab47f314fccda20527ba9cc4b7a0d1af117e27",
+      "bytes": 5305,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/hash.move": {
+      "sha256": "d61cbcce22bccdfe46c198dd3e92cadd7d181242d078985a76d82b6b3b302057",
+      "bytes": 576,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/hmac.move": {
+      "sha256": "8d4881c7949fbf805753a4dd83adea9db6a44e737ab7d36fffb2a06384118468",
+      "bytes": 328,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/nitro_attestation.move": {
+      "sha256": "de4d4f5bbf74daa5f40fe1e5fc36e201ffa8fde1fc1e46785f46ab75afbb28fa",
+      "bytes": 3311,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/poseidon.move": {
+      "sha256": "059245812dfa9e47f7b01f8513b4d948ec3192fa9340d68b1674f93f9cd4b4e8",
+      "bytes": 2154,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/rangeproofs.move": {
+      "sha256": "a07c3ee2410656a0e0b9ae66a7c14dc0a21cbc16256e2091e45958d29c374517",
+      "bytes": 2760,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/ristretto255.move": {
+      "sha256": "d8782d9824ca9d67fd049b95da7392adc9e2c3342ff5e0834af12a5cdc76a1bb",
+      "bytes": 3400,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/vdf.move": {
+      "sha256": "d414f91d231ec857b0ee9a997a77647b78b0d28ef7249f43f4d35806b47a029d",
+      "bytes": 1837,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/zklogin_verified_id.move": {
+      "sha256": "0ee24edecd5c76f06c0c275bc1fcb26573ab8dfd18b5e2c3b7f8359f27039b60",
+      "bytes": 2848,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/crypto/zklogin_verified_issuer.move": {
+      "sha256": "1143693ca3e99d211cf75798e60d05f7e0345500dc85cfc7254815d5ebb484c1",
+      "bytes": 2428,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/deny_list.move": {
+      "sha256": "40f866cd5bc2fe74783909261ccc602d5c762094c58edcb27c5bcb22a71ce3fc",
+      "bytes": 14218,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/derived_object.move": {
+      "sha256": "fece962d9e80cf53045e9bd546eb8599ef9d16fe7ad8deb45a64c70ae9d6f259",
+      "bytes": 2569,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/display.move": {
+      "sha256": "55af32a05c793472d72312bcf55bb984af0c938b0de9f14beef80a43207f6ced",
+      "bytes": 6180,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/dynamic_field.move": {
+      "sha256": "423818c572638143f3de05896c209df82b51c287b7e567d8e50808f467c56f07",
+      "bytes": 11603,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/dynamic_object_field.move": {
+      "sha256": "aac0f317aac47de5fa7c1143586182ecf4282736f30e9a68a1d3bf4653ef869a",
+      "bytes": 11311,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/event.move": {
+      "sha256": "d8c4ace728a0566ac9d78b86ed592501e95576f51582dc3b32ab0c17ab9a9681",
+      "bytes": 2241,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/forwarding_address.move": {
+      "sha256": "c3a5feb72f3db2d6c9b0e40f011aeae1d3a98ded696c8ccfc9766d5db788fb81",
+      "bytes": 1141,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/funds_accumulator.move": {
+      "sha256": "0879f4f8198fba05e7471959ceaced70afde9f16dfd4de48d3c6268a8d02c34b",
+      "bytes": 5766,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/hex.move": {
+      "sha256": "88668252e93376bb5e95890ad9b8e4fd9a822726cb70ed0a037f750ff70b7c61",
+      "bytes": 3478,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/kiosk.move": {
+      "sha256": "894551834729eff904a0e9075aa0bf77481919c2352870b4de4d8b831350db85",
+      "bytes": 24024,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/kiosk_extension.move": {
+      "sha256": "397a9be3ccde3e8bd3151d77247f128d319d0ff0bfb86c6046a06646797744bf",
+      "bytes": 9978,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/kiosk/transfer_policy.move": {
+      "sha256": "b042d85ecf88f11b504f87bff1e2625bb9fce24c159ee43f1c273f9061066b33",
+      "bytes": 11627,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/linked_table.move": {
+      "sha256": "1aad6f85673900cb0af40586bbcef804296bfec7c3f0cb512af47af2657e34b5",
+      "bytes": 9350,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/math.move": {
+      "sha256": "1213303013c1786c196e5f2462242c30adc4e20427214e802be83b2eb2859f26",
+      "bytes": 1017,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object.move": {
+      "sha256": "9db85c5dd68bf6bd44fe1792bb6f3a5254f16da739c68c2bd65370168d4fcfc0",
+      "bytes": 9540,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object_bag.move": {
+      "sha256": "a4c9727c2cf12e275a3da86c1ee00c4bcf97046c43976a6f7620139b7b1085a3",
+      "bytes": 3929,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/object_table.move": {
+      "sha256": "0750dc08d430a2be58552e1e44fb18f5b4afe24dac5679bd17e276e9b877aaa1",
+      "bytes": 3690,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/package.move": {
+      "sha256": "c0691c8011d0bdb119d43013e8a09591b0cbcb855fdb8558a76ce7db46c9492c",
+      "bytes": 13206,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/party.move": {
+      "sha256": "431d51d3694debab65ff1147aae6c818381fe12351fda0ae62b9ec67db7abed1",
+      "bytes": 3412,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/pay.move": {
+      "sha256": "a6a54cd0665673cc29e9123765469b8c45cc6b60d2081131afe488b95fa5fc00",
+      "bytes": 2604,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/priority_queue.move": {
+      "sha256": "5f4f7c7100125108ece89b9eea92b6260cd39037c0911da2c11e76aaf1a12182",
+      "bytes": 6556,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/protocol_config.move": {
+      "sha256": "2861ee704e490b3c6022a14d258ae82b38ad57da6f0ff0bfb3b617c7e6b9deb6",
+      "bytes": 1233,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/prover.move": {
+      "sha256": "35ef0413c16850c64bd8c2e9e53491d95329ec977917ae5604c7d76cbdbf22bb",
+      "bytes": 95,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/random.move": {
+      "sha256": "0698d0395486980a7745432cb7bd7f8d69ebe917094d0e25fa18481c4e2406aa",
+      "bytes": 10453,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/registries/coin_registry.move": {
+      "sha256": "6325698d3936710a7fa9df94c9bfc81b50e0213e4bac3442279d94ad50c841d9",
+      "bytes": 28789,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/registries/display_registry.move": {
+      "sha256": "a1d1512e159820dc570fcdd1ff94373d476c9787dc0edd3b6e7ac66de80241a4",
+      "bytes": 7596,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/scratch.move": {
+      "sha256": "622c023d0d4de509e16682ac428239f95448f2c23cad3fd3edd656a354d36b78",
+      "bytes": 16651,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/sui.move": {
+      "sha256": "7be8ede4076784b16664aeb1b094a844165fce033eb6252483255b16e520dc04",
+      "bytes": 1745,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/table.move": {
+      "sha256": "058e4679b90a03c76ee8ac7d59210cee8aae365b8603b552dd0184db1a8e329f",
+      "bytes": 3906,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/table_vec.move": {
+      "sha256": "0058421a0ada17ff8f533ba19588d4636fd04a959607417849036548eace409f",
+      "bytes": 3928,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/test/test_scenario.move": {
+      "sha256": "613aaf849fc412ff15335f98fc3b35e4462a175343278c6a21325c0963bab679",
+      "bytes": 24881,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/test/test_utils.move": {
+      "sha256": "e156b2ca016ec82936bc891f6d0bc50ba54a9e2705e14084300e8fb43eacb4d5",
+      "bytes": 918,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/token.move": {
+      "sha256": "d28a9996208f0a6369ce40d6dbfd023d1e4944e0a863b33398136ab218027293",
+      "bytes": 24607,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/transfer.move": {
+      "sha256": "3ec5a78be55b2972a120a998a39e373cce1eef27186737b977d897da668e93db",
+      "bytes": 8913,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/tx_context.move": {
+      "sha256": "05308a38774bf3a23896bad90cc8d3536ea887a0224ed62d9684ea2fb38b6385",
+      "bytes": 10916,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/types.move": {
+      "sha256": "3f0dd52b488e391090d4a373f426b1d49999464597f7091402d8aded1226ee30",
+      "bytes": 351,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/url.move": {
+      "sha256": "71054151b750d5d1680d70e69b288379990f8b74ad0e3b15b649184134f1a8e3",
+      "bytes": 810,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/vec_map.move": {
+      "sha256": "af152baac748e02f6c6c156a052f3162ccb2b8854326b5fc3e2b0e0334266cf1",
+      "bytes": 7344,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/vec_set.move": {
+      "sha256": "6f3d44f12261eb98a8a52db9642907629b08855dfe17639c295b15531607363b",
+      "bytes": 2956,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/sources/versioned.move": {
+      "sha256": "cd23ac088c7e9e2c22106e1f767ed92429d67cae3cd9b2ffc014457e28f9cd18",
+      "bytes": 3156,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/address_tests.move": {
+      "sha256": "2ecd7ff724bf366eafc35b7ac80dcb1d4d79695ae73e8c6f508fb9db70cc91f1",
+      "bytes": 8387,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/authenticator_state_tests.move": {
+      "sha256": "d07e0e2e60bfd13bc2fa05da833a473cee5f868c3a1c216e0111d822bb7a11ff",
+      "bytes": 7851,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/bag_tests.move": {
+      "sha256": "757f8747b76bc48e5ff109c8f291f9558b45082fe40eeec0b57cf11aafcdbdf2",
+      "bytes": 4625,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/balance_tests.move": {
+      "sha256": "7924a581a8b423e48b6d49cb13bed37c9afe468e49ea7d1b99acf26b7ba8d7aa",
+      "bytes": 2081,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/bcs_tests.move": {
+      "sha256": "47fae36b72a17423b5e9c25b749931e3cad2a3503f20503bced1ae6e709f1d1c",
+      "bytes": 8328,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/clock_tests.move": {
+      "sha256": "3964a45e500604047afb79e1c883a0fbc133ff3b3b53d30f22dc492d0b625361",
+      "bytes": 468,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/coin_tests.move": {
+      "sha256": "938dc507b14ac076a3d9c89c55cebbe485fcbcfa2ad0fb97003e815e8a50f401",
+      "bytes": 26868,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/config_tests.move": {
+      "sha256": "c43f31fa460897860d6bbdbdc22876ab1806c38450a36e4fae594c1dfffba1b2",
+      "bytes": 19655,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/bls12381_tests.move": {
+      "sha256": "47b9ae3a3f8da674ce38f32fcda83e4d3366d65a1c12417be22de09117329ec5",
+      "bytes": 40256,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecdsa_k1_tests.move": {
+      "sha256": "801d68489c116e54fe53f3b16c94f9562f1b37f6107fb5dcbbf5abb616c566af",
+      "bytes": 8955,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecdsa_r1_tests.move": {
+      "sha256": "e79b17c7810a9e9df7a3406b389f8bee95b374510a7525dddc9b10e0104e4d97",
+      "bytes": 3335,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ecvrf_tests.move": {
+      "sha256": "ca7e730c884aa4f1d283ffb413bb3de23958a541066b9fab506c26583a3e7023",
+      "bytes": 2921,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ed25519_tests.move": {
+      "sha256": "9b64bdd6175b4ed510682ab8da5f0b40b7f8784dc7c9c639af3973974dacb250",
+      "bytes": 2022,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/groth16_tests.move": {
+      "sha256": "0d5955430d054bbd8ec6f6c96ebb7e06a2169fe29b0ea1fef2598c50d49ed4ec",
+      "bytes": 20337,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/hash_tests.move": {
+      "sha256": "f21611481c7ffec94cddfbed1011eec6f2f0dfab2f1e174e910d853b1aa385ca",
+      "bytes": 1944,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/hmac_tests.move": {
+      "sha256": "f7331bdf56954fe5481eada8dabd37848b844c172f3712afe8a056095b83ae37",
+      "bytes": 779,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/nitro_attestation_test.move": {
+      "sha256": "81c6f8a75cbe801226d846013c102075e5b3790cc9388fbd3c7f80a0b86d1786",
+      "bytes": 20990,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/poseidon_tests.move": {
+      "sha256": "118860120223e0bbd83c06c880b2050031ce44146ef6c95bb1c6bfccda5afaac",
+      "bytes": 3709,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/rangeproofs_tests.move": {
+      "sha256": "37ed2599f88e85b17980bfe13ff305eb778be0a495688e1a2572d152628249a0",
+      "bytes": 23890,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/ristretto255_tests.move": {
+      "sha256": "499f7af0849738ac616fe176ada1fe3e966cec339083c479fac48b5cb496e9cb",
+      "bytes": 11202,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/vdf_tests.move": {
+      "sha256": "ce628987179e184d39e332b8de3498e75da1ebeb285cf5ea224f745e9085a3e3",
+      "bytes": 19141,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/zklogin_verified_id_tests.move": {
+      "sha256": "e99b92375d4a000f0e66d3e132c72f5f5032dd95f3537f56825164ae4bc3ace1",
+      "bytes": 1609,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/crypto/zklogin_verified_issuer_tests.move": {
+      "sha256": "0dd6ea7f71aac05635857b71b774b0ae52c505c3f037265a9e20c1ed9a5d9f97",
+      "bytes": 2309,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/deny_list_tests.move": {
+      "sha256": "a2748c5ea1c7a829cb36a505c98624967ea088ae47480b6f649329144fa969c5",
+      "bytes": 1530,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/derived_object_tests.move": {
+      "sha256": "6a539194ea39ac983c2e95041b710bcfeae255657ff737633f52afa1d571fbd7",
+      "bytes": 4930,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/display_tests.move": {
+      "sha256": "e2c3e742662747857bb7f1cd024c4b36c474b8636163feaac62c4c904ce75858",
+      "bytes": 1050,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/dynamic_field_tests.move": {
+      "sha256": "c3711871ede14de4e3febb3cb7586ed785f02f6a4a7b9730a259506f3349fd74",
+      "bytes": 14906,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/dynamic_object_field_tests.move": {
+      "sha256": "5fbc6ce0a4aca029cfaa674914c02bf158ae27c7157349ee76cdafef378ba454",
+      "bytes": 17786,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/event_tests.move": {
+      "sha256": "ad1956fc2138724bca9b23f461cb99499d3ebb155f88a79c89de5de1139bf224",
+      "bytes": 1464,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/funds_accumulator_tests.move": {
+      "sha256": "9b5dd1ea0e96b7933060805704c385b278dfad0ffe40d350d96cadebcb83aa57",
+      "bytes": 4021,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/hex_tests.move": {
+      "sha256": "19be935c083ede484c5c2715d5e303cc213cbcce45c419187f5558155ed0620a",
+      "bytes": 1540,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/id_tests.move": {
+      "sha256": "cf5fa3a2a10234f2d02bae4a642c0cf337f3f1e621ec3fbfcd2b09b47dae2c0f",
+      "bytes": 471,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_borrow_tests.move": {
+      "sha256": "0e2e39dcbebf4f0853a5601dd1ebedc9cb66827b1360c6c2d9a1ceca12930ff4",
+      "bytes": 5542,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_extension_tests.move": {
+      "sha256": "a5254b8a8bbe6a66dbb8e0a01c38bd5a95cd4b49e1878a414c65c45d8de0d332",
+      "bytes": 10650,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_locked_tests.move": {
+      "sha256": "a1cb0ab2ad279dfd0ac1ff5c5cba323c582114ba7241bd675a66c54257f0d8a9",
+      "bytes": 1702,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_test_utils.move": {
+      "sha256": "ce2a0687b2cbb2eb7b65bf777898cdaaa71f851a2f09c450cbcfee2ad5f829c2",
+      "bytes": 2195,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/kiosk_tests.move": {
+      "sha256": "fc40686e521cfc5814944306d953906f93f07196ee50d35386350ea0d0ac229a",
+      "bytes": 10077,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/dummy_policy.test.move": {
+      "sha256": "9a105fbf2797bce5a9862f44e81f4df4c700ae155972eab6426254e0d5046e58",
+      "bytes": 734,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/fixed_commission_policy.test.move": {
+      "sha256": "621c9679bfbe2bfe477458f34e6a7f551b68accbad16ca3d466f9e29b7e20950",
+      "bytes": 1717,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/item_placed_policy.test.move": {
+      "sha256": "b85f8a8386ca6641cfeed9c1292362b1d68a780e55314d74cbd23a11ece38760",
+      "bytes": 879,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/royalty_policy.test.move": {
+      "sha256": "6d00629fd455920c8ba8ee81534ea7e754234451d4f8d675dca035f84281f76e",
+      "bytes": 3782,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/policies/witness_policy.test.move": {
+      "sha256": "898e2a4d48045a6b9ab6d679c0e981918406224df2729f15575d0c95159e59ff",
+      "bytes": 3540,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/kiosk/transfer_policy_tests.move": {
+      "sha256": "a6fa7f660453bc47be80d126cce72a18243c26020e8240e72d11b9318b27fa1d",
+      "bytes": 5014,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/linked_table_tests.move": {
+      "sha256": "beb133c14aa1cfb5c354d6039612f8f37a0c9115e59353ac6becb969dbe0cc49",
+      "bytes": 21071,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/math_tests.move": {
+      "sha256": "de48863bd5f45d23e41dc8a85336735cd885f68b21e64f62d1fb10087e4ea477",
+      "bytes": 1486,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_bag_tests.move": {
+      "sha256": "f29edd86dd9f3a0bbce22b11f257add111cbf14964df73ee091476e57a8dcead",
+      "bytes": 5976,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_table_tests.move": {
+      "sha256": "2ce2af5de8a70dc50173ede0484fd583fe7d8caa8d8cb05df99f654306ebe8a2",
+      "bytes": 5109,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/object_tests.move": {
+      "sha256": "4ed7a1f0f96ee4f87cc9ffda28f603fc4cb34f4cf876d6c51fb9c7606538e16b",
+      "bytes": 823,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/package_tests.move": {
+      "sha256": "97523bebdcd377d054110ce43af0e321ada26731fbdff635d963734e379c51ee",
+      "bytes": 5539,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/pay_tests.move": {
+      "sha256": "3b6265bdf225835195852edfabc2e13bf684c25691f1e75b3a8bf7fe50719942",
+      "bytes": 4250,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/protocol_config_tests.move": {
+      "sha256": "6617ad548e144cf1894ad919c0510e253c7cb03d6a722721aa05406498ddb746",
+      "bytes": 522,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/prover_tests.move": {
+      "sha256": "9a625ca321cb94bbff0102d2c2288dda7df75124b8684df9a86dc60a3465fb0d",
+      "bytes": 1186,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/random_tests.move": {
+      "sha256": "a52420fbf0af23b5352992937368d77a12fef3816243907c03926835d976ebc6",
+      "bytes": 21304,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/registries/coin_registry_tests.move": {
+      "sha256": "6d9af8b5f79935af8342f7a38a8b6acc069a1a3d8e96ba97082b76cf5b1364ae",
+      "bytes": 20754,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/registries/display_registry_tests.move": {
+      "sha256": "40f4403dfc62dde1998518aa6d3c2fcfabb2d1e05b4e5f6d2c8dc6d920beb157",
+      "bytes": 11942,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/scratch_tests.move": {
+      "sha256": "2fc8a666c888081943632723a512fa07202b51a76ffbd805c33d4cfc13d662c7",
+      "bytes": 18812,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/table_tests.move": {
+      "sha256": "8214bf59c736b5d7107e83a2dd7808130fbfdd440a336d08dd43694748c2a9ed",
+      "bytes": 3591,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/table_vec_tests.move": {
+      "sha256": "b553666961cfaa3749534aea22df8052658701e3ed176765ab8f5591e7ad71c3",
+      "bytes": 2986,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_random.move": {
+      "sha256": "aab8769f8177f480657e209f52acdfe6d4573b8f572bf1e5bcd034d82acec074",
+      "bytes": 5288,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_random_tests.move": {
+      "sha256": "6358659b91241951ff3effd184fe82357e2621009440fae9679a9dff927e07bc",
+      "bytes": 7778,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/test_scenario_tests.move": {
+      "sha256": "1ff28f802d7b5d22aed7b4f6e0989e9e2e3182c3b6d056a4708c2f74ac30065f",
+      "bytes": 44686,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_actions_tests.move": {
+      "sha256": "b0b040bef1d6d1858cf575b44daf57e9eba252644f3928d2d1554a1c64d9a6dd",
+      "bytes": 3804,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_config_tests.move": {
+      "sha256": "08761951638cee5d790ab107b45caa45563ece6ec1a9bafe6f48753ac845fb4c",
+      "bytes": 3908,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_public_actions_tests.move": {
+      "sha256": "af34b6a75dda84ffef269357b0ddc582c4c9ae4d7b711ac6e2a7b9e33af1bbad",
+      "bytes": 1224,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_request_tests.move": {
+      "sha256": "a9b2c8bc9e424b90e4ef3014e69a42dc021ebaef30e716c94af43a75f0a67cfc",
+      "bytes": 4121,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_test_utils.move": {
+      "sha256": "d9b4e0b74950f7e40a5d80ec2885e899d67f04299813101e3768cea39edb1ad1",
+      "bytes": 1451,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/token/token_treasury_cap_tests.move": {
+      "sha256": "b6e788d93d66c7196fa6e9907c22eea8f9cb8095853303503534fe7410e7a8e5",
+      "bytes": 1737,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/tx_context_tests.move": {
+      "sha256": "5129089493ea53d34d98f6f3495ef1a073d26ed3b0523d5b349f87769453bba0",
+      "bytes": 463,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/url_tests.move": {
+      "sha256": "b82239b7e5e057b42623a466a54e987111756f4b7be41e8ecbf37ef60728ed13",
+      "bytes": 403,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/vec_map_tests.move": {
+      "sha256": "7bc8bd5dd2a5571f747a34b4a5776fcc0029f101dd1cf41e58b112c3f2affe17",
+      "bytes": 4367,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/vec_set_tests.move": {
+      "sha256": "080a4f819137fb471996e9cda6a924431a692f2b7d15a11fedea1f8b99ac4ae8",
+      "bytes": 1703,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/verifier_tests.move": {
+      "sha256": "0c08a2d9a82507d9d26c65752bbe0d102557dd4ea3bc6ec71db4d6e7a1ff6869",
+      "bytes": 831,
+      "mode": 292
+    },
+    "candidate/repository/.deps/candidate-ae467539/fixed-deps/https___github_com_MystenLabs_sui_git_2a0becb2fcc6989e492981104af67f62f2c9511a/crates/sui-framework/packages/sui-framework/tests/versioned_tests.move": {
+      "sha256": "5a72172c6a5bec9c7ea9c8aca87769ec5a3b0008867a984ca6ec13a6a57f998d",
+      "bytes": 716,
+      "mode": 292
+    },
+    "candidate/repository/.github/workflows/ci.yml": {
+      "sha256": "0c8d128d5f4a7b616716a7bb8f4e52d33dfe083eea0dcf206c59d472a512b659",
+      "bytes": 302,
+      "mode": 420
+    },
+    "candidate/repository/.github/workflows/release-readiness.yml": {
+      "sha256": "5ffe2a05d37833ba8280ab8e126242d517503c9044025d016f441c1b71a52afe",
+      "bytes": 330,
+      "mode": 420
+    },
+    "candidate/repository/.gitignore": {
+      "sha256": "17204deba6dd673ca3e71e08263cbdf98b4ab8485f15cdb059cac15d3c277c35",
+      "bytes": 60,
+      "mode": 420
+    },
+    "candidate/repository/AGENTS.md": {
+      "sha256": "45ee8c51fbed14d9671ece281d816e1786aa01621f4f72fbfa36f2cc3f3c1109",
+      "bytes": 2058,
+      "mode": 420
+    },
+    "candidate/repository/COMPATIBILITY.md": {
+      "sha256": "3d08b54e23ed7e03a1013b80d3ab64a5a7ae7028f14b81020fb4a32c9c0c5d67",
+      "bytes": 1491,
+      "mode": 420
+    },
+    "candidate/repository/CONSTRUCTION_STATUS.md": {
+      "sha256": "7f78035d3c0ad63074a83d0abd75d8221cae4621a3f5d9d4c24144e47adc0a82",
+      "bytes": 2034,
+      "mode": 420
+    },
+    "candidate/repository/LICENSE": {
+      "sha256": "d47a4aa93404cbb6c9831bacf13e77e4b2228952f1b66db2c97689200d0e569d",
+      "bytes": 1080,
+      "mode": 420
+    },
+    "candidate/repository/MODULE.md": {
+      "sha256": "e712033e0475be8131909a6e3fbb038009dfea2e02e60e43a235c9d5791e4b8c",
+      "bytes": 1742,
+      "mode": 420
+    },
+    "candidate/repository/README.md": {
+      "sha256": "111cf03b1ca59c0b684b0160294fb2919e7c07859ab97b60bbdd73bc8bab1078",
+      "bytes": 1480,
+      "mode": 420
+    },
+    "candidate/repository/REPRODUCIBILITY.md": {
+      "sha256": "f4c3a2752e796504d0109ecaa819eb6176e047573976a3666e97fc20ebc6d18b",
+      "bytes": 991,
+      "mode": 420
+    },
+    "candidate/repository/RUNBOOK.md": {
+      "sha256": "a7d04fffa16ee692f4f76d415cef9f3d0243827bb8482b752a8adb15902e7602",
+      "bytes": 1841,
+      "mode": 420
+    },
+    "candidate/repository/THIRD_PARTY_NOTICES.md": {
+      "sha256": "2a86cf771b3f852fd5150d9b78d8a1f8a4c4f4d480157ffd274ea45224e786cf",
+      "bytes": 613,
+      "mode": 420
+    },
+    "candidate/repository/evidence/community-independent-build-v1.json": {
+      "sha256": "eb59cba362e0560fd2ae56596987f42c142bab20874da3283357e3bed31d63d0",
+      "bytes": 104879,
+      "mode": 420
+    },
+    "candidate/repository/evidence/community-test-migration.json": {
+      "sha256": "2990e9ff94691375ffdeebf1613ef478f662082d7e49f20426ba012c3ad90694",
+      "bytes": 4024,
+      "mode": 420
+    },
+    "candidate/repository/evidence/independent-migration-review.json": {
+      "sha256": "8dabe69fc5d98ab39020cad38559e51835ea92970216580143c9b56966772b89",
+      "bytes": 730,
+      "mode": 420
+    },
+    "candidate/repository/evidence/move-check-tool-import.json": {
+      "sha256": "eb443702b5293d848f75687519205c532a24c3b772259df96d91ea1f232c430b",
+      "bytes": 748,
+      "mode": 420
+    },
+    "candidate/repository/module.json": {
+      "sha256": "74e06525b56f2b96a1d3209eae167e4bfa9e072358e90bd3c5b4875493484ac3",
+      "bytes": 32290,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/Move.lock": {
+      "sha256": "a450cc955bd5044c58c408a21f5ac773a7d205693df5eb0dd39deb237f33f441",
+      "bytes": 983,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/Move.toml": {
+      "sha256": "855526f25eb1e1eba9e016e62f541cf9e2c9607c4fc9e9b8729fceac1003883e",
+      "bytes": 313,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/sources/community_posts.move": {
+      "sha256": "993255715aa8e0c4508d59995ff04d8928f2496c0b2fcdcce2b26184ecb426da",
+      "bytes": 9706,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/sources/community_votes.move": {
+      "sha256": "31c7cfa43ff8ef823911a6568ad11904811ed99d4dacfb8522c963eb98e6a4c9",
+      "bytes": 6415,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/sources/profile.move": {
+      "sha256": "b8fff3b0145e8697902a35f7069451a0986d54fc63d16d8096145c815f633aee",
+      "bytes": 15404,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/sources/social.move": {
+      "sha256": "deece68caa07ef6d925093ebb716c98a536b1bdbd6ac5be0257cc713d6dd28fd",
+      "bytes": 6594,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/tests/original_community_posts_tests.move": {
+      "sha256": "e06e147264bc157fb3740e84a9c225c2327aa73bce49681beb3e31d265f9d2ce",
+      "bytes": 11840,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/tests/original_community_votes_tests.move": {
+      "sha256": "177b25f0d0742d418c1c889b32273e140854a4668f3ecbbcbaeeff7c35360290",
+      "bytes": 11257,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/tests/original_social_tests.move": {
+      "sha256": "ffc533db4200e7788fcc4362578e7fedcd3fcf6b39c3e92240324424b2709a27",
+      "bytes": 11335,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/tests/private_bookmarks_tests.move": {
+      "sha256": "3026299317a56ead1d0725ba99fe8a6b67a4d14bcdf8f2344035cfb021e6be54",
+      "bytes": 10470,
+      "mode": 420
+    },
+    "candidate/repository/move/soulidity_community/tests/profile_tests.move": {
+      "sha256": "9b43f04106be2595cfcddb15420abb6266c6155a2f2909a7c79c9644a85200fc",
+      "bytes": 12065,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/network-denial.log": {
+      "sha256": "57144560f68e99e2467abc097c6c71c45b3479e7543ec20386b49689f8118836",
+      "bytes": 462,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/production.log": {
+      "sha256": "7846515fdf2f84d06c12dcd48f2c0263133396ebc4477bf0e35bb0ab49d4fce0",
+      "bytes": 1396,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/production/build/SoulidityCommunity/bytecode_modules/community_posts.mv": {
+      "sha256": "8e91d3642c0af392c28a94a2f8a27767e17443530b7296cc338fd003318b6a63",
+      "bytes": 3365,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/production/build/SoulidityCommunity/bytecode_modules/community_votes.mv": {
+      "sha256": "61eb32e0a0e19f08a556eb6e5e1f4be606eaa91e45a101a57c1eb46b54b439c2",
+      "bytes": 2145,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/production/build/SoulidityCommunity/bytecode_modules/profile.mv": {
+      "sha256": "1cf7482a5408f137d068072291d2366e7481e32d765b6c1eeb3914ce3b34c6d2",
+      "bytes": 5407,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/production/build/SoulidityCommunity/bytecode_modules/social.mv": {
+      "sha256": "1abd767b36c442efe4e9b16158689f329bc271a9a012ba60be48e6f54140d744",
+      "bytes": 1955,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/tests.log": {
+      "sha256": "a56506e3f3c17e65514012c74973dfaf00dbb6d0cf47c79eb18f67ce15ed2df4",
+      "bytes": 10151,
+      "mode": 420
+    },
+    "candidate/repository/output/community-independent-4zp09q4y/version.log": {
+      "sha256": "bf974b9a229498df17d96b47272180dd9267cbad239f463ba25337eda4721e92",
+      "bytes": 24,
+      "mode": 420
+    },
+    "candidate/repository/scripts/ci.py": {
+      "sha256": "ed37e5d333b0666879b43f7dde19494f80f117d5f9abb6865b78ffa9857accc3",
+      "bytes": 17342,
+      "mode": 420
+    },
+    "candidate/repository/scripts/verify_community.py": {
+      "sha256": "e1d2db53823e590c8bc4d0ffc2f40a0b3b644cdafb06f1d027d12e1898ba6ed6",
+      "bytes": 6312,
+      "mode": 420
+    },
+    "candidate/repository/scripts/verify_move_packages.py": {
+      "sha256": "cabf2ce563b65db3f91295209eefda08d8947dfc1119fc5db286ae50c8e344e1",
+      "bytes": 5559,
+      "mode": 420
+    },
+    "candidate/repository/source-candidate-pins.json": {
+      "sha256": "294764a163181aacdc41ae798ca6f503cec478190f99adff54d0aed6c5ff9391",
+      "bytes": 50856,
+      "mode": 420
+    },
+    "candidate/repository/third-party-licenses/PROVENANCE.json": {
+      "sha256": "e8ded3835d4848a31f3d98ff381431c84506e96a06a4c41976912bd63c36ff88",
+      "bytes": 1306,
+      "mode": 420
+    },
+    "candidate/repository/third-party-licenses/apps-LICENSE": {
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "mode": 420
+    },
+    "candidate/repository/third-party-licenses/stablecoin-sui-LICENSE": {
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "bytes": 11357,
+      "mode": 420
+    },
+    "candidate/repository/third-party-licenses/sui-LICENSE": {
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "mode": 420
+    },
+    "candidate/repository/third-party-licenses/walrus-LICENSE": {
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "mode": 420
+    },
+    "candidate/result.json": {
+      "sha256": "b18684d0d204d7d6b37272bbe9f6464749d963929bbf9f14fa2818763d187509",
+      "bytes": 1617,
+      "mode": 420
+    },
+    "candidate/runtime-pin.json": {
+      "sha256": "d589abdfa14e2ed2de7ca7f20ae29ccceddc6fb5187ff2616daf527028374965",
+      "bytes": 1008,
+      "mode": 420
+    },
+    "candidate/semantic-preservation.json": {
+      "sha256": "feb42d535759b9acb7ece5315775322c6ef2bc35ced3dfd6558a9b0880aec62b",
+      "bytes": 847,
+      "mode": 420
+    },
+    "candidate/static-owner-boundaries.json": {
+      "sha256": "98395f6ad0cb26243777ee3eafb3281a9d451c1dfe8dcfbcc4682cb195e92312",
+      "bytes": 2944,
+      "mode": 420
+    },
+    "candidate/terminal-evidence-manifest.json": {
+      "sha256": "5d17feeff9c13fd789c5bd5a568b18f1ad2ddf1762c1802c4c69fd6db0e85abe",
+      "bytes": 23183,
+      "mode": 420
+    },
+    "candidate/v1-input-pins-historical.json": {
+      "sha256": "c6378ea16648e30a3d6f5a12671b0ff7f6cc9f64b8cd5c2b3edef5d67e6e509f",
+      "bytes": 6245,
+      "mode": 420
+    },
+    "candidate/v1-preservation.json": {
+      "sha256": "564149c9aea5f5bd046687104ee29590ff46b5c28c3827df8d5cd545886075b9",
+      "bytes": 138,
+      "mode": 420
+    },
+    "continuation/20261011-community-actual-source-publication.md": {
+      "sha256": "48556e47a6565e3ca229b43f7abbcf2ca25b125600690f0d31b745f3fe7d9236",
+      "bytes": 5610,
+      "mode": 420
+    },
+    "continuation/ACTIVE_CONSTRUCTION_CN.md": {
+      "sha256": "aebfe62a4517d1948d2e682583f83c14bf498555c41f03c169de377b74b5edaf",
+      "bytes": 92033,
+      "mode": 420
+    },
+    "continuation/CURRENT.md": {
+      "sha256": "59d73da63ce983802bed8acb3e72f3906c8eab7cd5591b97b07b71f0465ab052",
+      "bytes": 5109,
+      "mode": 420
+    },
+    "continuation/PROJECT_MEMORY.md": {
+      "sha256": "265d2361b8e5d0567a5a494ace4cc0334bbbe463c4926fc5854f3b05d21873c9",
+      "bytes": 14311,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/REPORT.md": {
+      "sha256": "cc6897ba2d60a4dcc344e21a549b9a32f7abe47dfb3dcea6806bbc51a7787b4b",
+      "bytes": 6951,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/exact-intent-public-readback.json": {
+      "sha256": "c26e5db73c117066b9deaa23301e4888226f2396973ea08a4456fe00caef459d",
+      "bytes": 699,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/inventory-result.json": {
+      "sha256": "ff6fa0860a6f7d0f0e9e6784ec7b9515071f783c80cdef9be7fd34a40e993ba8",
+      "bytes": 621,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/lifecycle-result.json": {
+      "sha256": "f762eb51c3746c6ffa883b28b438d8260bf887d9a41c75a03bd66eca1e086b6a",
+      "bytes": 2272,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/prior-build-continuity.json": {
+      "sha256": "ef17a495d2eb6fc151c1b1d844169ecf42328a7185529629b27a024a1a40e36e",
+      "bytes": 996,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/public-gate-recovery-result.json": {
+      "sha256": "a2e4d965d1b093fc4798a5dcce28b0db3cae30c016dff11ec765f1ee3cfe6334",
+      "bytes": 2663,
+      "mode": 420
+    },
+    "evidence/community-publication-v5-readonly-review/result.json": {
+      "sha256": "8bc5acf8d1ff1a1279a58534a2a72c320597951cc3ac3c46ec38a93ee510f28e",
+      "bytes": 3288,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/apply.log": {
+      "sha256": "5d4451daf40ab5867c4d08feaa984041d80096c32d5facc9fe122d059717fafb",
+      "bytes": 144,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/approval-binding.json": {
+      "sha256": "5236d18f046294fd58ff8dd1926ded3fc530d12b742ba9a487d223cccbe87b64",
+      "bytes": 1142,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/build.log": {
+      "sha256": "b25b9247a6089ae14aef2a5c6a85c6c97af76f494d57363056422666952be9af",
+      "bytes": 1144,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/explicit-public-source-files.json": {
+      "sha256": "a4f2800b788c626ee3a7c79d3c01fdab4615f91caeebd4b3732a628dfc9b78e3",
+      "bytes": 60261,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/historical-construction-status.md": {
+      "sha256": "7f78035d3c0ad63074a83d0abd75d8221cae4621a3f5d9d4c24144e47adc0a82",
+      "bytes": 2034,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/initial-invocation-schema-refusal.json": {
+      "sha256": "5a3a33a76508728912fd943f6e497d7a657a5883d3459f4214a85d451a19ef81",
+      "bytes": 250,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/network_denial_probe.log": {
+      "sha256": "57144560f68e99e2467abc097c6c71c45b3479e7543ec20386b49689f8118836",
+      "bytes": 462,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/post-activation-document-change.json": {
+      "sha256": "9520af4c474309d7af0c4f61e771c6cdc63d62ba84e46b313578e92dd5b57603",
+      "bytes": 671,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/result.json": {
+      "sha256": "9c1f10b0e850b99634e324293295b4cde08b7d0a2ac5ccee4c446d0711ebb79c",
+      "bytes": 1320,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/sui_version.log": {
+      "sha256": "bf974b9a229498df17d96b47272180dd9267cbad239f463ba25337eda4721e92",
+      "bytes": 24,
+      "mode": 420
+    },
+    "evidence/community-source-actual-activation-v2/test.log": {
+      "sha256": "07995afa3e0bb1ba538917584a6a4e42777ce69626b08593012c3443456b8412",
+      "bytes": 10151,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-root-prerequisites-v2/actual-baseline.log": {
+      "sha256": "75f8f8763bd5d9587148122b5b6d8d63a75d98b4aed40749ef11f640f63c9448",
+      "bytes": 103,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-root-prerequisites-v2/result.json": {
+      "sha256": "e5cdd9e767a9fbdd1e0b7150875f9157bb43edf7fff0d53d2f087e333e224f4d",
+      "bytes": 682,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-v2-readonly-review/REPORT.md": {
+      "sha256": "20a4ed59879323c346cb8be8a57bac53e5735239eea3bfcc4312d0f1f94ebc0a",
+      "bytes": 6300,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-v2-readonly-review/actual-baseline.log": {
+      "sha256": "75f8f8763bd5d9587148122b5b6d8d63a75d98b4aed40749ef11f640f63c9448",
+      "bytes": 103,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-v2-readonly-review/result.json": {
+      "sha256": "d9edb413de848340e7694ddb07d3c6c26b2a8bdb781705d901d53edeadd0ec92",
+      "bytes": 1201,
+      "mode": 420
+    },
+    "evidence/community-source-cutover-v2-readonly-review/verification.json": {
+      "sha256": "b91c5b4b618d683944634be3c1834977b159f2fcead006cf5158d16089707644",
+      "bytes": 2203,
+      "mode": 420
+    },
+    "publication/created-object-reconciliation.json": {
+      "sha256": "f6a747d454e10e168a0eed0de4f288978d654d28819d09f328b9c656a45e70a5",
+      "bytes": 465,
+      "mode": 420
+    },
+    "publication/init-custody-proof.json": {
+      "sha256": "983b2e66b76ccfaef91adff569d6481309da7a1917e56a2e35b55e03a379c488",
+      "bytes": 1525,
+      "mode": 420
+    },
+    "publication/init-object-readbacks.json": {
+      "sha256": "7a067981c9c10846e2a4df107a393a0d48945902cf34eacf5ba99ebe5709b72a",
+      "bytes": 8813,
+      "mode": 420
+    },
+    "publication/package-proof.json": {
+      "sha256": "6a6d1688c1934afab3e5cf1ff8c380e5720b4eeae2bdaa5f6c435a4a0efa6706",
+      "bytes": 223177,
+      "mode": 420
+    },
+    "publication/pre-sign-readback.json": {
+      "sha256": "db6a04e33b67fe74ba7bab613becf5c05ad70951704373158f57b182ef0c7d72",
+      "bytes": 12833,
+      "mode": 420
+    },
+    "publication/receipt-bytes-verified.json": {
+      "sha256": "2fc8cd19a273600945e1c23a7376a1c11f4de8fedd0ae3ee16279300273718dd",
+      "bytes": 70,
+      "mode": 420
+    },
+    "publication/receipt-input.json": {
+      "sha256": "d136b03a7a1a49315dd3aedb1902aeaba500bc8678f0ee4f46d1f615757df45a",
+      "bytes": 113861,
+      "mode": 420
+    },
+    "publication/receipt.json": {
+      "sha256": "ba24cb79a31427e606fcca1f1ddd15b03b8a19c0ef66d11d6b4e2c09a38dec5e",
+      "bytes": 27732,
+      "mode": 420
+    },
+    "publication/state-after-first-community.json": {
+      "sha256": "d33aadc933a1a42aea0c7df1d44ddc36e7c8d3372e42cbcc37938ad50853722b",
+      "bytes": 1060,
+      "mode": 420
+    },
+    "publication/state-before-first-community.json": {
+      "sha256": "395ce5bcbc4d6a333c8ab7c4e30b48d62b82b7db9fd234b776181923d5f310ce",
+      "bytes": 19178,
+      "mode": 420
+    },
+    "publication/unsigned.json": {
+      "sha256": "c4f84c556f800c1bf67a6c06c22385223423627a1ae8fdacd053d9ece03c4fb4",
+      "bytes": 84631,
+      "mode": 420
+    },
+    "remote/check_community_v2_prerequisites.py": {
+      "sha256": "86fa52e98e255aa5862a08fe7cdba9a40ba9becea08ab4fd14ae03cda868fe13",
+      "bytes": 4988,
+      "mode": 420
+    },
+    "remote/community-source-remote.json": {
+      "sha256": "893fb0cac0eaab2667777f2d8b57b34e67e84bd0581804556117adcd63c9775b",
+      "bytes": 784,
+      "mode": 420
+    },
+    "remote/native-community-remote.json": {
+      "sha256": "0c9e9d35b5745f3a10cca3ba8fe5fadb3afd728383df7c2c37d980d1123e326b",
+      "bytes": 656,
+      "mode": 420
+    },
+    "remote/verify_community_source_remote.py": {
+      "sha256": "941150d3c68dafa7cb0fcf091ef3e3f118b8ef99ce7244d6ed43e5b8cfc6c578",
+      "bytes": 4464,
+      "mode": 420
+    },
+    "remote/verify_native_community_remote.py": {
+      "sha256": "9c6cab93de87d5cc6215a69305b01cd1bd9fb445e8c767ee8ec6da9bbc8dc17f",
+      "bytes": 3488,
+      "mode": 420
+    },
+    "scripts/prepare_community_delivery_checkpoint.py": {
+      "sha256": "d9b625c0f0d2ba93f532cc9a346b1b3dfbb9bd22c005476374e275f254d7ef45",
+      "bytes": 7374,
+      "mode": 420
+    }
+  },
+  "scope": "Community independent source activation and first isolated publication; full157/30 active",
+  "excluded": [
+    "custody keys/fingerprints and signed recovery files",
+    "runtime databases/network configs/binaries/caches",
+    "repeated source/build copies"
+  ],
+  "credential_scan": "PASS known credential encodings absent"
+}

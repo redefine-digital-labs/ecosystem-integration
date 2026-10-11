@@ -1,0 +1,28 @@
+{
+  "result": "PASS",
+  "scope": "public source/evidence recovery checkpoint, not activation or release",
+  "primary_current_unchanged": true,
+  "repositories": [
+    {
+      "repository": "ecosystem-integration",
+      "source_commit": "e7c529977c083a1271a68b3e9f0e3f3eb3f210d6",
+      "public": true,
+      "main_exact": true,
+      "actions_enabled": false,
+      "tree_files": 64,
+      "tree_exact": true,
+      "downloaded_archive_sha256": "d9103bc8e8fa90f2dadeae1a0d0e8c87802ac39df640c3dce164fdfdfb38fe24",
+      "downloaded_members_exact": 8877
+    },
+    {
+      "repository": "soul-sdk",
+      "source_commit": "8434e6a55a11527e144873744e072f1d5ba19686",
+      "public": true,
+      "main_exact": true,
+      "actions_enabled": false,
+      "tree_files": 1180,
+      "tree_exact": true,
+      "downloaded_candidate_files_exact": 402
+    }
+  ]
+}

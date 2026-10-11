@@ -1,0 +1,19 @@
+{
+  "result": "PASS",
+  "candidate_files": 33,
+  "markdown_files": 28,
+  "module_json_files": 5,
+  "translated_json_string_leaves": 323,
+  "untranslated_cases": [],
+  "checks": [
+    "All 33 source files retain original SHA256",
+    "All 33 staged files match manifest SHA256",
+    "All translated content contains zero Han codepoints",
+    "Markdown links, inline code, fenced blocks and numeric sequences unchanged",
+    "JSON keys, types, array order and all non-Han string leaves unchanged",
+    "Changed JSON leaves preserve numeric sequences, URLs and inline code"
+  ],
+  "handbook": "v1.0 sections 1-4, 9 and 12 read; documentation-only translation scope; original authority and acceptance records preserved",
+  "exclusions": "Historical evidence, frozen inputs, nested documents and record registry left untouched",
+  "installation": "Parent coordinator only; no source installation performed"
+}

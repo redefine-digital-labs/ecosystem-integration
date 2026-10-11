@@ -1,0 +1,207 @@
+{
+  "authorization": "Human explicitly authorized public/open-source GitHub repositories and English materials in current turn",
+  "organization": "redefine-digital-labs",
+  "visibility": "public",
+  "repositories": [
+    {
+      "isPrivate": false,
+      "name": "soul-sdk",
+      "url": "https://github.com/redefine-digital-labs/soul-sdk",
+      "module": "SDK",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "49cd6610d8ba54a968cb2f65197c5ef64b5e1f76",
+      "remote_main_sha": "49cd6610d8ba54a968cb2f65197c5ef64b5e1f76",
+      "tracked_files": 398,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-soul-sdk",
+        "channel_id": "C0C8A2PUCLE",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2PUCLE"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "ecosystem-devops",
+      "url": "https://github.com/redefine-digital-labs/ecosystem-devops",
+      "module": "DEVOPS",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "a1763f932fbc2c5895fc3580d1d552e276a8beb0",
+      "remote_main_sha": "a1763f932fbc2c5895fc3580d1d552e276a8beb0",
+      "tracked_files": 105,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-devops",
+        "channel_id": "C0C8A2QMXCN",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2QMXCN"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "ecosystem-integration",
+      "url": "https://github.com/redefine-digital-labs/ecosystem-integration",
+      "module": "INTEGRATION",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "addb4ca5a8284e166218cd50a2c04217ef79a9d7",
+      "remote_main_sha": "addb4ca5a8284e166218cd50a2c04217ef79a9d7",
+      "tracked_files": 39,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-integration",
+        "channel_id": "C0C7WL06UH5",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C7WL06UH5"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-standard",
+      "url": "https://github.com/redefine-digital-labs/soul-standard",
+      "module": "STANDARD",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "04d8e39bece74ac1ae3a82bbbacb64254f99db12",
+      "remote_main_sha": "04d8e39bece74ac1ae3a82bbbacb64254f99db12",
+      "tracked_files": 27,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-soul-standard",
+        "channel_id": "C0C8DVCANBB",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8DVCANBB"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-content",
+      "url": "https://github.com/redefine-digital-labs/soul-content",
+      "module": "CONTENT",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "dd7c241e163d605a3cbb77030a4318af1c12fa93",
+      "remote_main_sha": "dd7c241e163d605a3cbb77030a4318af1c12fa93",
+      "tracked_files": 1037,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-soul-content",
+        "channel_id": "C0C8DVC67GR",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8DVC67GR"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-community",
+      "url": "https://github.com/redefine-digital-labs/soul-community",
+      "module": "COMMUNITY",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "0d5dfffdff3d9c5563dc3b869d093145d1978c0b",
+      "remote_main_sha": "0d5dfffdff3d9c5563dc3b869d093145d1978c0b",
+      "tracked_files": 33,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-community",
+        "channel_id": "C0C85QEGHMZ",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C85QEGHMZ"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "maker-protocol",
+      "url": "https://github.com/redefine-digital-labs/maker-protocol",
+      "module": "MAKER",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "f4bd895811ad098c676aed7e52912f0ff2919f0c",
+      "remote_main_sha": "f4bd895811ad098c676aed7e52912f0ff2919f0c",
+      "tracked_files": 1948,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-maker",
+        "channel_id": "C0C8A2Q699U",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8A2Q699U"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-channel",
+      "url": "https://github.com/redefine-digital-labs/soul-channel",
+      "module": "CHANNEL",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "db2b2172dded0565fb89cf842885f6e5751dbdfc",
+      "remote_main_sha": "db2b2172dded0565fb89cf842885f6e5751dbdfc",
+      "tracked_files": 18,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-channel",
+        "channel_id": "C0C8BS4EV8A",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8BS4EV8A"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "isPrivate": false,
+      "name": "soul-market",
+      "url": "https://github.com/redefine-digital-labs/soul-market",
+      "module": "MARKET",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "808763e9c68c59ad6591cb42666e075e3d6c52ab",
+      "remote_main_sha": "808763e9c68c59ad6591cb42666e075e3d6c52ab",
+      "tracked_files": 75,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-market",
+        "channel_id": "C0C96CV2PRN",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C96CV2PRN"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    },
+    {
+      "name": "soul-extensions",
+      "url": "https://github.com/redefine-digital-labs/soul-extensions",
+      "isPrivate": false,
+      "module": "EXTENSIONS",
+      "actions_enabled": false,
+      "code_pushed": true,
+      "commit": "2190f8dc4acec34355adb14d94bbf33cc0ddec6c",
+      "remote_main_sha": "2190f8dc4acec34355adb14d94bbf33cc0ddec6c",
+      "tracked_files": 89,
+      "remote_tree_verified": true,
+      "slack": {
+        "name": "mod-extensions",
+        "channel_id": "C0C8BS4S466",
+        "team_id": "T08LQTJFZRS",
+        "is_private": true,
+        "url": "https://sega-xya5661.slack.com/archives/C0C8BS4S466"
+      },
+      "commit_scope": "Verified source checkpoint; later coordination-only commits may follow."
+    }
+  ]
+}

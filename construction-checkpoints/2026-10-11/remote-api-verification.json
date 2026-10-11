@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ecosystem-devops",
+    "status": "PASS",
+    "commit": "a1763f932fbc2c5895fc3580d1d552e276a8beb0",
+    "remote_main_sha": "a1763f932fbc2c5895fc3580d1d552e276a8beb0",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 105,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/ecosystem-devops"
+  },
+  {
+    "name": "ecosystem-integration",
+    "status": "PASS",
+    "commit": "addb4ca5a8284e166218cd50a2c04217ef79a9d7",
+    "remote_main_sha": "addb4ca5a8284e166218cd50a2c04217ef79a9d7",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 39,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/ecosystem-integration"
+  },
+  {
+    "name": "soul-sdk",
+    "status": "PASS",
+    "commit": "49cd6610d8ba54a968cb2f65197c5ef64b5e1f76",
+    "remote_main_sha": "49cd6610d8ba54a968cb2f65197c5ef64b5e1f76",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 398,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-sdk"
+  },
+  {
+    "name": "soul-standard",
+    "status": "PASS",
+    "commit": "04d8e39bece74ac1ae3a82bbbacb64254f99db12",
+    "remote_main_sha": "04d8e39bece74ac1ae3a82bbbacb64254f99db12",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 27,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-standard"
+  },
+  {
+    "name": "soul-community",
+    "status": "PASS",
+    "commit": "0d5dfffdff3d9c5563dc3b869d093145d1978c0b",
+    "remote_main_sha": "0d5dfffdff3d9c5563dc3b869d093145d1978c0b",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 33,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-community"
+  },
+  {
+    "name": "soul-content",
+    "status": "PASS",
+    "commit": "dd7c241e163d605a3cbb77030a4318af1c12fa93",
+    "remote_main_sha": "dd7c241e163d605a3cbb77030a4318af1c12fa93",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 1037,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-content"
+  },
+  {
+    "name": "soul-channel",
+    "status": "PASS",
+    "commit": "db2b2172dded0565fb89cf842885f6e5751dbdfc",
+    "remote_main_sha": "db2b2172dded0565fb89cf842885f6e5751dbdfc",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 18,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-channel"
+  },
+  {
+    "name": "soul-market",
+    "status": "PASS",
+    "commit": "808763e9c68c59ad6591cb42666e075e3d6c52ab",
+    "remote_main_sha": "808763e9c68c59ad6591cb42666e075e3d6c52ab",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 75,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-market"
+  },
+  {
+    "name": "maker-protocol",
+    "status": "PASS",
+    "commit": "f4bd895811ad098c676aed7e52912f0ff2919f0c",
+    "remote_main_sha": "f4bd895811ad098c676aed7e52912f0ff2919f0c",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 1948,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/maker-protocol"
+  },
+  {
+    "name": "soul-extensions",
+    "status": "PASS",
+    "commit": "2190f8dc4acec34355adb14d94bbf33cc0ddec6c",
+    "remote_main_sha": "2190f8dc4acec34355adb14d94bbf33cc0ddec6c",
+    "public": true,
+    "actions_enabled": false,
+    "tracked_files": 89,
+    "remote_tree_verified": true,
+    "url": "https://github.com/redefine-digital-labs/soul-extensions"
+  }
+]

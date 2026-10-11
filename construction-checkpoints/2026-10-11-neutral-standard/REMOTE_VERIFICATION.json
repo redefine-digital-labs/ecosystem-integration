@@ -1,0 +1,17 @@
+{
+  "status": "PASS_FRESH_PUBLIC_RECOVERY",
+  "commit": "28d2f09716b0c14168b267bcd6182ac6aab4dede",
+  "archive_sha256": "0d30e8748e2759ba91094ea9eb29d2a068ba202e7c18ef539a50810be89cc6ae",
+  "archive_bytes": 11081871,
+  "member_count": 5102,
+  "all_member_sha_length_mode_exact": true,
+  "complete_git_tree_equal": true,
+  "remote_main_equal": true,
+  "private_initialization_logs_excluded": 0,
+  "public": true,
+  "actions_enabled": false,
+  "local_clean": true,
+  "primary_current_unchanged": true,
+  "verified_utc": "2026-10-11T10:31:43.834907+00:00",
+  "scope": "Reviewed neutral Standard source/evidence recovery; actual source unchanged and activation held/full157/30 active"
+}

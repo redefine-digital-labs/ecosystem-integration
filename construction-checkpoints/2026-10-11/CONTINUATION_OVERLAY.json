@@ -1,0 +1,18 @@
+{
+  "CURRENT.md": {
+    "target": "docs/codex/CURRENT.md",
+    "sha256": "b2e238eed4792a7c20b0de67a4c8c7e9933d1435dae2262ac774472426e38512"
+  },
+  "PROJECT_MEMORY.md": {
+    "target": "docs/codex/PROJECT_MEMORY.md",
+    "sha256": "265d2361b8e5d0567a5a494ace4cc0334bbbe463c4926fc5854f3b05d21873c9"
+  },
+  "20261011-public-english-repository-backup-verified.md": {
+    "target": "docs/codex/handoffs/20261011-public-english-repository-backup-verified.md",
+    "sha256": "34f08cafe847285532ecb7ef8a49db69e7bc7c7e797698292d72114b2c507d79"
+  },
+  "REMOTE_BACKUP.md": {
+    "target": "docs/ecosystem-construction/REMOTE_BACKUP.md",
+    "sha256": "81d86a64c23bdd3ad9ec4c1895e58f1144acde5258f2a9068a01ee3eaf8337e4"
+  }
+}

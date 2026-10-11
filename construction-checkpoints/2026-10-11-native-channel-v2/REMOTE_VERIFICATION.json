@@ -1,0 +1,17 @@
+{
+  "status": "PASS_FRESH_PUBLIC_RECOVERY",
+  "commit": "b0153e3212f5813193733426c848c6b6877904d9",
+  "archive_sha256": "d53d8416b2f7660f951ee03a92e083f11eae13c6fcffd17ef024ff350a0623ba",
+  "archive_bytes": 15714637,
+  "member_count": 6204,
+  "all_member_sha_length_mode_exact": true,
+  "complete_git_tree_equal": true,
+  "remote_main_equal": true,
+  "private_initialization_logs_excluded": 0,
+  "public": true,
+  "actions_enabled": false,
+  "local_clean": true,
+  "primary_current_unchanged": true,
+  "verified_utc": "2026-10-11T10:23:59.727198+00:00",
+  "scope": "Reviewed Native/Core migration and Channel real-producer v2 source/evidence backup; actual activation held/full157/30 active"
+}

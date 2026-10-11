@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "candidate_files": 380,
+  "archive_members": 1737,
+  "credential_or_keyfile_or_oversize_findings": [],
+  "network_or_signature_execution": false
+}

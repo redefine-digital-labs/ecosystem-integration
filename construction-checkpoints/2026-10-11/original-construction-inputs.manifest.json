@@ -1,0 +1,32 @@
+{
+  "archive": "original-construction-inputs.tar.gz",
+  "archive_sha256": "811d419aad3869c9a8ffdd45e98673675afe0a172c679ef84c571366639365cf",
+  "file_count": 22,
+  "uncompressed_bytes": 1014690,
+  "archive_bytes": 257587,
+  "member_sha256": {
+    "agent-management/OPERATING_MODEL.md": "183dd9414229552d5be72e8077503109b48edb6008d6661eaf336c9475a4af43",
+    "agent-management/PRODUCT_ENGINEERING_HANDBOOK_CN.md": "1972858dffa38006f1d3784bcaca9370c52bdebade730b20bb0294b42125ec95",
+    "agent-management/templates/ai-work-item.json": "5a4da0edb16057f4d2428c1242a2c3c09f856950c2e093e7e4b2eb088fb6f4cc",
+    "agent-management/templates/creator-run.md": "703e29be5ac58658507944fe31bd1d8dedc17797bd77bcb6768b43032bd7194c",
+    "agent-management/templates/product-engineering-review.md": "7f2fe8662fdd052a37e21968b8a4e3beb8bca44b51f573955e4b92163b5f1f47",
+    "docs/SOULIDITY_ASSET_STANDARD_CN.md": "9a4359a6f9b6c6e1da37dcbdd7a62848d3cc8b6f1d89402cc317f999e63e51b6",
+    "docs/SOULIDITY_CONSTRUCTION_HANDOFF_CN.md": "3d25032720ef9addbcf15608ed9c2b50e70aa764c4f627a042e9d8e11b862b86",
+    "docs/SOULIDITY_CONTRACT_MODULES_AND_PERMISSION_BOUNDARIES_CN.md": "69562cc9099980bf56342963dc3c1c19df182ace0b530565cd9c58af19fb28c6",
+    "docs/SOULIDITY_ECOSYSTEM_CN.md": "b1ebfc044c3e995541eb8f1fb7a62b3a6be396656e2960510581b3448f6f0082",
+    "docs/SOULIDITY_ECOSYSTEM_EN.md": "4b2e0b4f8651b1697604ad0410f03ce94522d21e1c6ef06d09aa9bb2e508b969",
+    "docs/SOULIDITY_ECOSYSTEM_MODULARIZATION_SPEC_CN.md": "23e089e0ea125d0d20c93d710cd826b3ff471efae61d1d4d4f892e5ff667453c",
+    "docs/SOULIDITY_OPEN_ECOSYSTEM_RD_ADDENDUM_CN.md": "7ad2421deb7600d225d1d79dcbf10546358ddf4b95dcefef3be72cbb7b773166",
+    "docs/SOULIDITY_PROBLEM_PRODUCT_ARCHITECTURE_CN.md": "c80434b0140c757b62483faf76e94a837648c076ac48c069bfcc1f187d6b31a3",
+    "docs/open-ecosystem/CONSTRUCTION_BOUNDARY_DECISIONS_CN.md": "346221de1a485161d43ac03b057d65008dad12ac528842fdb9bd1ce970970939",
+    "docs/open-ecosystem/ENTRY_PERMISSION_DEPENDENCY_MATRIX_CN.md": "db448d232c80239658998275b75913f7286e9127fd2f1e0c76395b4ddaf1360c",
+    "docs/open-ecosystem/INTEROPERABILITY_CASES.json": "e0deee9d25a4cc8529d80da7358da5c2b97c45ffb8d47a923671fefb42cc533b",
+    "docs/open-ecosystem/INTEROPERABILITY_CASES_CN.md": "bf7022555cfcdc5c6ca1c2adb9b1b0af3c3dddeffa9fd9e8a2f13563ae636010",
+    "docs/open-ecosystem/MODULE_DELIVERY_PLAN.json": "d5a29cced52ca873bfc63330f8bb1dad09c7966d8dc7c0c192ceb17d3146febb",
+    "docs/open-ecosystem/MODULE_INTEROPERABILITY_CONTRACTS.json": "4d1db51a912726e88299453115673365a13587f823e3d6387a5d460dd63952fc",
+    "docs/open-ecosystem/OBJECTS_AND_RIGHTS_CN.md": "849ae408189fc4683f909bb10c8ba335198e5a6b6ce08dcdcb147ddee6a810d3",
+    "docs/open-ecosystem/ORIGINAL_SCOPE_TRACE.json": "f60284b600712201b972a23a6582ddd2e01c127d8759e5dc8d51d4c473c42110",
+    "docs/open-ecosystem/STATE_TRANSITIONS_AND_RECOVERY_CN.md": "48133a7df77d7689f9db2efd0f35921a3ba3baa0ea031f60d3f33a9c76d0da61"
+  },
+  "verification": "PASS archive roundtrip; original bytes preserved"
+}
