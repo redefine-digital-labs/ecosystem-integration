@@ -25,3 +25,5 @@ The initial port22 SSH connections stalled; the HTTPS OAuth token could not writ
 ## Completed remote backup
 
 All10 public source checkpoints were verified against local commit IDs and remote tree paths. A fresh remote clone passed every archive/member SHA256 check. See [repository and channel index](REMOTE_BACKUP.md), [verification receipts](remote-api-verification.json) and [restore smoke receipt](remote-restore-smoke.json). Source-checkpoint commit IDs precede this coordination record; later coordination commits do not change those source identities. Restore the latest plain CURRENT.md and the handoff into their original docs/codex locations after source extraction. The full refactor remains in progress.
+
+For automatic isolated source/evidence recovery, run `python3 restore_checkpoint.py /absolute/path/to/a/new/directory`. The tool verifies all archive/member hashes, refuses an existing destination, keeps candidate graphs separate, and applies the latest English continuation records. It does not activate candidates, restore secrets or execute product transactions.
