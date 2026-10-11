@@ -1,0 +1,10 @@
+{
+  "backup_fixture": "PASS source bytes, SQL, symlinks, credential exclusion, parentless snapshots and working branch/index/config preserved",
+  "chain_operations": 0,
+  "fixture_script_sha256": "3044292e701cebc48c1aa24b762d36966acf4da15c83bd7ba0dd4058341907e5",
+  "production_operations": 0,
+  "recipient_machine_executed": false,
+  "restore_fixture": "PASS clone, verify, prepare, core.symlinks override, owner directory and file links, archive hashes, local manifest relocation, receipt, overlap and drift refusal; readonly0444 manifest permission preservation and frozen historical evidence unchanged PASS",
+  "restore_script_sha256": "d4c1152017bd5b8679bd6a3462cc36ebbc171c984c75970bab0252e9d485ee2f",
+  "schema": 1
+}

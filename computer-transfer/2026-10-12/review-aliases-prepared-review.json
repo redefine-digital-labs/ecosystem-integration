@@ -1,0 +1,8 @@
+{
+  "alias_manifest_sha256": "89035d621dbcead900e6bcc6a70a58373fd2823cbe686ebc9a130832841c3e8d",
+  "selected_alias_count": 27,
+  "reviewed_alias_count": 27,
+  "findings": [],
+  "status": "PASS_OWNER_TARGET_COVERAGE",
+  "relocation_execution": "NOT_PERFORMED"
+}

@@ -1,0 +1,24 @@
+{
+  "acceptance": "PASS_SCOPED_INITIAL_PUBLIC_SOURCE_BACKUP",
+  "plan_sha256": "9ada78938fa2350e54b75fbaffb405af6c28618471b1b0fdb7f0a346360c43c0",
+  "script_sha256": "a2ce5e423f2f6aa2a385386747bf8ded98f0ef777bbb044f4c0805ee2ba8723b",
+  "repository_count": 14,
+  "selected_files": 8921,
+  "selected_bytes": 543852084,
+  "selected_file_hash_mismatches": [],
+  "additional_publication_pattern_candidates": [],
+  "git_sideeffects_review": "PASS_DESIGN: empty alternate indexes, parentless commit-tree, distinct ACT/PRIMARY backup refs, protected HEAD/branch/index/config checks, exact remote OIDs, per-repository receipts",
+  "transfer_restoration_acceptance": "PENDING: relocation and private/offline artifact manifest; destination checks not performed",
+  "post_execution_acceptance": "PENDING exact snapshot trees, remote OIDs and physical protected-state check",
+  "product_release_acceptance": false,
+  "source640_reference": {
+    "public_authored_inputs_covered": 231,
+    "excluded_dependency_cache_inputs": 409,
+    "authored_current_vs_H1_drifts_observed": 0,
+    "h1_readback_sha256": "3439819cf5bdee7e1c03f5cefcf1e78348df81e9e3f699ce37483a21abb8fd6e",
+    "does_not_certify_current_builds": true
+  },
+  "credential_exclusions_preserved": true,
+  "retained_inherited_archives": "Existing tracked public evidence; no newly untracked opaque archives selected",
+  "full_goal_complete": false
+}

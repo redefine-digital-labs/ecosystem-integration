@@ -1,0 +1,6 @@
+{
+  "status": "PASS_RELOCATED_CURRENT_SOURCE_LOCAL_MANIFEST_COVERAGE",
+  "checked_local_dependency_edges": 174,
+  "missing_target_manifests": [],
+  "does_not_certify_builds": true
+}

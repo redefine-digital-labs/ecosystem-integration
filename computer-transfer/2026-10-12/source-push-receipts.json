@@ -1,0 +1,106 @@
+{
+  "initial_checkpoints": [
+    {
+      "commit": "5f729e2278acbadd917623b693373c824219c472",
+      "id": "ecosystem-devops",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "5f729e2278acbadd917623b693373c824219c472",
+      "verified": true
+    },
+    {
+      "commit": "4200f1bcbc839854bfa6cae8ca4551d84f1dcda0",
+      "id": "ecosystem-integration",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "4200f1bcbc839854bfa6cae8ca4551d84f1dcda0",
+      "verified": true
+    },
+    {
+      "commit": "62047b6f84034077f815ae17468a541377eb0c44",
+      "id": "maker-protocol",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "62047b6f84034077f815ae17468a541377eb0c44",
+      "verified": true
+    },
+    {
+      "commit": "92b4cb19d884c2ce8b696d262d2095f5c96297df",
+      "id": "soul-channel",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "92b4cb19d884c2ce8b696d262d2095f5c96297df",
+      "verified": true
+    },
+    {
+      "commit": "69c71390c9988aa7196cf55c785f9e30e1db0fba",
+      "id": "soul-community",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "69c71390c9988aa7196cf55c785f9e30e1db0fba",
+      "verified": true
+    },
+    {
+      "commit": "80e7e3a305a8d09744a4b76cefdde17f405bccc1",
+      "id": "soul-content",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "80e7e3a305a8d09744a4b76cefdde17f405bccc1",
+      "verified": true
+    },
+    {
+      "commit": "6fdf9c79d09bb38f0f8fd78cee01edc6d5857304",
+      "id": "soul-extensions",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "6fdf9c79d09bb38f0f8fd78cee01edc6d5857304",
+      "verified": true
+    },
+    {
+      "commit": "779d0124aba654e0150cbb57127a20364ff331f9",
+      "id": "soul-market",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "779d0124aba654e0150cbb57127a20364ff331f9",
+      "verified": true
+    },
+    {
+      "commit": "25616aaaf3b9fdb2e441fbacdee746577242fafb",
+      "id": "soul-sdk",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "25616aaaf3b9fdb2e441fbacdee746577242fafb",
+      "verified": true
+    },
+    {
+      "commit": "ce4c11e8d9ed3f16c59928090e2648c2a6d2d2a0",
+      "id": "soul-standard",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "ce4c11e8d9ed3f16c59928090e2648c2a6d2d2a0",
+      "verified": true
+    },
+    {
+      "commit": "e3cd2e055b148631ab25999539efb975cd0b1493",
+      "id": "soulidity-contracts",
+      "ref": "refs/heads/codex/contracts-backup-20261012",
+      "remote_sha": "e3cd2e055b148631ab25999539efb975cd0b1493",
+      "verified": true
+    },
+    {
+      "commit": "291e40072dce5751d3755c59a3cd75297e88eaed",
+      "id": "soulidity-primary",
+      "ref": "refs/heads/codex/primary-backup-20261012",
+      "remote_sha": "291e40072dce5751d3755c59a3cd75297e88eaed",
+      "verified": true
+    },
+    {
+      "commit": "ffae5325abe8cc53cbc08330e40aa9428bb719ce",
+      "id": "animacraft-retained",
+      "ref": "refs/heads/codex/retained-backup-20261012",
+      "remote_sha": "ffae5325abe8cc53cbc08330e40aa9428bb719ce",
+      "verified": true
+    },
+    {
+      "commit": "e4c30292f95e06cb643ea035fa4831c1f27ac6e4",
+      "id": "soulidity-docs",
+      "ref": "refs/heads/codex/backup-20261012",
+      "remote_sha": "e4c30292f95e06cb643ea035fa4831c1f27ac6e4",
+      "verified": true
+    }
+  ],
+  "original_goal_complete": false,
+  "production_and_chain_operations": 0,
+  "public_repositories": 13,
+  "workspace_snapshots": 14
+}

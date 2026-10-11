@@ -1,0 +1,324 @@
+{
+  "aliases": [
+    {
+      "automatic_relocation": true,
+      "original_target": "../move/soulidity_content",
+      "owner_path": "move/soulidity_content",
+      "owner_repository": "soul-content",
+      "path": "packages/soulidity_content",
+      "repository": "soul-content",
+      "target_directory_files": {
+        "Move.lock": "5ba135775ea05af1cdd882b277fcfa089d7d1b03353d18e28e63debde5b34106",
+        "Move.toml": "c3ce867952d303ac1be39816beb421db52993633516641bbd471292a38babf66",
+        "sources/authority.move": "72b14a54093a542ffc065553920481cdffc3383eb6cb2f7d05f36c2355e97bfe",
+        "sources/authorization.move": "e1e337cd3e940f26f5eabad5c0fd486b192a0b6cf8327688c62e91ff310cb0dd",
+        "sources/blob_custody.move": "1447a6f39ccf33c82fd83af6e4ee9cddd3036ec024bfd24cdc7d1fb0b200824f",
+        "sources/document.move": "5b721c5d750a755803f5b14194668363e61b6ed772f7434f942501e02fdf2588",
+        "sources/kind_registry.move": "f23a055a01655eb569c897dd1cf6432890c9d98990cd8e2b13157a7e02355351",
+        "sources/paged_store.move": "fec24b0d8158143b4949ad36c745e14ce5c167f558f0a176afa4fcc67165920d",
+        "sources/paid_access.move": "d741d6522a4758315fbd1ffb506cf4e589008904cb82ceb610956730bec62ae9",
+        "sources/permissions.move": "ca7f784a35545193e0d10379178de806c9038594329d94bcfce1a1ea226f3937",
+        "sources/storage.move": "12b70f87ebd1d3868aac2c72e5b13417f6ce27579ed60b156486e6de2eee8963",
+        "tests/capacity_tests.move": "bacbacfad4c7374de8f2d8628e3bde68f1a4a6c1f832a77f8f736c623cb3517d",
+        "tests/fixtures.move": "03069a202fde6843b7e045bc0b8226128cc09b0b2a53bace0e1079a065f56bb6",
+        "tests/storage_epoch_tests.move": "3a2b05155c33d23b19094908f52446ff715a6f31428ff38bb7841784e445e0c8",
+        "tests/storage_fixture.move": "218fa3214c27e2db02b7518f64bc0bd6cee41bca093feecdcc4c5fc61b5928ac"
+      },
+      "target_file_sha256": null
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-community/move/soulidity_community",
+      "owner_path": "move/soulidity_community",
+      "owner_repository": "soul-community",
+      "path": "move/soulidity_community",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {
+        "Move.lock": "a450cc955bd5044c58c408a21f5ac773a7d205693df5eb0dd39deb237f33f441",
+        "Move.toml": "c46979c2490ec1523d2164561725088470ebb1e9cb970d8d27a8345a4a18af8c",
+        "sources/community_posts.move": "993255715aa8e0c4508d59995ff04d8928f2496c0b2fcdcce2b26184ecb426da",
+        "sources/community_votes.move": "31c7cfa43ff8ef823911a6568ad11904811ed99d4dacfb8522c963eb98e6a4c9",
+        "sources/profile.move": "b8fff3b0145e8697902a35f7069451a0986d54fc63d16d8096145c815f633aee",
+        "sources/social.move": "deece68caa07ef6d925093ebb716c98a536b1bdbd6ac5be0257cc713d6dd28fd",
+        "tests/original_community_posts_tests.move": "e06e147264bc157fb3740e84a9c225c2327aa73bce49681beb3e31d265f9d2ce",
+        "tests/original_community_votes_tests.move": "177b25f0d0742d418c1c889b32273e140854a4668f3ecbbcbaeeff7c35360290",
+        "tests/original_social_tests.move": "ffc533db4200e7788fcc4362578e7fedcd3fcf6b39c3e92240324424b2709a27",
+        "tests/private_bookmarks_tests.move": "3026299317a56ead1d0725ba99fe8a6b67a4d14bcdf8f2344035cfb021e6be54",
+        "tests/profile_tests.move": "9b43f04106be2595cfcddb15420abb6266c6155a2f2909a7c79c9644a85200fc"
+      },
+      "target_file_sha256": null
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/authority.move",
+      "owner_path": "move/soulidity_content/sources/authority.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/authority.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "72b14a54093a542ffc065553920481cdffc3383eb6cb2f7d05f36c2355e97bfe"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/authorization.move",
+      "owner_path": "move/soulidity_content/sources/authorization.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/authorization.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "e1e337cd3e940f26f5eabad5c0fd486b192a0b6cf8327688c62e91ff310cb0dd"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/blob_custody.move",
+      "owner_path": "move/soulidity_content/sources/blob_custody.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/blob_custody.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "1447a6f39ccf33c82fd83af6e4ee9cddd3036ec024bfd24cdc7d1fb0b200824f"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/document.move",
+      "owner_path": "move/soulidity_content/sources/document.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/document.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "5b721c5d750a755803f5b14194668363e61b6ed772f7434f942501e02fdf2588"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/kind_registry.move",
+      "owner_path": "move/soulidity_content/sources/kind_registry.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/kind_registry.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "f23a055a01655eb569c897dd1cf6432890c9d98990cd8e2b13157a7e02355351"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/paged_store.move",
+      "owner_path": "move/soulidity_content/sources/paged_store.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/paged_store.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "fec24b0d8158143b4949ad36c745e14ce5c167f558f0a176afa4fcc67165920d"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/paid_access.move",
+      "owner_path": "move/soulidity_content/sources/paid_access.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/paid_access.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "d741d6522a4758315fbd1ffb506cf4e589008904cb82ceb610956730bec62ae9"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/permissions.move",
+      "owner_path": "move/soulidity_content/sources/permissions.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/permissions.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "ca7f784a35545193e0d10379178de806c9038594329d94bcfce1a1ea226f3937"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-content/move/soulidity_content/sources/storage.move",
+      "owner_path": "move/soulidity_content/sources/storage.move",
+      "owner_repository": "soul-content",
+      "path": "move/soulidity_content/sources/storage.move",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "12b70f87ebd1d3868aac2c72e5b13417f6ce27579ed60b156486e6de2eee8963"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-extensions/move/soulidity_model",
+      "owner_path": "move/soulidity_model",
+      "owner_repository": "soul-extensions",
+      "path": "move/soulidity_model",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {
+        "Move.lock": "ab4634f66e7d9216d4bf20ebf010867ad1d9cbb7e629607c3061b4d740e76dcd",
+        "Move.toml": "2d50b2c0537d2b8496e7d0195001310054bf625aaf69a38d6f8513cfc372c825",
+        "sources/assembly.move": "cd21e50df4cc47a8c204cac2e526d2a38b73db72a06a60c690fb69fb2b3064fe",
+        "sources/components.move": "fc0fd1db722bcfdc25b793e545c7bcd35c9b0aaa3f6e7e6fa0f76e1b04bc4fa5",
+        "sources/material_policy.move": "d3c40174c015a92567fb51965ee6691bb6586dbf1c23823994e9785607322448",
+        "sources/policy.move": "78654d1cd083c0a85f9d9de5b36b0bbd8bab595e1d85fcc4ca534ebff51a7614"
+      },
+      "target_file_sha256": null
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-standard/move/soulidity_standard",
+      "owner_path": "move/soulidity_standard",
+      "owner_repository": "soul-standard",
+      "path": "move/soulidity_standard",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {
+        "Move.lock": "fd95117eab9a3451f37f5db8a826bf76d16414d8c149cc203e096efe1edbdc44",
+        "Move.toml": "8e84cff24790b041a8e251518f239b20492bd3edf0abef8c4a6584ae07ee2709",
+        "sources/native_authority.move": "0f73133791befd474c285fe6393450ddd3a2ecd25c0ac94f7145569f695ef859",
+        "sources/soul.move": "de7d848e9ec9d1c9c033782ff899b0c8fd5bccf0424d159a58620b2bb886c6cf",
+        "tests/creation_boundary_tests.move": "9c9d93d8e7ada14b853ced122af0ceaf0cafd0bf9acc24a241368abbd96e49c1",
+        "tests/foreign.move": "682c688b8aa9554add1406f196ede1fcf8fa6fbf8c63738763f274d90a2a23c3",
+        "tests/history_tests.move": "b0ac6eabc8a2957ae2085e2f0db3fc74233a8ffe17798ee4b69935c59df24f2e",
+        "tests/kernel_tests.move": "11beceb9d2630d2bf19b77945509b8714b978785e51fe0bde29fc46aec7622fa",
+        "tests/publisher_tests.move": "ae21ca40d946a410072d9ea18c8bf801ac19a4f2d773b558708c7c6cb4aa0540"
+      },
+      "target_file_sha256": null
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-extensions/move/soulidity_visual",
+      "owner_path": "move/soulidity_visual",
+      "owner_repository": "soul-extensions",
+      "path": "move/soulidity_visual",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {
+        "Move.lock": "0c9cdce18044b83bde071e8c715c6cebdf60d8ab4768474e53d6f2acc6aea86e",
+        "Move.toml": "1979bbf2ee74ffe0d2ea705e772ee8dc8a4c2e2672751fbb5c93819cca348a70",
+        "sources/visual.move": "9240f2ef85506b38761afd5c801d1c7c4104a2ca3a4aac86f2e183ad9e433751"
+      },
+      "target_file_sha256": null
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/chain-event-discovery.ts",
+      "owner_path": "packages/sui-core/src/chain-event-discovery.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/chain-event-discovery.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "ce7c1459a0d41fa131922b61f1981119bc959f0281aa30a1a65a007adcc6d4fc"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/chain-object-discovery.ts",
+      "owner_path": "packages/sui-core/src/chain-object-discovery.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/chain-object-discovery.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "ad994bae13816b4fa664de0c90c248162e9f1a3a0acedc3b128dc91b6a3673ac"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/coin-selection.ts",
+      "owner_path": "packages/sui-core/src/coin-selection.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/coin-selection.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "e12d46df8ab16ba09cfb463b7296564bc8572b0cec3f30d2aea4e51046ed2205"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/format.ts",
+      "owner_path": "packages/sui-core/src/format.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/format.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "d893291bf00e9df8002a9c150e912c7c8919eef02eb228f8b7d34afbc0a32178"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/object-inputs.ts",
+      "owner_path": "packages/sui-core/src/object-inputs.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/object-inputs.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "3e79b4b7f0fe8896ca068ecbebb6b2b6798d15581253a2ffbff7db335c6a211e"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/profile-read-step.ts",
+      "owner_path": "packages/sui-core/src/profile-read-step.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/profile-read-step.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "5cb92ab24d9d9cf2ecfde1fa3054bf4464e52ae364e7852a2fd3c7e91151cacf"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/request.ts",
+      "owner_path": "packages/sui-core/src/request.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/request.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "bd05820378ad1af616b7bdc37e009b1c6368ff638d6b542fab92b272959c1bc6"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/sui-grpc-compat.ts",
+      "owner_path": "packages/sui-core/src/sui-grpc-compat.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/sui-grpc-compat.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "872ea5e92d3c5931e7cf7abad2b55ccec245c7e9160c7482e33542b0611b62f2"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/sui-network.ts",
+      "owner_path": "packages/sui-core/src/sui-network.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/sui-network.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "a1340afe9fc97b180826d730878222015b6a05ecdbb226c96aad9f8ac8906aa8"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "../../../../../../../Documents/Claude/Projects/soulidity-ecosystem/soul-sdk/packages/sui-core/src/tx-result.ts",
+      "owner_path": "packages/sui-core/src/tx-result.ts",
+      "owner_repository": "soul-sdk",
+      "path": "packages/soulidity-sdk/src/tx-result.ts",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "4e407919fc199aac953d36cf000b1a328b722139c95c76ab58a5313359b0f48b"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/ecosystem-devops/tools/repository-extraction/build_repository_packages.py",
+      "owner_path": "tools/repository-extraction/build_repository_packages.py",
+      "owner_repository": "ecosystem-devops",
+      "path": "scripts/ecosystem/build_repository_packages.py",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "6c7e06bfe2bf2f83b0e14317c1695f81310dd531b875829574cc2ae303247ba7"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/ecosystem-devops/tools/repository-extraction/map_repository_ownership.py",
+      "owner_path": "tools/repository-extraction/map_repository_ownership.py",
+      "owner_repository": "ecosystem-devops",
+      "path": "scripts/ecosystem/map_repository_ownership.py",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "1449dd8ce52049a240b79b9c0545d114e8da2f19426e62bd94fa5a0d19802ad5"
+    },
+    {
+      "automatic_relocation": true,
+      "original_target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/ecosystem-devops/tools/repository-extraction/split_repositories.py",
+      "owner_path": "tools/repository-extraction/split_repositories.py",
+      "owner_repository": "ecosystem-devops",
+      "path": "scripts/ecosystem/split_repositories.py",
+      "repository": "soulidity-contracts",
+      "target_directory_files": {},
+      "target_file_sha256": "581e5c274a5c46593a0a5ba11e8d9455cdb7e2a7eed4251a2b8b4b82b904c71d"
+    }
+  ],
+  "schema": 1
+}

@@ -1,0 +1,11 @@
+{
+  "accepted_readback_sha256": "3439819cf5bdee7e1c03f5cefcf1e78348df81e9e3f699ce37483a21abb8fd6e",
+  "chain_operations": 0,
+  "current_documents": {
+    "/Users/naoer/.codex/worktrees/soul-dof-v1-rebuild/soulidity/docs/codex/CURRENT.md": "f1ae4a916ed60f6d43ee9365dc90f9915bf4bb12d5775ee8d44393a622e4e6e4",
+    "/Users/naoer/Documents/Claude/Projects/soulidity/docs/codex/CURRENT.md": "2c9cf369d720f5d9319613acf020c2d236c79f3dcbf90057cddc148c39430512"
+  },
+  "current_inputs": 640,
+  "goal_complete": false,
+  "source_changes": []
+}

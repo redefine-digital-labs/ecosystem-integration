@@ -1,0 +1,37 @@
+{
+  "status": "PASS_SCOPED_PUBLIC_TRANSFER_MATERIALS",
+  "archive_sha256": "ee19604d166c24744a05f2b34f400fa19faacec36783d8a239f4486fba0efd1d",
+  "manifest_sha256": "9034e9786d9f093b8c8ba6442ba98b231db9d9ae2c830f6bf6a316eaf6833fd8",
+  "archive_bytes": 46681225,
+  "exact_archive_members": 16199,
+  "raw_member_bytes": 257744417,
+  "publication_pattern_candidates": [],
+  "unsafe_path_candidates": [],
+  "fixed409_complete": true,
+  "framework_readonly_mode0444": true,
+  "h2_payload_coverage": [
+    {
+      "target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/maker-protocol/move/soulidity_maker_soul_adapter/sources/maker_soul.move",
+      "actual_is_before": true,
+      "after_candidate_and_before_payloads_archived": true
+    },
+    {
+      "target": "/Users/naoer/Documents/Claude/Projects/soulidity-ecosystem/soul-market/scripts/market_consumer_regression_manifest.json",
+      "actual_is_before": true,
+      "after_candidate_and_before_payloads_archived": true
+    }
+  ],
+  "standard_candidate_authored_source_files_covered": 598,
+  "standard_final_v3": "FAIL_ENOSPC_RETAINED",
+  "repository_metadata_exact14": true,
+  "owner_aliases_exact27": true,
+  "restore_script_sha256": "d4c1152017bd5b8679bd6a3462cc36ebbc171c984c75970bab0252e9d485ee2f",
+  "fixture_script_sha256": "3044292e701cebc48c1aa24b762d36966acf4da15c83bd7ba0dd4058341907e5",
+  "restore_safety": "PASS_STATIC_AND_RECORDED_SYNTHETIC: owner/path boundaries, source overlap refusal, symlink override, drift refusal, atomic readonly path normalization, frozen evidence excluded from rewrite",
+  "docs_semantics": "PASS: H1 accepted local baseline; H2 not applied; final Standard v3 fail; original157/30/1528/15 Gate0/B0 open; private/recipient execution omitted; English additive continuation with unchanged CURRENT",
+  "recipient_machine_executed": false,
+  "private_chain_transfer_completed": false,
+  "product_release_completed": false,
+  "full_goal_complete": false,
+  "post_publication_additions_verification": "PENDING"
+}
