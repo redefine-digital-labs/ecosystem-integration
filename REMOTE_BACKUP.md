@@ -32,3 +32,7 @@ Historical evidence/frozen sources retain original bytes and language. Backup ex
 [Restore instructions](https://github.com/redefine-digital-labs/ecosystem-integration/tree/main/construction-checkpoints/2026-10-11). Existing soul893 SSH authentication over port443 supports push; no OAuth scope or production privilege was changed.
 
 The later [reviewed composition increment](https://github.com/redefine-digital-labs/ecosystem-integration/tree/main/construction-checkpoints/2026-10-11-composition-review) preserves Applicationf4b3 source, raw process receipts and independent review, SDK Collection composition source and independent76-test/tsc receipts, and the unexecuted Collection VM harness failure. SDK backup commit `3ef75cf2d62a47a43011cacac03a513c4b87c7dc` is public. This supersedes only the earlier SDK35-test checkpoint evidence; no candidate activation, complete VM/user-journey acceptance or deployment is claimed. All active new documents are English; frozen historical inputs remain byte exact.
+
+## 2026-10-11 independent artifact integration checkpoint
+
+[Sources and evidence](construction-checkpoints/2026-10-11-independent-artifacts-review/README.md):4,045 verified archive members. Historical Market64/64 plus3 proofs and corrected shared SDK packaging pass independent review. Separate offline artifacts cover19 roots/74 own modules with original1680 inputs unchanged; dependency IDs are synthetic fixtures. MakerPack56/57 still fails. No installation, chain publication, deployed authority or full-product release is claimed.
